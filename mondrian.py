@@ -210,12 +210,25 @@ if __name__ == '__main__':
     print(statistic)
     if not outputfile:
         outputfile = 'Anonymized_dataset.csv'
-    if type(categorical_columns) != list:
-        categorical_columns = [categorical_columns]
-    if type(categorical_hierarchy) != list:
-        categorical_hierarchy = [categorical_hierarchy]
-    if type(explicit_ids) != list:
-        explicit_ids = [explicit_ids]
+    
+    if categorical_columns is not None and categorical_columns != "":
+        if type(categorical_columns) != list:
+            categorical_columns = [categorical_columns]
+    else:
+        categorical_columns = []
+    
+    if categorical_hierarchy is not None and categorical_hierarchy != "":
+        if type(categorical_hierarchy) != list:
+            categorical_hierarchy = [categorical_hierarchy]
+    else:
+        categorical_hierarchy = []
+
+    if explicit_ids is not None and explicit_ids != "":
+        if type(explicit_ids) != list:
+            explicit_ids = [explicit_ids]
+    else:
+        explicit_ids = []
+    
     assert len(categorical_hierarchy) == len(categorical_columns)
 
     print("\n" + "Started anonymization of \033[94m" + dataset +
@@ -231,8 +244,9 @@ if __name__ == '__main__':
         dataset = remove_explicit(dataset, explicit_ids)
     ordered_attributes = dataset.columns.to_list()
 
-    dataset = convert_categorical(
-        dataset, categorical_columns, categorical_hierarchy)
+    if categorical_columns:
+        dataset = convert_categorical(
+            dataset, categorical_columns, categorical_hierarchy)
     # dataset = dataset.sort_values(by='City') debugging
     recursive_partition(dataset, k, sensitive_data)
     numeric_dataframe = mondrian_anonymization(
