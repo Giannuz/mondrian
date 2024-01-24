@@ -27,6 +27,8 @@ Arguments:
 
 - `-k` anonimity level that you want to achieve
 
+- `-s` (optional) summary statistic to use, R (range statistic) or M (mean statistic), default: R
+
 - `--sensitive-data` list of columns in your dataset that contains sensitive data
 
 - `--outputfile` (optional) name of the file that will be created (default: Anonymized_dataset.csv)
@@ -40,10 +42,8 @@ Arguments:
 example:
 
 ```shell
-python mondrian.py -o test_id.csv -d dataset.csv -k 2 -SD Disease -EI Name Surname -c City -hv mapping_city.json
+python mondrian.py -o test_id.csv -d dataset.csv -k 3 -SD Disease "Legal Situation" -EI Name Surname -c City Sex -hv mapping_city.json mapping_sex.json -s M -ic True
 ```
-
-## GenerateCSV.py
 
 This script generates a dataset which could be used within an insurance company, returns a csv file containing the following columns:
 
