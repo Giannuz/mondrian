@@ -3,9 +3,10 @@ import pandas as pd
 import argparse
 import json
 
+
 def remove_explicit(dataset, identifiers):
     """Removes the explicit identifiers from the dataset"""
-    dataset = dataset.drop(identifiers,axis=1)
+    dataset = dataset.drop(identifiers, axis=1)
     return dataset
 
 
@@ -22,7 +23,7 @@ def convert_categorical(data, categorical_columns, categorical_hierarchy):
             city_name = parent_key.split('.')[-1] if parent_key else parent_key
             categorical_numeric_dict[city_name] = json_data
         return categorical_numeric_dict
-
+    #  for each categorical attribute it transforms it into a numeric one
     for categorical_column in categorical_columns:
         for hierarchy in categorical_hierarchy:
             hierarchy_file = open(hierarchy)
@@ -59,7 +60,8 @@ def numerical_to_categorical(dataset, hierarchy_columns, categorical_columns):
         hierarchy_file = json.load(open(hierarchy_file))
         for categorical_column in categorical_columns:
             unique_vals = dataset[categorical_column].unique()
-
+            # Given an interval "[n1,n2]" it gets n1 and n2 and find the common root (the less generalized
+            #  attribute in the hierarchy which includes both the attributes). It then replaces it in the dataset.
             for unique_val in unique_vals:
                 tmp = unique_val.replace('[', '')
                 tmp = tmp.replace(']', '')
@@ -76,7 +78,9 @@ def numerical_to_categorical(dataset, hierarchy_columns, categorical_columns):
 
 
 def find_common_root(json_data, value1, value2):
+    """Algorithm to find the less general attribute which can generalize two attribute's values."""
     def find_path(d, value, path=None):
+        """It finds the path of a certain value in a hierarchy."""
         if path is None:
             path = []
         for k, v in d.items():
@@ -90,7 +94,8 @@ def find_common_root(json_data, value1, value2):
 
     path1 = find_path(json_data, value1)
     path2 = find_path(json_data, value2)
-
+    # Once it finds both path for the two values (extremes of interval), it finds the level
+    # to which generalize to contain both.
     if not path1 or not path2:
         return None  # One or both values not found
 
@@ -100,9 +105,7 @@ def find_common_root(json_data, value1, value2):
             common_root.append(p1)
         else:
             break
-
-    tonno = len(common_root)
-    return common_root[tonno-1] if common_root else None
+    return common_root[len(common_root)-1] if common_root else None
 
 
 def recursive_partition(dataset, k, sensitive_data):
@@ -115,6 +118,7 @@ def recursive_partition(dataset, k, sensitive_data):
         dataframe_partitions.append(dataset)
 
     else:
+        # Splits according to highest cardinality
         axe = axe_to_split(dataset, sensitive_data)
         left_partition, right_partition = splitter(
             dataset, axe, k)
@@ -127,7 +131,7 @@ def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns
     """Performs mondrian anonymization on the dataset's partitions."""
 
     print("Anonymization started, wait...", end='')
-    
+
     mondrian_dataframe = pd.DataFrame(columns=columns, index=None)
     partitions = []
     for partition_i in range(0, len(dataframe_partitions)):
@@ -136,6 +140,8 @@ def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns
         for column_j in range(0, len(columns)):
             current_column = columns[column_j]
             if current_column not in sensitive_data_columns:
+                # We chose the interval generalization which computes min and max for each partition
+                # and returns [min(p),max(p)]
                 interval = "["+str(dataframe_partitions[partition_i]
                                    [current_column].min())
                 interval += "," + \
@@ -156,6 +162,7 @@ def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns
 
 
 if __name__ == '__main__':
+    # Manage data from terminal
     DESC = 'Provsensitive_data_columnse the path of the dataset to anonymize, the grade of anonymization k,'
     DESC += 'the columns of Sensitive Data, the name of the output file, the list of '
     DESC += 'categorical columns and their hierarchy json schema'
@@ -181,6 +188,7 @@ if __name__ == '__main__':
     categorical_columns = args.categorical
     categorical_hierarchy = args.hierarchy
     outputfile = args.outputfile
+
     if not outputfile:
         outputfile = 'Anonymized_dataset.csv'
     if type(categorical_columns) != list:
@@ -190,7 +198,7 @@ if __name__ == '__main__':
     if type(explicit_ids) != list:
         explicit_ids = [explicit_ids]
     assert len(categorical_hierarchy) == len(categorical_columns)
-    
+
     print("\n" + "Started anonymization of \033[94m" + dataset +
           "\033[0m with \033[95m" + str(k) + "-anonymity\033[0m")
     print("Sensitive columns: \033[93m" +
@@ -199,12 +207,13 @@ if __name__ == '__main__':
     dataframe_partitions = []
 
     dataset = pd.read_csv(dataset)
-    if explicit_ids:
+
+    if explicit_ids:  # eliminate explicit identifiers
         dataset = remove_explicit(dataset, explicit_ids)
 
     dataset = convert_categorical(
         dataset, categorical_columns, categorical_hierarchy)
-    #dataset = dataset.sort_values(by='City') debugging line
+    # dataset = dataset.sort_values(by='City') debugging
     recursive_partition(dataset, k, sensitive_data)
     numeric_dataframe = mondrian_anonymization(
         dataframe_partitions, list(dataset.columns), sensitive_data)
