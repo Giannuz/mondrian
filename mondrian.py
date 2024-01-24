@@ -24,20 +24,22 @@ def convert_categorical(data, categorical_columns, categorical_hierarchy):
             categorical_numeric_dict[city_name] = json_data
         return categorical_numeric_dict
     #  for each categorical attribute it transforms it into a numeric one
-    for categorical_column in categorical_columns:
-        for hierarchy in categorical_hierarchy:
-            hierarchy_file = open(hierarchy)
-            json_data = json.load(hierarchy_file)
+    for index in range(len(categorical_columns)):
+        categorical_column = categorical_columns[index]
+        hierarchy = categorical_hierarchy[index]
 
-            attribute_to_number = categorical_to_numeric(
-                json_data, parent_key='')
+        hierarchy_file = open(hierarchy)
+        json_data = json.load(hierarchy_file)
 
-            data[categorical_column +
-                 "tmp"] = data[categorical_column].map(attribute_to_number)
+        attribute_to_number = categorical_to_numeric(
+            json_data, parent_key='')
 
-            data = data.drop(categorical_column, axis=1)
-            data.rename(columns={categorical_column +
-                        'tmp': categorical_column}, inplace=True)
+        data[categorical_column +
+             "tmp"] = data[categorical_column].map(attribute_to_number)
+
+        data = data.drop(categorical_column, axis=1)
+        data.rename(columns={categorical_column +
+                    'tmp': categorical_column}, inplace=True)
     return data
 
 
@@ -56,23 +58,24 @@ def splitter(dataframe, axe, k):
 
 def numerical_to_categorical(dataset, hierarchy_columns, categorical_columns):
     """Convert numerical attributes back to categorical values (anonymized)."""
-    for hierarchy_file in hierarchy_columns:
-        hierarchy_file = json.load(open(hierarchy_file))
-        for categorical_column in categorical_columns:
-            unique_vals = dataset[categorical_column].unique()
-            # Given an interval "[n1,n2]" it gets n1 and n2 and find the common root (the less generalized
-            #  attribute in the hierarchy which includes both the attributes). It then replaces it in the dataset.
-            for unique_val in unique_vals:
-                tmp = unique_val.replace('[', '')
-                tmp = tmp.replace(']', '')
+    for index in range(len(categorical_columns)):
+        categorical_column = categorical_columns[index]
+        hierarchy_file = json.load(open(hierarchy_columns[index]))
 
-                interval_min, interval_max = tmp.split(',')
+        unique_vals = dataset[categorical_column].unique()
+        # Given an interval "[n1,n2]" it gets n1 and n2 and find the common root (the less generalized
+        #  attribute in the hierarchy which includes both the attributes). It then replaces it in the dataset.
+        for unique_val in unique_vals:
+            tmp = unique_val.replace('[', '')
+            tmp = tmp.replace(']', '')
 
-                common_root = find_common_root(
-                    hierarchy_file, int(interval_min), int(interval_max))
+            interval_min, interval_max = tmp.split(',')
 
-                dataset[categorical_column] = dataset[categorical_column].replace(
-                    unique_val, common_root)
+            common_root = find_common_root(
+                hierarchy_file, int(interval_min), int(interval_max))
+
+            dataset[categorical_column] = dataset[categorical_column].replace(
+                unique_val, common_root)
 
     return dataset
 
@@ -210,6 +213,7 @@ if __name__ == '__main__':
 
     if explicit_ids:  # eliminate explicit identifiers
         dataset = remove_explicit(dataset, explicit_ids)
+    ordered_attributes = dataset.columns.to_list()
 
     dataset = convert_categorical(
         dataset, categorical_columns, categorical_hierarchy)
@@ -221,6 +225,6 @@ if __name__ == '__main__':
     mondrian_dataframe = numerical_to_categorical(
         numeric_dataframe, categorical_hierarchy, categorical_columns)
 
+    mondrian_dataframe = mondrian_dataframe[ordered_attributes] # Same order as input file
     mondrian_dataframe.to_csv(outputfile, index=False)
-
     print("\n" + "\033[92mDONE!\033[0m")
