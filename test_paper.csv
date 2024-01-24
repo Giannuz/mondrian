@@ -1,7 +1,7 @@
 Age,Sex,Zipcode,Disease
-"[28,28]",M,"[53711,53711]",Hang Nail
-"[26,27]",M,"[53710,53712]",Brochitis
-"[26,27]",M,"[53710,53712]",Broken Arm
-"[26,27]",F,"[53710,53712]",AIDS
-"[25,25]",M,"[53711,53712]",Flu
-"[25,25]",F,"[53711,53712]",Hepatitis
+25,M,53711,Hang Nail
+25,M,53712,Brochitis
+26,M,53711,Broken Arm
+27,F,53710,AIDS
+27,M,53712,Flu
+28,F,53711,Hepatitis

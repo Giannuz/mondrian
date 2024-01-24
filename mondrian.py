@@ -1,3 +1,4 @@
+from turtle import right
 import numpy as np
 import pandas as pd
 import argparse
@@ -45,15 +46,18 @@ def convert_categorical(data, categorical_columns, categorical_hierarchy):
 
 def splitter(dataframe, axe, k):
     """Splits the datafram along a certain x to respect k value"""
+    #print(dataframe[axe].median())
     left_partition = dataframe[(dataframe[axe] <= dataframe[axe].median())]
     right_partition = dataframe[(dataframe[axe] > dataframe[axe].median())]
-
+    #print(left_partition,'\n\n',right_partition)
     if len(left_partition) >= k and len(right_partition) >= k:
-
+        return left_partition, right_partition
+    else:
         left_partition = dataframe.iloc[:k]
         right_partition = dataframe.iloc[k:]
+        #print(left_partition,'\n\n',right_partition)
 
-    return left_partition, right_partition
+        return left_partition, right_partition
 
 
 def numerical_to_categorical(dataset, hierarchy_columns, categorical_columns):
@@ -114,20 +118,21 @@ def find_common_root(json_data, value1, value2):
 def recursive_partition(dataset, k, sensitive_data):
     """Splits the dataset in partitions recursively."""
     def axe_to_split(dataframe, sensitive_data):
-
+        #print(dataframe.drop(sensitive_data, axis=1).nunique().idxmax())
         return dataframe.drop(sensitive_data, axis=1).nunique().idxmax()
 
     if len(dataset) < k*2:
         dataframe_partitions.append(dataset)
+
 
     else:
         # Splits according to highest cardinality
         axe = axe_to_split(dataset, sensitive_data)
         left_partition, right_partition = splitter(
             dataset, axe, k)
-
-        recursive_partition(right_partition, k, sensitive_data)
+        #print(left_partition,right_partition)
         recursive_partition(left_partition, k, sensitive_data)
+        recursive_partition(right_partition, k, sensitive_data)
 
 
 def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns):
@@ -207,7 +212,7 @@ if __name__ == '__main__':
     statistic = args.statistic
     if statistic != "M":
         statistic = "R"
-    print(statistic)
+
     if not outputfile:
         outputfile = 'Anonymized_dataset.csv'
     
