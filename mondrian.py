@@ -200,6 +200,8 @@ if __name__ == '__main__':
                         type=str, help="categorical column hierarchy")
     parser.add_argument("--statistic", "-s", required=False,
                         type=str, help="type of statistic to use R/M")
+    parser.add_argument("--ignore-cat", "-ic", required=False,
+                        type=str, help="if true ignores categorical attributes (drop them)")
     #todo argument per ignorare categorici (dropparli)
     args = parser.parse_args()
     dataset = args.dataset
@@ -210,6 +212,10 @@ if __name__ == '__main__':
     categorical_hierarchy = args.hierarchy
     outputfile = args.outputfile
     statistic = args.statistic
+    ignore_cat = args.ignore_cat
+    if ignore_cat in ["TRUE", "True", "true"]:
+        ignore_cat = True
+    else: ignore_cat=False
     if statistic != "M":
         statistic = "R"
 
@@ -244,21 +250,23 @@ if __name__ == '__main__':
     dataframe_partitions = []
 
     dataset = pd.read_csv(dataset)
-
+    if ignore_cat:
+        explicit_ids = explicit_ids + categorical_columns
+        print(explicit_ids)
     if explicit_ids:  # eliminate explicit identifiers
         dataset = remove_explicit(dataset, explicit_ids)
     ordered_attributes = dataset.columns.to_list()
 
-    if categorical_columns:
+    if categorical_columns and not ignore_cat:
         dataset = convert_categorical(
             dataset, categorical_columns, categorical_hierarchy)
     # dataset = dataset.sort_values(by='City') debugging
     recursive_partition(dataset, k, sensitive_data)
-    numeric_dataframe = mondrian_anonymization(
+    mondrian_dataframe = mondrian_anonymization(
         dataframe_partitions, list(dataset.columns), sensitive_data)
-
-    mondrian_dataframe = numerical_to_categorical(
-        numeric_dataframe, categorical_hierarchy, categorical_columns)
+    if not ignore_cat:
+        mondrian_dataframe = numerical_to_categorical(
+        mondrian_dataframe, categorical_hierarchy, categorical_columns)
 
     mondrian_dataframe = mondrian_dataframe[ordered_attributes] # Same order as input file
     mondrian_dataframe.to_csv(outputfile, index=False)
