@@ -1,0 +1,219 @@
+{
+    "planet-earth":{
+        
+        "europe":{
+        
+            "Italy":{
+        
+                "Liguria":{
+        
+                    "Genova": 0,
+                    "La Spezia": 1,
+                    "Savona": 2,
+                    "Imperia": 3
+        
+                },
+
+                "Abruzzo":{
+
+                    "Chieti": 4,
+                    "L'Aquila": 5,
+                    "Pescara": 6,
+                    "Teramo": 7
+
+                },
+
+                "Sicilia":{
+                
+                    "Agrigento": 8,
+                    "Caltanissetta": 9,
+                    "Catania": 10,
+                    "Enna": 11,
+                    "Messina": 12,
+                    "Palermo": 13,
+                    "Ragusa": 14,
+                    "Siracusa": 15,
+                    "Trapani": 16
+                
+                },
+
+                "Basilicata":{
+
+                    "Matera": 17,
+                    "Potenza": 18
+
+                },
+
+                "Calabria":{
+                    "Catanzaro": 19,
+                    "Cosenza": 20,
+                    "Crotone": 21,
+                    "Reggio Calabria": 22,
+                    "Vibo Valentia": 23
+
+                },
+
+                "Campania":{
+
+                    "Avellino": 24,
+                    "Benevento": 25,
+                    "Caserta": 26,
+                    "Napoli": 27,
+                    "Salerno": 28
+
+                },
+
+                "Emilia-Romagna":{
+
+                    "Bologna": 29,
+                    "Ferrara": 30,
+                    "Forlì-Cesena": 31,
+                    "Modena": 32,
+                    "Parma": 33,
+                    "Piacenza": 34,
+                    "Ravenna": 35, 
+                    "Reggio Emilia": 36,
+                    "Rimini": 37
+
+                },
+
+                "Friuli-Venezia Giulia":{
+
+                    "Gorizia": 38,
+                    "Pordenone": 39,
+                    "Trieste": 40,
+                    "Udine": 41
+
+                },
+
+                "Lazio":{
+
+                    "Frosinone": 41,
+                    "Latina": 42,
+                    "Rieti": 43,
+                    "Roma": 44,
+                    "Viterbo": 45
+
+                }, 
+
+                "Lombardia":{
+
+
+                    "Bergamo": 46,
+                    "Brescia": 47,
+                    "Como": 48,
+                    "Cremona": 49,
+                    "Lecco": 50,
+                    "Lodi": 51,
+                    "Mantova": 52,
+                    "Milano": 53,
+                    "Monza e Brianza": 54,
+                    "Pavia": 55,
+                    "Sondrio": 56,
+                    "Varese": 57
+
+                },
+
+                "Marche":{
+                    
+                    "Ancona": 58,
+                    "Ascoli Piceno": 59,
+                    "Fermo": 60,
+                    "Macerata": 61,
+                    "Pesaro e Urbino": 62
+
+                },
+
+                "Molise":{
+
+                    "Campobasso": 63,
+                    "Isernia": 64
+
+                },
+
+                "Piemonte":{
+
+                    "Alessandria": 65, 
+                    "Asti": 66,
+                    "Biella": 67,
+                    "Cuneo": 68,
+                    "Novara": 69,
+                    "Torino": 70,
+                    "Verbano-Cusio-Ossola": 71,
+                    "Vercelli": 72
+
+                },
+
+                "Puglia":{
+
+                    "Bari": 73,
+                    "Barletta-Andria-Trani": 74,
+                    "Brindisi": 75,
+                    "Foggia": 76,
+                    "Lecce": 77,
+                    "Taranto": 78
+
+                },
+
+                "Sardegna":{
+
+                    "Cagliari": 79,
+                    "Nuoro": 80,
+                    "Oristano": 81,
+                    "Sassari": 82,
+                    "Sud Sardegna": 83 
+
+                },
+
+                "Toscana":{
+
+                    "Arezzo": 84,
+                    "Firenze": 85,
+                    "Grosseto": 86,
+                    "Livorno": 87,
+                    "Lucca": 88,
+                    "Massa-Carrara": 89,
+                    "Pisa": 90,
+                    "Pistoia": 91,
+                    "Prato": 92,
+                    "Siena": 93
+
+                },
+
+                "Trentino-Alto Adige":{
+
+                    "Bolzano": 94,
+                    "Trento":  95
+
+                },
+
+                "Umbria":{
+                    
+                    "Perugia": 96,
+                    "Terni": 97
+                
+                },
+
+                "Valle d'Aosta":{
+
+                    "Valle d'Aosta": 98
+
+                },
+
+                "Veneto":{
+                 
+                    "Belluno": 99,
+                    "Padova": 100,
+                    "Rovigo": 101,
+                    "Treviso": 102,
+                    "Venezia": 103,
+                    "Verona": 104,
+                    "Vicenza": 105
+
+                }                
+        
+            }
+        
+        }
+    } 
+}

@@ -1,0 +1,1001 @@
+Name,Surname,Sex,Age,City,Income,Dependants,Insurance Coverage,Legal Situation,Disease
+Annetta,Cignaroli,F,63,Catanzaro,142025,2,3,No Records,Hépatite C
+Fulvio,Dalla,M,18,Perugia,21726,2,1,No Records,Urticaire
+Renata,Tamburi,F,21,Rieti,14992,1,3,Convicted,Rhino-pharyngite
+Concetta,Cociarelli,F,75,Potenza,6397,4,10,On Parole,Healthy
+Pina,Ricciardi,F,20,Savona,48690,1,5,On Parole,Appendicite
+Tonia,Romano,F,36,Crotone,48191,3,1,On Probation,Rougeole
+Eugenia,Muratori,F,51,Forlì-Cesena,106059,2,3,Prescribed,Eczéma
+Guglielmo,Mondadori,M,34,Catanzaro,51091,0,1,On Parole,Otite
+Ilaria,Magnani,F,60,Verona,34281,0,10,On Parole,Appendicite
+Alphons,Vittadello,M,61,Bologna,77873,1,5,On Probation,Dengue
+Marina,Cendron,F,56,Trieste,42048,2,1,Acquitted,Eczéma
+Carla,Poerio,F,77,Sondrio,67870,1,3,Acquitted,Urticaire
+Giovanna,Maspero,F,50,Siracusa,17553,1,3,Convicted,Hépatite B
+Valeria,Tasso,F,36,Modena,30032,0,1,Convicted,Hépatite B
+Rosario,Coardi,M,21,Lecco,200263,3,1,Convicted,Eczéma
+Aurora,Inzaghi,F,52,Napoli,6261,0,10,Pardoned,Angine
+Dina,Ruffini,F,31,Biella,31801,2,1,On Parole,Healthy
+Nina,Civaschi,F,66,Isernia,13595,1,10,Convicted,Dengue
+Berenice,Boldù,F,21,Milano,54645,0,10,On Probation,Rhino-pharyngite
+Zaira,Altera,F,79,Campobasso,72811,1,3,Acquitted,Chlamydia
+Nadia,Vianello,F,74,Sassari,49723,0,1,Pardoned,Hépatite C
+Etta,Seddio,F,30,Frosinone,14938,0,1,Convicted,Grippe
+Danilo,Praga,M,53,Palermo,18182,0,1,Prescribed,Eczéma
+Nicola,Balbi,M,53,Biella,83426,0,3,On Probation,Hépatite C
+Orazio,Botta,M,49,Pisa,52121,0,3,On Probation,Zona
+Nanni,Tirabassi,M,30,Forlì-Cesena,76633,2,3,Convicted,Varicelle
+Annamaria,Antonucci,F,41,Gorizia,39371,0,10,Investigated,Rhino-pharyngite
+Arsenio,Morandini,M,26,Ascoli Piceno,26784,0,3,Pardoned,Rhino-pharyngite
+Viridiana,Ioppi,F,66,Verbano-Cusio-Ossola,38000,4,1,Investigated,Hépatite C
+Carla,Golino,F,27,Cremona,31777,0,3,Acquitted,Grippe
+Pier,Cociarelli,M,67,Ravenna,22588,2,3,Acquitted,Dengue
+Antonietta,Zanzi,F,20,Viterbo,29300,2,3,Acquitted,Angine
+Morena,Bondumier,F,46,Ferrara,15349,0,10,Acquitted,Zona
+Imelda,Endrizzi,F,35,Sondrio,16962,2,3,Pardoned,Rougeole
+Tatiana,Munari,F,71,Biella,16394,2,5,Prescribed,Dengue
+Lucrezia,Lucciano,F,59,Siracusa,68349,3,1,Acquitted,Varicelle
+Pina,Baresi,F,19,Foggia,22603,0,1,Acquitted,Cataracte
+Sylvia,Saffi,F,37,Asti,66511,3,5,On Probation,Eczéma
+Luigi,Ficino,M,29,Verbano-Cusio-Ossola,7435,0,3,On Probation,Hépatite C
+Gianfranco,Malipiero,M,74,Reggio Calabria,114105,2,1,Convicted,Zona
+Cesare,Grassi,M,24,Caltanissetta,12010,0,3,Acquitted,Hépatite C
+Gabriella,Rensi,F,31,Verbano-Cusio-Ossola,19047,2,1,Investigated,Otite
+Maurizio,Zito,M,77,Pordenone,47837,2,1,Convicted,Varicelle
+Giacinto,Franzese,M,78,Livorno,83187,2,1,On Probation,Hépatite C
+Annibale,Sorrentino,M,32,Foggia,37948,0,10,On Probation,Healthy
+Letizia,Lucarelli,F,23,Vibo Valentia,84109,3,1,On Parole,Varicelle
+Calogero,Asprucci,M,76,Benevento,30158,2,1,On Parole,Scarlatine
+Paola,Ferrari,F,47,Ragusa,13106,2,10,Investigated,Dengue
+Maria,Cainero,F,56,Enna,15174,2,1,On Probation,Grippe
+Patrizio,Morlacchi,M,22,Brescia,47978,0,10,No Records,Hépatite C
+Annalisa,Piovani,F,60,Asti,32771,2,5,No Records,Cataracte
+Martina,Pertile,F,51,Belluno,30485,1,3,Investigated,Dengue
+Adele,Pometta,F,23,La Spezia,37128,2,3,Pardoned,Scarlatine
+Gianluigi,Marino,M,49,Frosinone,94896,1,1,On Parole,Otite
+Rembrandt,Trezzini,M,44,Crotone,9408,2,5,On Parole,Hépatite B
+Greco,Monti,M,39,Potenza,6568,0,5,Pardoned,Grippe
+Alfio,Barcaccia,M,18,Pavia,32749,2,5,Pardoned,Urticaire
+Elisa,Renier,F,46,Bergamo,50190,0,1,Pardoned,Scarlatine
+Ippazio,Borsellino,M,34,Trento,29208,2,5,No Records,Zona
+Gemma,Poerio,F,69,Enna,56321,2,1,Investigated,Appendicite
+Stefano,Blasi,M,26,Campobasso,70348,0,3,Acquitted,Scarlatine
+Dina,Pizzamano,F,50,Foggia,78172,0,5,Pardoned,Grippe
+Tonia,Sismondi,F,19,Crotone,23965,4,3,Pardoned,Hépatite C
+Gloria,Stucchi,F,72,Ascoli Piceno,19690,3,3,Convicted,Cataracte
+Cecilia,Polesel,F,50,Avellino,27145,3,5,Investigated,Zona
+Cecilia,Trussardi,F,77,Catania,34467,2,1,On Probation,Hépatite B
+Giuliana,Belletini,F,28,Avellino,60563,1,3,Convicted,Cataracte
+Adele,Boaga,F,53,Sondrio,64768,0,3,Pardoned,Appendicite
+Alina,Veneziano,F,56,Ravenna,31677,0,1,Convicted,Otite
+Liliana,Berlusconi,F,21,Padova,30113,2,3,Prescribed,Rougeole
+Luigina,Merisi,F,44,Salerno,45107,2,5,Prescribed,Grippe
+Alberico,Cundari,M,53,Cagliari,99483,2,10,Pardoned,Rougeole
+Camilla,Camilleri,F,35,Barletta-Andria-Trani,6562,3,5,On Probation,Hépatite C
+Costanzo,Casagrande,M,20,Verona,43603,0,3,Acquitted,Cataracte
+Vanessa,Capone,F,64,Verbano-Cusio-Ossola,14142,1,5,Acquitted,Healthy
+Marissa,Rapisardi,F,67,Sassari,17757,0,10,Investigated,Eczéma
+Carolina,Valmarana,F,23,Treviso,52687,2,5,Acquitted,Rougeole
+Rosaria,Bacosi,F,57,Trento,39215,4,5,On Parole,Zona
+Pompeo,Paoletti,M,70,Reggio Calabria,19227,0,10,Pardoned,Hépatite C
+Bruno,Stefanelli,M,36,Sassari,31547,1,1,Convicted,Eczéma
+Isabella,Vercelloni,F,80,Campobasso,17827,3,5,Prescribed,Hépatite C
+Francesca,Rossellini,F,69,Avellino,50557,3,10,Prescribed,Scarlatine
+Carlo,Lupo,M,68,Mantova,14927,3,1,Prescribed,Urticaire
+Puccio,Falloppio,M,21,Udine,57796,2,5,No Records,Hépatite B
+Barbara,Brenna,F,38,Perugia,49730,1,3,Investigated,Hépatite B
+Gastone,Savorgnan,M,64,Bari,31807,0,1,Pardoned,Zona
+Barbara,Turati,F,19,Ferrara,12097,2,1,Pardoned,Chlamydia
+Zaira,Crespi,F,36,Prato,73869,0,10,No Records,Chlamydia
+Antonia,Endrizzi,F,63,Sondrio,57960,2,1,Acquitted,Angine
+Gino,Schicchi,M,32,Caltanissetta,6572,2,10,Pardoned,Cataracte
+Michele,Battaglia,M,52,Taranto,25477,0,5,On Parole,Scarlatine
+Flavia,Agostinelli,F,28,Belluno,30548,0,1,On Probation,Zona
+Eliana,Modigliani,F,67,Prato,22037,2,3,On Probation,Varicelle
+Sylvia,Dossetti,F,63,Reggio Emilia,27862,1,3,Acquitted,Varicelle
+Delfino,Salieri,M,71,Matera,28089,3,3,Acquitted,Rougeole
+Eleanora,Adinolfi,F,41,Sassari,62473,2,3,Convicted,Varicelle
+Salvi,Combi,M,22,Catanzaro,49834,0,5,Investigated,Rougeole
+Rosaria,Modiano,F,62,Caltanissetta,19514,2,5,Acquitted,Otite
+Paolo,Zola,M,32,Trento,36849,4,5,Prescribed,Chlamydia
+Saverio,Basadonna,M,77,Parma,35648,3,1,Convicted,Scarlatine
+Paoletta,Bernetti,F,74,Crotone,85846,0,3,Convicted,Rhino-pharyngite
+Durante,Jacuzzi,M,53,Cosenza,15949,3,3,Investigated,Zona
+Raffaella,Scarpetta,F,70,Bolzano,42254,3,1,On Probation,Scarlatine
+Lara,Tommaseo,F,25,Matera,32003,2,10,Pardoned,Angine
+Luciana,Saracino,F,23,Teramo,17184,3,10,Prescribed,Eczéma
+Antonia,Conte,F,43,Latina,61580,4,1,Convicted,Urticaire
+Orlando,Nolcini,M,64,Pescara,16702,0,10,Pardoned,Rhino-pharyngite
+Stella,Guicciardini,F,74,Napoli,6952,1,3,Prescribed,Hépatite C
+Gian,Spinola,M,33,Milano,17760,2,1,On Probation,Dengue
+Sophia,Carpaccio,F,62,Siracusa,13059,0,10,No Records,Scarlatine
+Chiara,Trussardi,F,33,Belluno,24146,1,5,Acquitted,Rougeole
+Mauro,Lucarelli,M,49,Forlì-Cesena,44339,3,1,Prescribed,Otite
+Sandro,Mozart,M,31,Ascoli Piceno,46525,0,10,Convicted,Angine
+Mattia,Siffredi,M,19,Ascoli Piceno,59592,3,10,Acquitted,Dengue
+Paride,Pistoletto,M,41,Genova,38336,2,10,Acquitted,Scarlatine
+Letizia,Benigni,F,38,Barletta-Andria-Trani,47497,2,1,On Parole,Appendicite
+Marisa,Cocci,F,52,Catania,43802,0,3,On Probation,Rhino-pharyngite
+Graziella,Argentero,F,46,Avellino,40923,2,3,Investigated,Zona
+Caterina,Gargallo,F,53,Benevento,89752,4,5,Prescribed,Urticaire
+Sylvia,Tarantino,F,45,Bergamo,31014,2,5,No Records,Scarlatine
+Simonetta,Storladi,F,60,Brescia,22380,0,3,On Parole,Scarlatine
+Livio,Tognazzi,M,25,Savona,15234,4,1,Prescribed,Scarlatine
+Paloma,Cendron,F,24,Piacenza,70072,2,10,No Records,Rhino-pharyngite
+Arturo,Galvani,M,67,Ascoli Piceno,53521,0,5,On Parole,Rhino-pharyngite
+Massimiliano,Boitani,M,23,Modena,27433,2,10,On Parole,Hépatite B
+Giulietta,Marino,F,22,Avellino,72742,2,10,On Parole,Zona
+Luigina,Mannoia,F,78,Milano,51573,2,1,Investigated,Rougeole
+Rita,Strangio,F,49,Ferrara,22188,3,1,No Records,Rhino-pharyngite
+Puccio,Finotto,M,70,Bari,11520,2,3,On Probation,Appendicite
+Salvi,Pederiva,M,53,Verona,10860,0,10,Prescribed,Eczéma
+Greca,Lerner,F,49,Perugia,84320,1,10,Acquitted,Dengue
+Olga,Argento,F,52,Cremona,78023,1,1,Investigated,Scarlatine
+Alberico,Ginese,M,48,Enna,17710,1,1,Investigated,Varicelle
+Olga,Dibiasi,F,23,Trieste,31999,2,1,Pardoned,Eczéma
+Imelda,Monduzzi,F,46,Matera,56816,0,3,No Records,Cataracte
+Rocco,Falcone,M,70,Udine,23151,2,3,Investigated,Rougeole
+Raffaellino,Fogazzaro,M,65,Ancona,52261,0,5,Prescribed,Cataracte
+Alberico,Ciani,M,54,Piacenza,18847,0,5,No Records,Rougeole
+Pina,Tamborini,F,71,Lucca,33923,0,1,Pardoned,Rougeole
+Gianni,Gualtieri,M,69,Caserta,46365,0,10,Convicted,Zona
+Bernardo,Maderna,M,23,Fermo,34974,0,10,Convicted,Urticaire
+Franco,Fieramosca,M,68,Enna,24179,2,3,On Parole,Chlamydia
+Romolo,Gori,M,78,Cuneo,32120,2,1,On Parole,Rhino-pharyngite
+Emilio,Gabrieli,M,42,Agrigento,94013,2,1,Investigated,Varicelle
+Rocco,Torricelli,M,73,Lecco,43344,2,1,Investigated,Rhino-pharyngite
+Lina,Morosini,F,76,Venezia,9082,0,1,Prescribed,Healthy
+Luca,Vento,M,79,Ferrara,75430,0,5,Investigated,Rhino-pharyngite
+Annetta,Satta,F,63,Potenza,143901,2,3,On Probation,Cataracte
+Lucio,Sforza,M,18,Enna,62790,0,10,Acquitted,Grippe
+Ilaria,Cantimori,F,62,Cuneo,83390,1,5,Investigated,Otite
+Giorgio,Trincavelli,M,62,Arezzo,302780,2,3,Acquitted,Varicelle
+Emilio,Catenazzi,M,25,Campobasso,25165,2,3,On Parole,Chlamydia
+Tullio,Prada,M,37,Agrigento,18738,0,5,Convicted,Rougeole
+Marisa,Forza,F,19,Taranto,35053,3,1,Investigated,Urticaire
+Marissa,Trezzini,F,74,Frosinone,7929,0,3,Prescribed,Eczéma
+Giacomo,Iannotti,M,80,Treviso,28835,2,1,Convicted,Grippe
+Angelina,Bulzoni,F,72,Arezzo,18346,0,5,Prescribed,Eczéma
+Rembrandt,Scotti,M,47,Genova,11435,3,1,Investigated,Varicelle
+Alessio,Ceri,M,41,Barletta-Andria-Trani,11124,2,1,Investigated,Otite
+Lidia,Ruggieri,F,69,Brescia,10983,2,3,Acquitted,Otite
+Annalisa,Goldstein,F,39,Prato,50201,4,1,Prescribed,Rhino-pharyngite
+Sebastiano,Villadicani,M,41,Lecce,25145,3,3,Convicted,Scarlatine
+Angelina,Palazzo,F,60,Napoli,50650,0,3,Acquitted,Dengue
+Giovanna,Malatesta,F,35,Catanzaro,22959,0,5,Acquitted,Hépatite B
+Caterina,Bersani,F,18,Terni,14062,1,10,Acquitted,Grippe
+Gioffre,Errigo,M,51,Chieti,69137,2,10,No Records,Cataracte
+Gaetano,Barberini,M,66,Crotone,40249,2,3,On Parole,Appendicite
+Renzo,Federico,M,50,Varese,54817,1,1,Investigated,Healthy
+Raimondo,Antonetti,M,60,Novara,53489,0,5,Investigated,Healthy
+Gaspare,Alighieri,M,34,Pescara,28860,2,3,Prescribed,Varicelle
+Eleanora,Majorana,F,75,Benevento,31961,2,1,Pardoned,Zona
+Paride,Cheda,M,78,L'Aquila,40976,0,5,No Records,Grippe
+Ivan,Valentino,M,63,Ancona,49806,3,1,On Probation,Chlamydia
+Susanna,Bertolucci,F,65,Pordenone,96336,0,3,Prescribed,Varicelle
+Monica,Gibilisco,F,55,Ancona,16270,2,5,Prescribed,Zona
+Tina,Versace,F,51,Novara,27753,0,5,On Parole,Grippe
+Ermanno,Comisso,M,70,Teramo,18890,3,1,Prescribed,Appendicite
+Giacobbe,Bertoli,M,25,Livorno,40451,0,1,Convicted,Eczéma
+Concetta,Quasimodo,F,65,Foggia,37262,0,10,No Records,Chlamydia
+Vanessa,Garibaldi,F,42,Potenza,57414,0,10,Convicted,Hépatite B
+Gino,Marsili,M,52,Trapani,7450,0,3,No Records,Cataracte
+Cecilia,Cossiga,F,18,Cagliari,29327,0,5,Acquitted,Varicelle
+Livio,Ferrata,M,29,Lucca,79607,1,1,No Records,Varicelle
+Marisa,Capone,F,36,Lucca,120247,2,5,Pardoned,Urticaire
+Arnaldo,Ariosto,M,63,Messina,76660,1,3,On Probation,Otite
+Stefani,Avogadro,F,53,Nuoro,28661,0,5,Convicted,Rhino-pharyngite
+Tonino,Rosiello,M,77,Ferrara,24693,4,5,Pardoned,Zona
+Lodovico,Doglioni,M,67,Monza e Brianza,64261,2,10,No Records,Rougeole
+Priscilla,Golgi,F,25,Massa-Carrara,54063,2,5,Investigated,Zona
+Michela,Marconi,F,63,Caserta,19513,3,5,On Probation,Cataracte
+Massimo,Malaparte,M,28,Cuneo,86278,0,1,On Parole,Rougeole
+Maria,Argento,F,43,Cagliari,10195,2,3,Pardoned,Scarlatine
+Fortunata,Savorgnan,F,23,Alessandria,46349,0,3,On Parole,Appendicite
+Fabrizia,Tassoni,F,26,Sondrio,11691,2,10,No Records,Rougeole
+Lucia,Iannuzzi,F,50,Enna,24648,3,3,On Parole,Healthy
+Dario,Platini,M,23,Siena,19076,0,3,On Probation,Eczéma
+Sylvia,Papafava,F,70,Varese,23828,0,3,Convicted,Urticaire
+Giuliano,Monti,M,60,Reggio Emilia,10543,2,10,Acquitted,Scarlatine
+Sandro,Gianvecchio,M,23,Brindisi,57794,3,5,On Parole,Angine
+Mariana,Spinelli,F,57,Livorno,32877,0,1,No Records,Cataracte
+Ludovica,Niscoromni,F,27,Novara,29002,2,5,Acquitted,Hépatite C
+Antonina,Inzaghi,F,53,Trieste,31126,0,10,Investigated,Eczéma
+Baccio,Maderna,M,34,Catania,97307,0,1,Investigated,Rhino-pharyngite
+Ermenegildo,Bandello,M,48,Crotone,28707,0,3,Prescribed,Grippe
+Niccolò,Tognazzi,M,68,Caltanissetta,8720,0,5,Prescribed,Zona
+Pierangelo,Asprucci,M,43,Forlì-Cesena,5126,2,5,No Records,Dengue
+Allegra,Fieramosca,F,21,Avellino,39144,2,5,On Parole,Rougeole
+Luigina,Draghi,F,39,Terni,85203,1,5,No Records,Zona
+Fiamma,Mastroianni,F,28,Fermo,12995,1,10,Acquitted,Rhino-pharyngite
+Marisa,Legnante,F,72,Potenza,12873,2,1,Prescribed,Angine
+Antonio,Ioppi,M,47,Enna,17321,2,5,On Probation,Rhino-pharyngite
+Amalia,Gozzano,F,53,Prato,100411,2,10,Prescribed,Varicelle
+Vito,Ferraris,M,25,L'Aquila,113671,0,3,On Probation,Appendicite
+Paloma,Bernardi,F,43,Ragusa,10263,2,1,Investigated,Chlamydia
+Martino,Ortolani,M,32,Salerno,13906,2,10,Acquitted,Angine
+Giuseppe,Ferrante,M,65,Belluno,13419,0,1,Convicted,Eczéma
+Bartolomeo,Valentino,M,68,Roma,35162,0,10,No Records,Cataracte
+Sandra,Zola,F,43,Macerata,36064,0,3,Convicted,Angine
+Vincenzo,Rubbia,M,79,Mantova,64002,1,3,Convicted,Rhino-pharyngite
+Chiara,Ligorio,F,78,Rimini,31911,1,1,Convicted,Eczéma
+Ugolino,Zacchia,M,49,Massa-Carrara,37229,1,3,No Records,Rougeole
+Eva,Fogazzaro,F,26,Bergamo,29922,0,3,Prescribed,Cataracte
+Saverio,Schicchi,M,21,Cuneo,12805,4,5,Prescribed,Hépatite C
+Melina,Carfagna,F,43,Varese,7949,2,5,On Parole,Zona
+Sandro,Nitto,M,49,Perugia,36213,0,1,No Records,Otite
+Alphons,Infantino,M,72,Cosenza,22338,1,1,Convicted,Hépatite B
+Antonia,Vattimo,F,70,Genova,35260,3,1,On Parole,Eczéma
+Valerio,Trincavelli,M,56,Firenze,11548,3,5,On Parole,Healthy
+Ansaldo,Scarpa,M,76,Campobasso,267056,1,1,Convicted,Rhino-pharyngite
+Carlo,Villadicani,M,70,Bergamo,37855,2,10,Investigated,Cataracte
+Romeo,Canevascini,M,70,Ascoli Piceno,25752,3,5,Acquitted,Otite
+Domenico,Battaglia,M,44,Imperia,51447,1,1,Investigated,Urticaire
+Giulio,Gargallo,M,56,Venezia,7428,2,1,On Probation,Healthy
+Griselda,Cantimori,F,71,Venezia,204337,3,10,On Probation,Rhino-pharyngite
+Amleto,Abbagnale,M,23,Isernia,41760,2,5,Pardoned,Chlamydia
+Ernesto,Albertini,M,40,Brindisi,25764,4,1,Investigated,Appendicite
+Carla,Foa,F,58,Parma,46014,0,1,Pardoned,Grippe
+Baccio,Ceri,M,47,Torino,44513,0,3,Prescribed,Appendicite
+Sante,Foscari,M,43,Ravenna,12990,4,10,Prescribed,Otite
+Ludovica,Gabrieli,F,51,Oristano,13438,2,3,On Probation,Healthy
+Raffaellino,Barsanti,M,21,Gorizia,29089,3,3,Investigated,Chlamydia
+Lolita,Modiano,F,77,Como,9160,1,10,On Parole,Varicelle
+Ludovico,Aulenti,M,28,Grosseto,28172,0,1,On Parole,Rhino-pharyngite
+Loredana,Mozart,F,41,Grosseto,100535,1,3,Pardoned,Chlamydia
+Adele,Zacchia,F,76,Matera,14858,3,10,Pardoned,Angine
+Lina,Gatto,F,35,Pesaro e Urbino,33199,1,10,On Probation,Healthy
+Lauretta,Boccioni,F,35,Vibo Valentia,23446,4,10,Investigated,Cataracte
+Giada,Taccola,F,52,Asti,74421,0,1,Prescribed,Varicelle
+Valerio,Fieramosca,M,32,Modena,43758,2,5,Pardoned,Eczéma
+Luciano,Boccioni,M,54,Varese,38071,1,3,Acquitted,Rhino-pharyngite
+Piermaria,Ferrabosco,M,47,Viterbo,35156,0,3,No Records,Hépatite B
+Pasquale,Calarco,M,19,Belluno,108198,3,10,On Parole,Appendicite
+Margherita,Polesel,F,49,Pesaro e Urbino,32882,3,3,On Probation,Cataracte
+Gustavo,Aulenti,M,48,Bergamo,34106,3,1,Pardoned,Healthy
+Bianca,Cagnotto,F,31,Agrigento,76981,4,3,Acquitted,Cataracte
+Priscilla,Cimarosa,F,74,Pescara,51384,2,1,On Probation,Dengue
+Loretta,Pugliese,F,80,Gorizia,42202,3,3,Pardoned,Rhino-pharyngite
+Olga,Niggli,F,78,Valle d'Aosta,106606,2,5,Investigated,Appendicite
+Ruggero,Tirabassi,M,68,Udine,16731,0,1,Convicted,Urticaire
+Ottavio,Raimondi,M,37,Ragusa,30287,2,5,Convicted,Hépatite C
+Antonia,Errigo,F,61,Isernia,139061,1,1,On Parole,Angine
+Graziella,Dibiasi,F,58,Ferrara,52062,0,3,Acquitted,Rhino-pharyngite
+Enzio,Boccioni,M,22,Pavia,54497,0,3,Investigated,Rougeole
+Tiziano,Antonini,M,20,Imperia,107240,3,5,Investigated,Rougeole
+Mariana,Camanni,F,50,Bergamo,110858,2,10,No Records,Otite
+Vanessa,Volterra,F,34,Verona,59971,0,10,Investigated,Grippe
+Simone,Bossi,M,56,La Spezia,4719,2,10,Convicted,Varicelle
+Severino,Zanzi,M,73,Palermo,33042,1,3,Investigated,Rougeole
+Renata,Tamburello,F,73,Treviso,14896,4,10,Convicted,Appendicite
+Fortunata,Errani,F,37,Caltanissetta,49612,0,10,Convicted,Appendicite
+Giovanni,Piovani,M,19,Savona,10612,2,10,Pardoned,Varicelle
+Gilberto,Verga,M,31,Latina,11368,0,5,Acquitted,Dengue
+Costantino,Gigli,M,27,Ravenna,55262,0,10,Convicted,Hépatite C
+Rosina,Albertini,F,80,Caserta,13725,5,5,Prescribed,Otite
+Ermenegildo,Pininfarina,M,77,Monza e Brianza,5947,0,10,No Records,Grippe
+Vanessa,Tamborini,F,42,Treviso,17231,0,3,Prescribed,Dengue
+Niccolò,Castiglione,M,29,Catanzaro,10529,1,1,On Parole,Hépatite C
+Letizia,Chiaramonte,F,41,Brescia,17695,0,10,No Records,Hépatite C
+Tiziana,Rosiello,F,46,Trapani,26160,2,10,Pardoned,Urticaire
+Annetta,Bongiorno,F,73,Macerata,28872,1,5,No Records,Angine
+Tonino,Oliboni,M,44,Agrigento,145948,0,10,Prescribed,Zona
+Nicola,Bonaventura,M,18,La Spezia,45610,3,1,Investigated,Rougeole
+Carolina,Trentini,F,78,Ravenna,19023,0,1,No Records,Grippe
+Fabio,Caboto,M,34,L'Aquila,47657,2,3,On Parole,Zona
+Sandra,Ritacca,F,50,Vercelli,13380,0,1,Pardoned,Hépatite C
+Sonia,Zola,F,68,Brindisi,22131,0,3,Acquitted,Dengue
+Pierina,Stoppani,F,20,Ascoli Piceno,56268,0,5,On Parole,Zona
+Barbara,Marconi,F,26,Belluno,109155,3,1,No Records,Rhino-pharyngite
+Giuseppina,Abba,F,35,Massa-Carrara,51140,0,1,Prescribed,Healthy
+Ubaldo,Gianvecchio,M,18,Pesaro e Urbino,4749,2,3,Convicted,Dengue
+Ranieri,Trombetta,M,54,Catania,45754,1,3,Acquitted,Grippe
+Adriano,Saffi,M,78,Ravenna,19965,2,10,Acquitted,Appendicite
+Carmelo,Franscini,M,71,Oristano,76335,0,10,Investigated,Appendicite
+Valeria,Boezio,F,73,Pordenone,8976,1,1,On Probation,Healthy
+Rosaria,Littizzetto,F,42,Barletta-Andria-Trani,18481,3,10,Investigated,Otite
+Romeo,Tagliafierro,M,48,Vibo Valentia,14371,1,1,Prescribed,Hépatite C
+Stefania,Treves,F,65,Grosseto,9213,4,5,On Probation,Hépatite C
+Loretta,Anastasi,F,48,Verbano-Cusio-Ossola,6385,2,3,On Probation,Rhino-pharyngite
+Aldo,Satta,M,43,Alessandria,15774,0,5,Prescribed,Dengue
+Leonardo,Gramsci,M,54,Cagliari,47582,0,5,Prescribed,Zona
+Ottone,Guariento,M,27,Rimini,105796,5,3,Pardoned,Dengue
+Monica,Monaco,F,26,Rimini,30930,0,1,Investigated,Chlamydia
+Serena,Detti,F,20,Venezia,14630,0,1,Investigated,Urticaire
+Niccolò,Toso,M,19,Cremona,30747,0,3,Investigated,Hépatite B
+Silvio,Saffi,M,67,Ancona,26590,0,3,On Probation,Cataracte
+Aldo,Traetta,M,71,Cuneo,42284,0,10,On Probation,Grippe
+Teresa,Regge,F,35,Forlì-Cesena,35260,1,5,No Records,Appendicite
+Camillo,Ludovisi,M,65,Viterbo,102099,0,5,Investigated,Dengue
+Donato,Pisano,M,21,Pavia,53907,3,5,On Parole,Hépatite B
+Luigina,Chigi,F,63,Siracusa,11288,0,10,Pardoned,Hépatite C
+Micheletto,Burcardo,M,26,Udine,37207,0,1,Prescribed,Rougeole
+Lucrezia,Bellini,F,33,Matera,25732,2,1,On Probation,Grippe
+Antonina,Cendron,F,52,Lucca,21191,0,1,On Probation,Eczéma
+Michela,Boezio,F,69,Varese,24305,0,3,Convicted,Grippe
+Irma,Carducci,F,22,Isernia,23691,2,10,Investigated,Grippe
+Enzo,Gullotta,M,42,Roma,12616,2,1,Pardoned,Hépatite B
+Eliana,Costalonga,F,66,Lodi,44834,2,3,On Probation,Appendicite
+Arnaldo,Cendron,M,46,Oristano,31531,0,5,On Probation,Appendicite
+Luciana,Leonardi,F,70,Ferrara,36127,2,5,Investigated,Hépatite B
+Eliana,Tamburi,F,38,Bolzano,10031,1,10,Prescribed,Otite
+Simonetta,Tremonti,F,48,La Spezia,27748,3,5,On Parole,Varicelle
+Piergiuseppe,Sagnelli,M,23,Brescia,18793,2,5,Acquitted,Rougeole
+Veronica,Botta,F,41,Lecco,29094,0,10,Investigated,Varicelle
+Virginia,Schiavo,F,55,Foggia,83570,5,1,Pardoned,Eczéma
+Antonia,Morricone,F,67,Bologna,65567,0,5,Prescribed,Chlamydia
+Morena,Druso,F,31,Gorizia,45300,2,1,On Parole,Appendicite
+Marta,Marrone,F,76,Arezzo,29556,2,1,No Records,Cataracte
+Concetta,Liguori,F,70,Perugia,41141,2,1,Acquitted,Healthy
+Mirko,Brambilla,M,59,Latina,29286,2,5,No Records,Varicelle
+Vittorio,Vergassola,M,19,Parma,34384,3,10,On Parole,Healthy
+Dante,Segni,M,34,Potenza,30038,3,1,On Probation,Grippe
+Livia,Scalfaro,F,68,Barletta-Andria-Trani,62791,1,5,Prescribed,Angine
+Marcella,Pisacane,F,20,Trieste,19989,0,5,Investigated,Eczéma
+Annamaria,Geraci,F,32,Prato,21546,0,10,No Records,Eczéma
+Nicola,Camuccini,M,71,Ascoli Piceno,18785,2,1,Convicted,Cataracte
+Agostino,Renault,M,27,Nuoro,99386,1,5,Convicted,Rougeole
+Flavio,Comboni,M,41,Terni,40887,1,3,Prescribed,Rougeole
+Riccardo,Sbarbaro,M,50,Livorno,98072,5,1,Convicted,Urticaire
+Nicoletta,Vitturi,F,49,Pesaro e Urbino,47418,2,3,No Records,Varicelle
+Gastone,Coppola,M,20,Pisa,101208,1,1,Convicted,Hépatite C
+Liana,Ferragamo,F,60,Rieti,17886,2,10,No Records,Dengue
+Giancarlo,Mondaini,M,69,Ancona,47691,2,10,Pardoned,Zona
+Atenulf,Durante,M,37,Pescara,19915,3,10,Convicted,Appendicite
+Ernesto,Bondumier,M,38,Rovigo,29290,0,3,Prescribed,Hépatite B
+Benvenuto,Mantegazza,M,72,Barletta-Andria-Trani,25668,1,1,Convicted,Appendicite
+Milo,Ginesio,M,55,Verbano-Cusio-Ossola,82524,1,1,Acquitted,Otite
+Alessandro,Pareto,M,73,Varese,26317,0,3,Prescribed,Dengue
+Giuliano,Salandra,M,63,Biella,103507,0,1,Prescribed,Hépatite C
+Alessandra,Brunelleschi,F,35,Parma,10477,4,10,Acquitted,Otite
+Giustino,Marinetti,M,47,Sud Sardegna,102675,2,10,Pardoned,Hépatite B
+Nicola,Gaito,M,48,Enna,18604,1,5,Pardoned,Otite
+Donatello,Boldù,M,45,Ascoli Piceno,87104,4,5,On Parole,Rhino-pharyngite
+Bianca,Cattaneo,F,37,Nuoro,175156,2,5,No Records,Rhino-pharyngite
+Valentina,Fieramosca,F,26,Perugia,34818,0,10,Investigated,Rougeole
+Orlando,Guarneri,M,45,Palermo,34670,0,3,Investigated,Scarlatine
+Roberta,Basadonna,F,62,Belluno,70469,0,3,Pardoned,Zona
+Valeria,Sobrero,F,70,Vibo Valentia,17487,0,3,Investigated,Cataracte
+Gabriele,Stucchi,M,69,Bergamo,18522,0,1,Convicted,Urticaire
+Federigo,Giannini,M,36,Sassari,36315,0,3,No Records,Rhino-pharyngite
+Sandra,Leonetti,F,30,Pescara,11332,3,1,No Records,Scarlatine
+Girolamo,Segrè,M,70,Udine,65431,3,10,On Probation,Chlamydia
+Stella,Mazzacurati,F,61,Ferrara,105086,3,3,On Parole,Rougeole
+Gioele,Scalfaro,M,33,Perugia,19724,0,5,Pardoned,Hépatite C
+Aldo,Mercantini,M,45,Monza e Brianza,120343,0,10,On Parole,Scarlatine
+Giada,Marconi,F,32,Parma,31045,1,1,On Probation,Rougeole
+Lucrezia,Gaggini,F,65,Trapani,16056,0,3,Acquitted,Zona
+Antonietta,Samele,F,31,Verbano-Cusio-Ossola,30356,1,5,No Records,Scarlatine
+Melissa,Zetticci,F,51,Belluno,51845,1,10,Investigated,Chlamydia
+Arturo,Zanichelli,M,76,Imperia,26033,0,3,Pardoned,Appendicite
+Gustavo,Abbagnale,M,34,Forlì-Cesena,18233,0,1,Acquitted,Urticaire
+Calcedonio,Gradenigo,M,66,Imperia,99484,2,5,Investigated,Urticaire
+Graziella,Bongiorno,F,42,Ascoli Piceno,32737,2,3,On Probation,Hépatite B
+Augusto,Ossola,M,27,Caltanissetta,16053,2,10,Investigated,Zona
+Sandro,Manacorda,M,70,Novara,41577,3,1,Pardoned,Chlamydia
+Cirillo,Regge,M,75,Messina,14356,2,3,On Probation,Scarlatine
+Uberto,Monteverdi,M,41,Asti,70669,2,10,Investigated,Rougeole
+Milo,Bragadin,M,66,Macerata,44075,0,3,Pardoned,Otite
+Cassandra,Esposito,F,80,Alessandria,20089,4,1,On Probation,Chlamydia
+Ornella,Randazzo,F,39,Como,32961,0,3,Prescribed,Urticaire
+Greca,Balbo,F,58,Cremona,20874,2,3,Pardoned,Grippe
+Luigi,Gabrieli,M,48,Venezia,44901,0,10,Pardoned,Eczéma
+Silvia,Porzio,F,71,Brindisi,10428,0,1,On Probation,Cataracte
+Antonia,Bonaventura,F,26,Cosenza,121606,2,1,On Parole,Hépatite B
+Severino,Zola,M,25,Vicenza,16823,2,5,Acquitted,Zona
+Panfilo,Volterra,M,42,Pisa,38826,0,10,On Probation,Rhino-pharyngite
+Fernanda,Bottigliero,F,76,Messina,18634,2,3,Prescribed,Urticaire
+Aldo,Bonomo,M,39,Modena,16436,2,10,Convicted,Scarlatine
+Girolamo,Argenti,M,45,Vibo Valentia,28009,1,3,Convicted,Zona
+Elvira,Fischetti,F,66,Ferrara,36243,1,1,Pardoned,Healthy
+Micheletto,Simeoni,M,46,Catania,10186,2,3,Convicted,Hépatite B
+Orazio,Sanguineti,M,42,Ancona,34325,0,5,Convicted,Scarlatine
+Valentina,Bova,F,66,Terni,99290,4,10,No Records,Cataracte
+Imelda,Grifeo,F,39,Brindisi,44356,1,1,Convicted,Rhino-pharyngite
+Gioachino,Scialpi,M,43,Udine,12982,2,10,Convicted,Hépatite C
+Giacomo,Manunta,M,76,La Spezia,43624,0,1,On Parole,Dengue
+Sergius,Cociarelli,M,38,Bologna,21894,0,10,Pardoned,Dengue
+Vanessa,Guidotti,F,78,Torino,56472,0,1,On Probation,Scarlatine
+Orazio,Tedesco,M,52,Siracusa,287233,0,3,Prescribed,Scarlatine
+Giacinto,Polizzi,M,53,Avellino,45765,0,5,Investigated,Scarlatine
+Alberico,Agostinelli,M,59,Sud Sardegna,16433,2,1,Acquitted,Rhino-pharyngite
+Rita,Agostinelli,F,54,Crotone,70076,2,5,On Parole,Dengue
+Michela,Sandi,F,70,Vercelli,15832,0,1,Prescribed,Rhino-pharyngite
+Elisa,Cheda,F,19,Sassari,17041,3,1,On Parole,Rhino-pharyngite
+Romana,Mascagni,F,25,Bari,22739,3,5,Pardoned,Eczéma
+Liana,Borzomì,F,47,Siena,64052,4,3,On Probation,Scarlatine
+Antonino,Pisaroni,M,65,Alessandria,55399,3,5,Convicted,Zona
+Imelda,Turci,F,78,Pisa,101026,2,3,Convicted,Rougeole
+Mattia,Pacomio,M,43,Oristano,3584,4,1,Prescribed,Urticaire
+Biagio,Nolcini,M,31,Imperia,81554,3,1,No Records,Rhino-pharyngite
+Cassandra,Gangemi,F,45,Genova,19160,2,1,On Probation,Eczéma
+Alderano,Tarchetti,M,78,Brescia,23518,0,1,No Records,Chlamydia
+Giada,Ortese,F,79,Avellino,15068,0,10,On Parole,Grippe
+Luigi,Navarria,M,62,Sassari,14155,3,3,On Parole,Healthy
+Carlo,Gioberti,M,19,Valle d'Aosta,108809,4,5,On Probation,Scarlatine
+Donatello,Comeriato,M,70,Alessandria,12130,1,5,Investigated,Urticaire
+Rossana,Baglioni,F,76,Bari,53364,3,10,On Probation,Grippe
+Licia,Pizzamano,F,48,Trento,37636,1,1,No Records,Hépatite C
+Tiziano,Morabito,M,46,Reggio Calabria,142088,5,5,On Parole,Healthy
+Tonino,Belletini,M,54,Cagliari,23941,0,5,No Records,Appendicite
+Cassandra,Giammusso,F,59,Sondrio,39898,4,10,Acquitted,Rougeole
+Clelia,Castelli,F,52,Prato,16953,2,1,On Parole,Chlamydia
+Giacomo,Savorgnan,M,65,Caserta,27638,2,10,On Probation,Zona
+Arnulfo,Bonanno,M,25,Ravenna,15942,2,5,Acquitted,Grippe
+Tiziana,Ravaglioli,F,57,Bari,93659,2,3,On Parole,Grippe
+Rita,Gadda,F,76,Bergamo,14731,0,5,No Records,Healthy
+Simonetta,Doria,F,55,Varese,58851,4,10,Investigated,Varicelle
+Ramona,Nolcini,F,33,Pordenone,78402,0,10,No Records,Appendicite
+Teresa,Iacobucci,F,22,Chieti,34127,3,5,Acquitted,Hépatite C
+Melania,Pergolesi,F,38,Napoli,100987,0,3,Pardoned,Cataracte
+Bartolomeo,Cavalcanti,M,57,Lecce,112344,4,5,On Parole,Otite
+Alderano,Taliani,M,45,Pisa,5053,2,10,Pardoned,Cataracte
+Benvenuto,Disdero,M,66,Ancona,23103,2,5,Convicted,Appendicite
+Ermenegildo,Cheda,M,26,Salerno,21717,5,1,Pardoned,Angine
+Coriolano,Tozzo,M,45,Valle d'Aosta,17000,0,1,No Records,Rougeole
+Emma,Nordio,F,34,Campobasso,12611,2,10,On Parole,Otite
+Margherita,Tartini,F,51,Reggio Calabria,7917,0,3,On Probation,Grippe
+Baldassare,Trobbiani,M,78,Sud Sardegna,19988,5,5,Pardoned,Appendicite
+Silvestro,Fracci,M,48,Nuoro,35387,3,1,Acquitted,Rhino-pharyngite
+Diana,Maderna,F,78,Bologna,54586,4,10,Convicted,Varicelle
+Liberto,Gadda,M,47,Padova,133273,1,1,On Parole,Eczéma
+Fausto,Aulenti,M,18,Lodi,10102,2,3,Investigated,Chlamydia
+Arnulfo,Foa,M,40,Benevento,34761,1,1,No Records,Chlamydia
+Giulio,Vendetti,M,65,Brescia,32390,1,1,No Records,Hépatite B
+Annetta,Ottino,F,62,Barletta-Andria-Trani,61556,1,3,On Parole,Otite
+Agnolo,Gonzaga,M,37,Milano,72086,2,10,Prescribed,Dengue
+Luciana,Coppola,F,31,Forlì-Cesena,25016,3,3,No Records,Cataracte
+Erika,Paruta,F,34,Crotone,64992,3,5,On Probation,Otite
+Ermes,Gadda,M,80,Parma,44696,2,5,On Probation,Cataracte
+Gianluca,Agazzi,M,64,Reggio Calabria,3085,2,1,Pardoned,Appendicite
+Renata,Antonello,F,76,Vercelli,44630,2,3,On Parole,Chlamydia
+Lucio,Pigafetta,M,24,Grosseto,36122,1,3,Pardoned,Chlamydia
+Nadia,Boldù,F,39,Isernia,25632,4,3,Pardoned,Varicelle
+Franco,Dallapé,M,31,Enna,21303,1,1,On Probation,Grippe
+Riccardo,Iannotti,M,67,Cagliari,10870,1,1,No Records,Varicelle
+Ernesto,Iannotti,M,74,Caltanissetta,177895,0,10,Pardoned,Scarlatine
+Martina,Borsellino,F,21,Lecce,10984,3,1,No Records,Hépatite C
+Liliana,Lussu,F,43,Grosseto,6336,2,3,Investigated,Otite
+Martino,Bonomo,M,65,Valle d'Aosta,49412,2,3,On Parole,Chlamydia
+Luca,Broggini,M,56,Messina,39427,0,5,Acquitted,Angine
+Nedda,Carullo,F,56,Trento,20342,0,10,Investigated,Cataracte
+Armando,Norbiato,M,61,Rimini,12190,1,3,Pardoned,Hépatite C
+Ottone,Chiesa,M,36,Brescia,51583,0,10,Pardoned,Zona
+Annalisa,Renzi,F,66,Ancona,12705,2,10,Prescribed,Rougeole
+Guido,Romano,M,24,Prato,30216,1,5,On Parole,Cataracte
+Mercedes,Mascagni,F,45,Sassari,8253,2,5,On Parole,Healthy
+Serafina,Gussoni,F,50,Padova,13042,0,5,Pardoned,Appendicite
+Vincenza,Ossani,F,67,Parma,66168,1,1,Prescribed,Varicelle
+Maura,Mercadante,F,55,Pistoia,19209,1,5,Pardoned,Rougeole
+Marcella,Ortese,F,43,Belluno,86661,0,10,Investigated,Angine
+Luigi,Accardo,M,64,Mantova,56508,2,1,Pardoned,Chlamydia
+Gino,Caracciolo,M,70,Cremona,45871,0,5,On Parole,Dengue
+Fredo,Mogherini,M,38,Catanzaro,27258,3,10,Acquitted,Angine
+Ruggero,Prada,M,64,Caserta,18281,1,1,On Probation,Grippe
+Zaira,Roncalli,F,28,Barletta-Andria-Trani,21474,4,10,Pardoned,Urticaire
+Griselda,Bonaventura,F,25,Padova,44559,2,1,On Parole,Chlamydia
+Lolita,Pertile,F,47,Roma,12638,2,10,Prescribed,Urticaire
+Ettore,Caracciolo,M,62,Reggio Calabria,47220,0,5,Prescribed,Otite
+Elladio,Ferrabosco,M,65,Bari,50281,3,3,On Probation,Varicelle
+Milena,Boitani,F,23,Forlì-Cesena,41638,1,10,No Records,Scarlatine
+Valentina,Barozzi,F,49,Perugia,3085,2,10,On Parole,Eczéma
+Damiano,Tamburello,M,80,Barletta-Andria-Trani,22001,0,10,Convicted,Appendicite
+Eva,Vivaldi,F,22,Rimini,57928,1,3,Prescribed,Urticaire
+Alina,Tosto,F,44,Genova,30467,0,3,Convicted,Eczéma
+Luisa,Capuana,F,78,Trieste,92356,3,10,Prescribed,Cataracte
+Eraldo,Ritacca,M,37,Verona,232915,1,1,Prescribed,Appendicite
+Salvi,Bottigliero,M,24,Pisa,18963,0,3,Prescribed,Otite
+Nicolò,Garrone,M,63,Sondrio,37713,2,10,Convicted,Chlamydia
+Costantino,Flaiano,M,70,Cosenza,5345,5,5,On Probation,Appendicite
+Elisa,Palazzo,F,29,Trapani,36656,2,3,Acquitted,Zona
+Cassandra,Pagnotto,F,31,Vicenza,33725,4,1,No Records,Grippe
+Giuseppe,Marcacci,M,35,Forlì-Cesena,33659,0,5,Convicted,Appendicite
+Osvaldo,Cortese,M,39,Rieti,101914,1,10,Pardoned,Zona
+Lara,Tasca,F,58,Ancona,12275,2,3,Pardoned,Zona
+Lucrezia,Sabbatini,F,34,Bergamo,37044,2,10,Prescribed,Healthy
+Geronimo,Mazzacurati,M,77,Foggia,35911,4,3,Convicted,Dengue
+Adamo,Venditti,M,73,Siracusa,13914,2,5,Acquitted,Eczéma
+Ruggiero,Morrocco,M,29,Firenze,11624,2,10,On Parole,Dengue
+Enzio,Pellico,M,48,Reggio Calabria,163290,2,5,On Probation,Rougeole
+Clelia,Zanazzo,F,33,Lecco,36399,2,10,Acquitted,Appendicite
+Elladio,Dossetti,M,54,Crotone,46610,2,1,Investigated,Hépatite B
+Giorgia,Bragadin,F,38,Trapani,14278,3,5,Investigated,Rhino-pharyngite
+Ugo,Marcacci,M,40,Vicenza,16075,2,10,Convicted,Zona
+Carlo,Varano,M,45,Palermo,19503,0,3,Prescribed,Grippe
+Ilaria,Modigliani,F,31,Genova,21208,2,5,Acquitted,Zona
+Dario,Faugno,M,57,Frosinone,36776,3,10,Pardoned,Otite
+Ermes,Briccialdi,M,54,Reggio Emilia,44225,0,5,Pardoned,Grippe
+Lucrezia,Segni,F,26,Alessandria,26752,2,3,No Records,Scarlatine
+Mariana,Coppola,F,77,Alessandria,80081,2,3,Convicted,Grippe
+Dolores,Niscoromni,F,53,Vibo Valentia,30452,0,3,No Records,Hépatite C
+Girolamo,Udinese,M,62,Grosseto,20482,0,3,On Parole,Hépatite C
+Carolina,Bajardi,F,58,Ascoli Piceno,44440,0,3,No Records,Otite
+Donna,Zanazzo,F,60,Bolzano,33611,0,3,Investigated,Varicelle
+Luciano,Monte,M,31,Matera,33095,2,1,Pardoned,Angine
+Romana,Tuzzolino,F,59,Foggia,43232,0,10,Investigated,Otite
+Ninetta,Correr,F,46,Cosenza,61700,0,10,No Records,Hépatite B
+Gianni,Beccaria,M,50,Enna,103736,5,10,Pardoned,Angine
+Corrado,Cuda,M,71,Ancona,33749,2,5,On Probation,Hépatite B
+Enrico,Pascarella,M,39,Chieti,8594,4,3,On Probation,Angine
+Fausto,Fittipaldi,M,21,Udine,66883,2,5,Pardoned,Hépatite C
+Gianmarco,Dovara,M,50,Siena,20901,0,1,Prescribed,Cataracte
+Rossana,Toldo,F,39,Rieti,11926,0,3,Prescribed,Urticaire
+Eleanora,Viviani,F,69,Catania,58586,0,3,Acquitted,Otite
+Bettina,Bazzi,F,36,Udine,10964,0,3,Investigated,Cataracte
+Donna,Troisi,F,37,Messina,133781,1,3,Pardoned,Urticaire
+Costantino,Sraffa,M,24,Reggio Emilia,25024,4,3,Prescribed,Cataracte
+Angelo,Respighi,M,73,Rovigo,25685,3,3,On Parole,Chlamydia
+Lisa,Sgalambro,F,45,Palermo,13775,2,1,Acquitted,Scarlatine
+Ludovica,Draghi,F,31,Parma,22425,5,3,On Probation,Dengue
+Sonia,Lucchesi,F,48,Viterbo,9536,2,10,Convicted,Chlamydia
+Ernesto,Toscanini,M,37,Forlì-Cesena,36510,0,3,Investigated,Chlamydia
+Giulietta,Proietti,F,35,Nuoro,79894,2,10,Convicted,Healthy
+Riccardo,Fusani,M,40,Bari,18752,2,3,Prescribed,Grippe
+Agnolo,Vidoni,M,56,Trieste,50840,2,3,On Probation,Eczéma
+Guido,Sraffa,M,32,Savona,65519,3,10,On Parole,Hépatite B
+Piergiuseppe,Necci,M,67,Massa-Carrara,25889,2,3,Acquitted,Angine
+Antonina,Oscuro,F,59,L'Aquila,15027,0,10,Convicted,Dengue
+Manuel,Mazzocchi,M,62,Venezia,41358,2,10,Acquitted,Grippe
+Roberto,Curci,M,67,Messina,29348,1,1,Investigated,Rhino-pharyngite
+Romeo,Guinizzelli,M,23,Savona,28606,0,5,On Parole,Zona
+Gelsomina,Boccaccio,F,36,Benevento,114143,4,1,No Records,Eczéma
+Piermaria,Pezzali,M,42,Reggio Calabria,2454,0,3,Investigated,Healthy
+Morena,Tosto,F,31,Sondrio,26413,2,3,Investigated,Chlamydia
+Fausto,Boitani,M,22,Siena,19644,2,3,On Probation,Zona
+Licia,Alonzi,F,22,Reggio Emilia,8248,2,5,No Records,Eczéma
+Rosario,Luciani,M,51,Ancona,38206,5,1,Acquitted,Varicelle
+Temistocle,Turci,M,62,Gorizia,56034,0,3,Investigated,Grippe
+Benvenuto,Cociarelli,M,21,Milano,32723,2,10,On Probation,Otite
+Greca,Chiappetta,F,28,Messina,49316,3,1,Investigated,Hépatite C
+Rossana,Emo,F,25,Pesaro e Urbino,10978,0,1,Investigated,Appendicite
+Raffaello,Fischetti,M,75,La Spezia,83152,2,3,Pardoned,Urticaire
+Goffredo,Telesio,M,77,Trapani,92294,0,10,Acquitted,Appendicite
+Augusto,Vidoni,M,48,Potenza,16550,2,1,Prescribed,Hépatite B
+Angelica,Siffredi,F,20,L'Aquila,11977,0,10,Pardoned,Dengue
+Liliana,Fibonacci,F,23,Grosseto,6843,1,10,On Probation,Chlamydia
+Temistocle,Schiavo,M,52,Rovigo,24450,0,10,Pardoned,Appendicite
+Livia,Napolitano,F,40,Novara,14469,0,5,Investigated,Angine
+Giuseppina,Maspero,F,80,Como,45127,2,5,Prescribed,Angine
+Damiano,Scaramucci,M,37,Catania,20704,0,3,Acquitted,Varicelle
+Alessio,Magrassi,M,31,Trieste,34235,2,1,Acquitted,Healthy
+Gemma,Saraceno,F,78,Messina,15209,0,5,Convicted,Zona
+Valentina,Pacomio,F,33,Benevento,27227,0,10,On Parole,Varicelle
+Dionigi,Filogamo,M,36,Taranto,22365,2,1,Convicted,Appendicite
+Melina,Bajamonti,F,33,Viterbo,25704,2,5,On Probation,Otite
+Gionata,Platini,M,60,Reggio Emilia,68344,2,5,On Parole,Appendicite
+Luisa,Paruta,F,61,Prato,37099,2,10,Prescribed,Rhino-pharyngite
+Cipriano,Lanfranchi,M,29,Parma,7050,1,1,No Records,Grippe
+Cristina,Ioppi,F,33,Udine,115730,2,10,Convicted,Zona
+Susanna,Capecchi,F,78,Messina,14946,4,1,Pardoned,Rhino-pharyngite
+Lauretta,Caboto,F,27,Siracusa,18519,2,3,On Probation,Dengue
+Nadia,Barcaccia,F,50,Chieti,30643,2,1,Investigated,Cataracte
+Dino,Sabatini,M,19,Isernia,111795,1,5,Prescribed,Appendicite
+Agnolo,Cutrufo,M,79,Varese,39799,2,5,Investigated,Rougeole
+Paoletta,Sabbatini,F,41,Pisa,18536,0,3,On Probation,Varicelle
+Domenico,Mimun,M,54,Catania,23285,2,3,Prescribed,Hépatite B
+Cristina,Tornatore,F,18,Venezia,25875,2,10,Pardoned,Angine
+Marcello,Turchetta,M,26,Barletta-Andria-Trani,150321,0,3,Pardoned,Angine
+Luciano,Santi,M,18,Pordenone,16046,1,10,On Parole,Eczéma
+Filippo,Tonisto,M,26,Avellino,14622,0,1,On Probation,Rhino-pharyngite
+Simone,Gualandi,M,42,Parma,15260,0,1,Investigated,Grippe
+Angelica,Petrucelli,F,62,Ancona,75525,2,1,No Records,Scarlatine
+Ippazio,Casellati,M,34,Rieti,11809,2,1,Pardoned,Hépatite B
+Maria,Alfonsi,F,28,Potenza,16862,3,10,Convicted,Otite
+Benvenuto,Pigafetta,M,62,Macerata,30646,0,3,Convicted,Hépatite C
+Valeria,Scalfaro,F,25,Pesaro e Urbino,13645,1,1,Pardoned,Eczéma
+Santino,Marenzio,M,71,Benevento,50947,3,5,Pardoned,Scarlatine
+Germana,Caironi,F,23,Brindisi,29250,3,3,On Parole,Urticaire
+Cesare,Proietti,M,75,Forlì-Cesena,24173,0,10,Convicted,Dengue
+Niccolò,Bassi,M,47,Sud Sardegna,8439,2,1,Investigated,Chlamydia
+Nicolò,Marrone,M,53,Belluno,13666,0,1,Pardoned,Chlamydia
+Sole,Romiti,F,57,Prato,15961,3,3,No Records,Rhino-pharyngite
+Daniele,Tafuri,M,29,Chieti,19298,3,3,Investigated,Angine
+Saverio,Giacometti,M,57,Chieti,40272,2,10,On Probation,Zona
+Gianfrancesco,Tarantini,M,27,Sassari,27048,1,5,Prescribed,Healthy
+Annalisa,Ligorio,F,73,Arezzo,23203,2,10,On Probation,Rougeole
+Antonio,Ferretti,M,63,Varese,50791,2,5,On Probation,Cataracte
+Natalia,Abbagnale,F,69,Enna,103477,2,1,On Probation,Hépatite C
+Lolita,Bignardi,F,71,Lecce,40054,4,10,Convicted,Angine
+Giulietta,Novaro,F,43,Palermo,16721,0,3,On Probation,Eczéma
+Costantino,Zoppetto,M,39,Parma,38218,2,1,Convicted,Scarlatine
+Patrizia,Passalacqua,F,64,Pescara,71021,1,1,Prescribed,Angine
+Franco,Belletini,M,35,Prato,41285,1,10,Investigated,Cataracte
+Gioffre,Fagiani,M,32,Varese,29033,0,1,Convicted,Rougeole
+Rolando,Chinnici,M,70,Pesaro e Urbino,33575,2,1,Convicted,Appendicite
+Cipriano,Tomasetti,M,22,Reggio Calabria,29143,0,5,Prescribed,Hépatite C
+Enzo,Donà,M,46,Crotone,98765,4,5,On Parole,Zona
+Nadia,Civaschi,F,48,Torino,15406,2,5,On Parole,Chlamydia
+Ezio,Emanuelli,M,49,Cagliari,63270,2,3,Acquitted,Rougeole
+Tatiana,Maderno,F,47,Teramo,13948,1,10,No Records,Dengue
+Loretta,Bottaro,F,49,Enna,30577,0,3,Prescribed,Appendicite
+Luciana,Marinetti,F,55,Parma,81486,0,1,Acquitted,Healthy
+Ida,Antonelli,F,79,Bergamo,22256,0,1,On Parole,Zona
+Antonella,Verdone,F,74,Teramo,155313,2,3,Convicted,Hépatite B
+Umberto,Benedetti,M,58,Taranto,12548,1,3,Pardoned,Healthy
+Imelda,Ramazzotti,F,45,Siracusa,6482,2,1,No Records,Urticaire
+Antonio,Berengario,M,22,Macerata,6539,0,10,Convicted,Hépatite B
+Lodovico,Polizzi,M,74,Siracusa,141093,4,3,Prescribed,Otite
+Simone,Terragni,M,40,Como,54204,0,5,On Probation,Scarlatine
+Corrado,Bompiani,M,62,Arezzo,73553,0,3,Investigated,Dengue
+Adelmo,Miniati,M,80,Macerata,85947,2,5,On Parole,Cataracte
+Berenice,Salvini,F,36,Foggia,35319,0,5,Convicted,Chlamydia
+Barbara,Busoni,F,52,Modena,25579,1,10,Investigated,Varicelle
+Temistocle,Majewski,M,65,Verbano-Cusio-Ossola,119187,2,5,Acquitted,Dengue
+Melania,Munari,F,40,Latina,22664,3,3,Acquitted,Zona
+Baldassare,Russo,M,62,Palermo,88744,3,1,No Records,Hépatite B
+Matilda,Letta,F,33,Verona,66806,0,1,Convicted,Rhino-pharyngite
+Amedeo,Mondadori,M,53,Agrigento,25166,2,3,On Probation,Varicelle
+Dario,Bossi,M,30,Vicenza,16441,2,3,Pardoned,Grippe
+Enzio,Bixio,M,43,Lecco,17149,0,10,On Probation,Angine
+Annunziata,Sgarbi,F,78,Prato,24592,2,5,No Records,Eczéma
+Gustavo,Borzomì,M,70,Palermo,19217,4,3,Investigated,Chlamydia
+Amedeo,Romiti,M,38,Rimini,26158,0,1,On Parole,Urticaire
+Rossana,Bellò,F,46,Pesaro e Urbino,21065,0,1,Acquitted,Varicelle
+Ubaldo,Petralli,M,65,Como,44167,5,1,Prescribed,Grippe
+Melissa,Letta,F,53,Bergamo,46317,2,1,No Records,Varicelle
+Elisa,Anguissola,F,19,Trento,45412,1,5,Pardoned,Angine
+Gian,Morellato,M,37,Brindisi,10902,4,10,On Probation,Scarlatine
+Arnaldo,Semitecolo,M,71,Isernia,66461,1,5,Convicted,Angine
+Lara,Tiepolo,F,79,Caltanissetta,16184,4,3,On Probation,Hépatite B
+Michela,Boccherini,F,67,Crotone,18944,1,3,On Parole,Eczéma
+Vittoria,Burcardo,F,34,Bergamo,8672,0,10,On Parole,Chlamydia
+Romeo,Columbo,M,38,Ancona,57295,3,3,No Records,Hépatite C
+Irma,Barberini,F,59,Rieti,35140,2,5,Convicted,Zona
+Sabatino,Gucci,M,60,Rimini,60458,5,3,On Probation,Rhino-pharyngite
+Federico,Giannotti,M,67,Treviso,96549,1,5,Investigated,Scarlatine
+Raffaella,Tencalla,F,38,Padova,21770,0,10,Acquitted,Varicelle
+Dino,Polizzi,M,74,Ragusa,17315,3,5,No Records,Appendicite
+Barbara,Riccardi,F,59,Cosenza,30745,1,5,On Probation,Chlamydia
+Gioffre,Papafava,M,64,Rimini,9891,0,3,Pardoned,Hépatite B
+Patrizio,Berlusconi,M,35,Macerata,26411,2,3,On Probation,Urticaire
+Raffaella,Stradivari,F,68,Parma,35337,2,3,Investigated,Cataracte
+Matilda,Agazzi,F,20,Udine,47123,4,5,On Parole,Grippe
+Pierluigi,Prodi,M,27,Viterbo,55371,2,1,No Records,Eczéma
+Amico,Marenzio,M,50,Milano,13672,0,3,Pardoned,Eczéma
+Bettina,Giacometti,F,71,Trieste,37264,3,1,Investigated,Zona
+Donatella,Speri,F,61,Belluno,18194,1,1,On Probation,Urticaire
+Eraldo,Stoppani,M,58,Mantova,51026,0,3,Convicted,Dengue
+Romina,Zaccardo,F,46,Pistoia,39060,0,5,Pardoned,Hépatite B
+Eugenia,Bellò,F,62,Genova,27210,0,3,On Probation,Grippe
+Achille,Caffarelli,M,63,Udine,63217,0,5,Pardoned,Dengue
+Paola,Treves,F,32,Isernia,32925,2,3,Prescribed,Cataracte
+Napoleone,Pometta,M,43,Cuneo,13102,0,5,Prescribed,Rhino-pharyngite
+Micheletto,Luria,M,35,Crotone,49189,3,10,Acquitted,Dengue
+Fabrizia,Luria,F,78,Bologna,43204,3,1,No Records,Hépatite B
+Ermenegildo,Manunta,M,33,La Spezia,50355,1,10,On Parole,Varicelle
+Salvi,Rapisardi,M,21,Bolzano,8394,0,5,On Probation,Scarlatine
+Armando,Sanudo,M,62,Matera,74379,3,3,No Records,Rhino-pharyngite
+Maria,Bellò,F,75,Verbano-Cusio-Ossola,14361,0,5,No Records,Hépatite C
+Giulia,Corradi,F,46,Rimini,15861,4,5,On Probation,Eczéma
+Annamaria,Ginese,F,36,Valle d'Aosta,29327,0,10,On Probation,Eczéma
+Carla,Dellucci,F,79,Matera,56083,3,10,No Records,Cataracte
+Annetta,Sagese,F,32,Ascoli Piceno,77166,3,1,No Records,Healthy
+Loredana,Opizzi,F,30,Oristano,4698,1,3,Convicted,Hépatite C
+Adriano,Pignatti,M,71,Vicenza,3697,4,10,Convicted,Grippe
+Virginia,Mazzacurati,F,49,Matera,92403,0,5,Convicted,Urticaire
+Ermes,Natta,M,33,Arezzo,89879,2,1,Acquitted,Varicelle
+Gemma,Travaglio,F,51,Catania,19030,1,3,On Probation,Scarlatine
+Rosa,Salvemini,F,32,Torino,24112,1,1,Convicted,Cataracte
+Bernardo,Ginese,M,48,Benevento,35227,3,10,No Records,Zona
+Nino,Segni,M,53,Asti,72619,2,3,No Records,Rhino-pharyngite
+Flavio,Seddio,M,43,Vibo Valentia,34855,2,3,On Probation,Varicelle
+Torquato,Guglielmi,M,64,Cagliari,8878,2,3,Pardoned,Hépatite C
+Gabriele,Mercantini,M,40,Barletta-Andria-Trani,31035,2,5,No Records,Varicelle
+Mattia,Grisoni,M,26,Cosenza,16282,0,1,Acquitted,Zona
+Puccio,Tomasetti,M,57,Vicenza,43639,0,10,On Parole,Hépatite B
+Coluccio,Sforza,M,23,Milano,37386,2,10,Pardoned,Rhino-pharyngite
+Clelia,Marangoni,F,53,Messina,30549,2,1,On Parole,Angine
+Stefania,Bonatti,F,24,Ferrara,14970,3,1,Convicted,Grippe
+Giovanni,Galilei,M,68,Forlì-Cesena,65781,2,5,Pardoned,Appendicite
+Nedda,Lercari,F,40,Biella,41211,3,3,No Records,Eczéma
+Ettore,Jovinelli,M,75,Matera,112966,2,3,No Records,Dengue
+Costanzo,Franceschi,M,62,Macerata,13669,2,10,On Probation,Appendicite
+Milena,Gottardi,F,56,Nuoro,27480,3,5,Convicted,Cataracte
+Elmo,Manolesso,M,65,Trieste,14079,1,1,Prescribed,Varicelle
+Franco,Cutuli,M,50,Pordenone,25231,1,5,On Probation,Cataracte
+Achille,Correr,M,65,Verona,179869,0,5,Investigated,Rougeole
+Beppe,Bertolucci,M,21,Sassari,8914,2,3,On Probation,Otite
+Mercedes,Carosone,F,61,Viterbo,14349,2,3,On Parole,Grippe
+Maria,Migliaccio,F,35,Lecco,27764,0,10,Acquitted,Angine
+Liana,Basso,F,62,Rovigo,24219,0,1,No Records,Otite
+Stefani,Guinizzelli,F,80,Chieti,21090,2,5,Acquitted,Otite
+Jolanda,Gioberti,F,54,Alessandria,245310,4,5,Prescribed,Chlamydia
+Gastone,Guinizzelli,M,32,Perugia,122592,1,5,Prescribed,Healthy
+Marcella,Piazzi,F,62,Terni,65659,0,1,Investigated,Varicelle
+Vincenza,Rismondo,F,38,Treviso,35221,0,5,On Parole,Grippe
+Piergiorgio,Missoni,M,28,Latina,50836,0,3,On Parole,Eczéma
+Martino,Babbo,M,20,Roma,156002,3,5,Pardoned,Otite
+Silvia,Gagliardi,F,31,Padova,45621,2,3,Acquitted,Scarlatine
+Camillo,Angeli,M,20,Lucca,4874,2,10,Convicted,Grippe
+Ignazio,Papetti,M,32,Valle d'Aosta,42446,2,10,Pardoned,Chlamydia
+Claudia,Bombieri,F,74,Prato,39778,2,5,Pardoned,Scarlatine
+Cirillo,Chechi,M,70,Arezzo,59021,1,5,Pardoned,Otite
+Loredana,Mazzi,F,55,Pisa,17365,1,10,Prescribed,Grippe
+Rembrandt,Cianciolo,M,74,Rimini,14429,0,5,Pardoned,Rougeole
+Eraldo,Papafava,M,21,Imperia,37655,0,5,No Records,Eczéma
+Ludovica,Canevascini,F,59,Ascoli Piceno,28535,4,10,Acquitted,Eczéma
+Alberico,Goldstein,M,28,Grosseto,19280,2,5,Pardoned,Urticaire
+Federica,Argento,F,30,Matera,21052,2,3,Prescribed,Hépatite B
+Gemma,Comboni,F,28,Venezia,49042,0,1,Convicted,Rhino-pharyngite
+Annamaria,Cantimori,F,18,Vercelli,145616,0,5,Pardoned,Grippe
+Alessia,Pausini,F,37,Firenze,65203,1,10,Pardoned,Hépatite C
+Annibale,Giusti,M,28,Genova,19031,2,1,No Records,Zona
+Severino,Campano,M,45,Frosinone,17088,0,10,On Parole,Cataracte
+Mariana,Ferrucci,F,61,La Spezia,33660,2,1,Acquitted,Hépatite B
+Luigina,Morgagni,F,53,Pistoia,30536,1,10,On Probation,Dengue
+Flavio,Collodi,M,46,Sondrio,22347,2,1,Prescribed,Grippe
+Riccardo,Bosurgi,M,71,Palermo,61479,2,5,On Probation,Chlamydia
+Teresa,Giannetti,F,26,Crotone,26965,3,3,No Records,Angine
+Nicolò,Guglielmi,M,63,Ragusa,28494,2,1,Prescribed,Healthy
+Augusto,Antonello,M,27,Teramo,59514,2,5,Acquitted,Appendicite
+Ennio,Ortese,M,25,Biella,62842,2,1,Prescribed,Otite
+Sonia,Donatoni,F,42,Catanzaro,7317,1,3,Pardoned,Cataracte
+Amanda,Cabibbo,F,66,Reggio Emilia,19545,3,3,Convicted,Rhino-pharyngite
+Bianca,Priuli,F,72,Latina,113337,0,1,Prescribed,Urticaire
+Caterina,Riccati,F,57,Ragusa,56448,2,10,On Parole,Urticaire
+Luciano,Berengario,M,43,Livorno,28837,2,1,No Records,Scarlatine
+Aria,Romiti,F,47,Treviso,270194,1,1,Prescribed,Varicelle
+Gianpaolo,Vespa,M,41,Ravenna,29311,3,3,Convicted,Healthy
+Mario,Vecellio,M,48,Rovigo,18223,5,3,On Parole,Angine
+Alfio,Stefanelli,M,32,Asti,20028,0,1,Prescribed,Rougeole
+Giorgio,Sauli,M,73,Bari,243049,2,5,Acquitted,Healthy
+Pasquale,Cuda,M,47,Piacenza,56792,3,1,Prescribed,Eczéma
+Massimiliano,Botta,M,51,Crotone,67327,2,10,On Parole,Urticaire
+Pierluigi,Pedrazzini,M,52,Treviso,10356,1,3,Prescribed,Scarlatine
+Silvia,Galiazzo,F,66,Brescia,138906,3,10,On Parole,Varicelle
+Lidia,Sanguineti,F,77,Genova,63227,0,5,On Probation,Chlamydia
+Fabrizio,Camicione,M,25,Reggio Emilia,180423,0,3,Investigated,Zona
+Matteo,Tamburi,M,45,Avellino,38486,2,10,On Probation,Urticaire
+Valentina,Martinelli,F,74,Terni,54190,0,3,Investigated,Otite
+Piergiorgio,Filangieri,M,51,Taranto,186163,0,1,Acquitted,Rhino-pharyngite
+Isa,Bottigliero,F,20,Lecce,42753,0,1,No Records,Dengue
+Ludovico,Sordi,M,45,Palermo,122544,2,1,Acquitted,Zona
+Gianni,Salvini,M,34,Venezia,6693,0,5,On Parole,Cataracte
+Martina,Fantini,F,21,Belluno,148236,0,3,Pardoned,Appendicite
+Pierina,Cagnotto,F,66,Fermo,14353,3,3,Pardoned,Angine
+Lilla,Battisti,F,79,Ascoli Piceno,71327,3,5,Prescribed,Eczéma
+Claudio,Pepe,M,25,Novara,27712,1,5,On Probation,Rougeole
+Mercedes,Golino,F,24,Cremona,46024,0,1,Acquitted,Healthy
+Gianfrancesco,Chinnici,M,62,Teramo,34025,2,1,On Probation,Healthy
+Lina,Rosmini,F,55,Grosseto,51644,2,1,On Probation,Eczéma
+Nadia,Bembo,F,61,Brescia,25172,1,1,On Parole,Eczéma
+Antonello,Pisacane,M,74,Pesaro e Urbino,14378,1,1,Pardoned,Rhino-pharyngite
+Martino,Basso,M,49,Lecco,22593,3,3,Investigated,Appendicite
+Gianfranco,Sagnelli,M,28,Padova,55963,1,5,Convicted,Hépatite C
+Romolo,Parmitano,M,26,Parma,91339,0,3,Prescribed,Eczéma
+Mariano,Florio,M,77,Pavia,16877,2,1,On Parole,Rougeole
+Maria,Brugnaro,F,78,Oristano,11130,1,10,On Probation,Hépatite B
+Sandra,Liguori,F,63,Bergamo,113332,0,1,Pardoned,Angine
+Maria,Correr,F,46,Torino,91914,4,1,On Probation,Healthy
+Gianna,Mancini,F,79,Arezzo,97880,0,10,On Parole,Hépatite B
+Rolando,Pignatti,M,77,Pisa,21657,0,1,Pardoned,Grippe
+Gianfrancesco,Cuomo,M,54,Sud Sardegna,62046,2,3,No Records,Cataracte
+Antonina,Bacosi,F,66,Ravenna,12398,1,1,On Probation,Dengue
+Salvi,Canova,M,75,Latina,8372,0,5,Investigated,Eczéma
+Loretta,Filippelli,F,24,Nuoro,26940,0,10,On Probation,Healthy
+Patrizia,Rosmini,F,38,Nuoro,92694,3,10,Convicted,Zona
+Gloria,Nonis,F,23,Barletta-Andria-Trani,27422,2,3,Prescribed,Hépatite C
+Angelo,Bellucci,M,21,Reggio Calabria,25642,0,1,No Records,Hépatite B
+Marta,Stucchi,F,18,Milano,151656,3,10,Investigated,Cataracte
+Federico,Palombi,M,38,Foggia,39022,4,10,Prescribed,Urticaire
+Daria,Mondaini,F,41,Vicenza,12135,2,5,On Parole,Hépatite B
+Salvi,Abatantuono,M,58,Parma,59257,2,10,No Records,Angine
+Adelmo,Morpurgo,M,47,Latina,24535,0,5,Investigated,Varicelle
+Giampiero,Versace,M,29,Varese,67136,1,5,Prescribed,Urticaire
+Maura,Tamburello,F,70,Verbano-Cusio-Ossola,252848,0,10,On Parole,Varicelle
+Benedetto,Mantegna,M,75,Ravenna,65103,2,1,Prescribed,Scarlatine
+Giovanni,Borzomì,M,52,Parma,25377,3,10,Prescribed,Appendicite
+Rosario,Combi,M,44,Macerata,14349,3,5,Convicted,Scarlatine
+Giuliana,Nievo,F,27,L'Aquila,54902,1,3,Convicted,Angine
+Ludovico,Almagià,M,72,Frosinone,89680,4,3,Acquitted,Angine
+Arnaldo,Fabrizi,M,70,Palermo,67985,2,3,Pardoned,Angine
+Fiorino,Grisoni,M,70,Arezzo,13960,0,5,On Probation,Varicelle
+Umberto,Bellò,M,65,Viterbo,39779,2,3,Prescribed,Urticaire
+Stefania,Morlacchi,F,68,Ravenna,22308,0,10,No Records,Zona
+Donatello,Buonauro,M,23,Milano,72197,3,5,On Parole,Cataracte
+Gianluca,Morabito,M,18,Terni,33502,2,1,Acquitted,Scarlatine
+Luigina,Onisto,F,76,Rieti,75867,0,10,Acquitted,Chlamydia
+Atenulf,Zabarella,M,23,Bolzano,9002,1,5,Investigated,Eczéma
+Giovanna,Mogherini,F,76,Treviso,51645,0,5,Prescribed,Grippe
+Maurizio,Persico,M,25,Padova,15251,0,1,Acquitted,Hépatite B
+Bettina,Morlacchi,F,55,Ancona,242678,1,5,On Parole,Chlamydia
+Santino,Borsellino,M,64,Savona,59875,0,5,Acquitted,Eczéma
+Ernesto,Martinelli,M,60,Isernia,48144,0,3,Convicted,Cataracte
+Luciano,Querini,M,35,Perugia,34019,2,1,Prescribed,Scarlatine
+Marco,Tutino,M,77,Padova,91093,2,3,Convicted,Rougeole
+Puccio,Federici,M,68,Pistoia,24829,4,1,Investigated,Rhino-pharyngite
+Donatella,Michelangeli,F,70,Vercelli,12040,0,5,Convicted,Dengue
+Jolanda,Pucci,F,59,Oristano,15713,3,1,Pardoned,Angine
+Isabella,Bocelli,F,36,Frosinone,22502,3,3,Acquitted,Cataracte
+Gabriella,Pisani,F,27,Frosinone,54030,2,3,Pardoned,Urticaire
+Antonio,Gualandi,M,19,Napoli,16583,1,10,Prescribed,Scarlatine
+Luchino,Littizzetto,M,46,Brescia,23568,4,5,No Records,Varicelle
+Giosuè,Palumbo,M,24,Venezia,11565,0,10,Convicted,Otite
+Melissa,Caffarelli,F,43,Valle d'Aosta,21682,0,10,No Records,Grippe
+Adamo,Deledda,M,47,Viterbo,5317,2,3,Investigated,Grippe
+Antonella,Ortolani,F,52,Parma,60827,2,5,On Parole,Urticaire
+Giustino,Callegaro,M,25,Messina,38650,0,5,On Probation,Eczéma
+Baccio,Zanazzo,M,18,Forlì-Cesena,4739,2,1,Acquitted,Eczéma
+Antonino,Leonardi,M,73,Verbano-Cusio-Ossola,8916,5,1,Acquitted,Dengue
+Dolores,Grifeo,F,55,Isernia,27016,1,3,Prescribed,Healthy
+Amalia,Vecoli,F,45,Ancona,70054,2,10,Acquitted,Eczéma
+Francesco,Maggioli,M,56,Rieti,127185,1,1,Prescribed,Otite
+Emma,Tafuri,F,50,Roma,285005,0,1,On Parole,Grippe
+Oreste,Sagredo,M,28,Vibo Valentia,18131,1,5,On Probation,Cataracte
+Calogero,Malipiero,M,31,Lucca,17892,1,3,On Probation,Scarlatine
+Giulietta,Gasperi,F,52,Ancona,21058,1,5,Pardoned,Chlamydia
+Fedele,Ferrazzi,M,30,Varese,34225,0,10,Acquitted,Rhino-pharyngite
+Isabella,Guarato,F,79,Trieste,64734,2,1,Pardoned,Eczéma
+Susanna,Manolesso,F,23,L'Aquila,45325,4,3,Pardoned,Rougeole
+Tiziana,Alboni,F,21,Imperia,54850,2,1,Pardoned,Eczéma
+Francesco,Tomei,M,67,Reggio Calabria,51924,3,3,On Probation,Varicelle
+Mercedes,Missoni,F,50,Gorizia,64128,2,3,No Records,Hépatite C
+Antonio,Caccianemico,M,28,Latina,23987,3,10,Convicted,Hépatite B
+Giovanni,Trillini,M,45,Enna,26906,4,3,Prescribed,Otite
+Nanni,Pascarella,M,60,Caltanissetta,66522,0,10,Prescribed,Cataracte
+Delfino,Battelli,M,61,Enna,7123,1,5,Acquitted,Angine
+Giorgia,Carpaccio,F,69,Forlì-Cesena,60720,3,10,Convicted,Rougeole
+Antonia,Pepe,F,35,Pescara,37622,1,3,No Records,Rougeole
+Piergiorgio,Donà,M,72,Piacenza,34816,1,10,Investigated,Appendicite
+Arnaldo,Gualtieri,M,27,Livorno,58148,2,1,Pardoned,Grippe
+Sabatino,Cuzzocrea,M,63,Caserta,77503,4,5,On Probation,Scarlatine
+Jacopo,Galeati,M,24,Rimini,12784,0,3,On Parole,Hépatite B
+Germana,Lerner,F,76,Piacenza,94970,2,3,On Probation,Chlamydia
+Rembrandt,Vattimo,M,47,Prato,13656,1,10,Convicted,Hépatite B
+Giacomo,Ferrabosco,M,53,Catania,60661,1,5,On Probation,Chlamydia
+Camillo,Monicelli,M,26,Chieti,64145,1,3,On Probation,Varicelle
+Ronaldo,Marzorati,M,45,Venezia,82568,1,5,On Probation,Rhino-pharyngite
+Dario,Ruggieri,M,50,Treviso,28317,3,1,Convicted,Urticaire
+Stefani,Moneta,F,22,Massa-Carrara,12416,1,1,On Probation,Rougeole
+Melina,Abatantuono,F,53,Roma,28113,4,3,On Probation,Healthy
+Ludovica,Leonetti,F,51,Matera,82638,2,10,Acquitted,Eczéma
+Antonio,Casaleggio,M,74,Siracusa,42933,0,5,On Parole,Urticaire
+Livio,Ostinelli,M,77,Barletta-Andria-Trani,3603,2,5,Acquitted,Appendicite
+Veronica,Contarini,F,53,Grosseto,10466,0,1,Prescribed,Chlamydia
+Caterina,Lollobrigida,F,41,Sud Sardegna,23140,3,1,Acquitted,Hépatite C
+Mariana,Fogazzaro,F,34,Matera,36913,4,3,No Records,Eczéma
+Cassandra,Turati,F,31,Siena,6387,0,5,No Records,Healthy
+Annamaria,Trebbi,F,80,Pescara,37343,2,3,Prescribed,Angine
+Tina,Tartaglia,F,80,Ravenna,14389,3,10,No Records,Dengue
+Valerio,Borsiere,M,63,Valle d'Aosta,21012,1,10,No Records,Rougeole
+Pierina,Salgari,F,26,Lodi,13326,2,10,Pardoned,Varicelle
+Ugolino,Scarpa,M,48,Lodi,38248,1,3,No Records,Otite
+Torquato,Detti,M,30,Napoli,21091,3,1,On Probation,Eczéma
+Ettore,Pacelli,M,39,Catanzaro,36663,1,1,Prescribed,Otite
+Cipriano,Donarelli,M,28,Vicenza,13548,2,5,Acquitted,Hépatite B
+Sebastiano,Bonanno,M,32,Lodi,259289,3,3,On Parole,Cataracte
+Ezio,Sraffa,M,68,Firenze,32365,1,10,Investigated,Urticaire
+Torquato,Toscani,M,76,Asti,626814,3,5,No Records,Dengue
+Amedeo,Guarneri,M,63,L'Aquila,11037,0,5,Pardoned,Grippe
+Telemaco,Farnese,M,54,Nuoro,26181,1,3,Pardoned,Urticaire
+Maria,Cuda,F,49,Livorno,13951,2,3,On Parole,Otite
+Adele,Sagese,F,31,Lodi,9066,3,5,Prescribed,Angine
+Maria,Volterra,F,44,Parma,11692,1,5,Convicted,Rhino-pharyngite
+Gabriele,Vercelloni,M,78,Pavia,44346,2,10,Convicted,Dengue
+Alessandra,Brenna,F,67,Catania,27197,0,1,On Probation,Rougeole
+Raffaella,Fattori,F,69,Palermo,27773,3,5,Pardoned,Scarlatine
+Mattia,Ceci,M,33,Terni,55798,2,1,Prescribed,Cataracte
+Cristina,Iacovelli,F,78,Novara,59037,0,10,Convicted,Healthy
+Bianca,Modugno,F,21,Brescia,120336,3,5,Investigated,Hépatite C
+Gianna,Falloppio,F,56,Udine,12521,3,5,Acquitted,Appendicite
+Calcedonio,Nadi,M,77,Pesaro e Urbino,48046,2,10,Investigated,Healthy
+Dino,Priuli,M,57,Vibo Valentia,18054,0,10,Prescribed,Dengue
+Vanessa,Duodo,F,38,Verbano-Cusio-Ossola,22400,1,10,On Probation,Cataracte
+Rosa,Vespucci,F,75,Perugia,27051,3,3,No Records,Varicelle
+Tina,Verdi,F,20,Perugia,34669,2,10,No Records,Rhino-pharyngite
+Valeria,Armani,F,48,Macerata,27378,2,5,Convicted,Appendicite
+Alfredo,Zanzi,M,64,Cremona,72686,3,10,On Parole,Angine
+Liberto,Tolentino,M,39,Bergamo,29861,2,10,Pardoned,Otite
+Michele,Bompiani,M,63,Pistoia,9441,4,10,On Parole,Varicelle
+Guarino,Balbo,M,32,Matera,5258,2,5,On Parole,Otite
+Camilla,Callegaro,F,23,Matera,68399,2,3,No Records,Rougeole
+Nedda,Barzini,F,28,Belluno,41770,2,10,On Parole,Scarlatine
+Orazio,Bazzi,M,33,Viterbo,72156,2,10,Acquitted,Appendicite
+Gianluigi,Scandone,M,78,Imperia,24683,3,3,On Probation,Appendicite
+Lucrezia,Ferrari,F,49,Milano,77079,4,5,Investigated,Hépatite C
+Graziella,Piane,F,40,Milano,32363,2,3,Pardoned,Dengue
+Ornella,Condoleo,F,38,Imperia,27290,0,10,On Parole,Otite
+Matilda,Trezzini,F,79,Ragusa,37137,0,3,Prescribed,Scarlatine
+Angelica,Loredan,F,64,Prato,40709,2,3,Pardoned,Cataracte
+Mirko,Juvara,M,78,Trieste,37760,2,1,On Probation,Appendicite
+Paolo,Zanichelli,M,46,Ascoli Piceno,27485,1,10,Investigated,Eczéma
+Armando,Maggioli,M,48,Savona,22666,2,1,Acquitted,Rhino-pharyngite
+Fabio,Franzese,M,48,Cuneo,33624,0,10,Prescribed,Cataracte
+Bruno,Vittadello,M,26,Pistoia,26984,0,5,Acquitted,Chlamydia
+Giovanna,Renault,F,59,Bologna,63726,4,10,On Parole,Chlamydia
+Giovanna,Cibin,F,41,Isernia,22310,0,5,On Parole,Cataracte
+Sole,Priuli,F,79,Cremona,97529,2,5,On Probation,Hépatite C
+Elladio,Ritacca,M,55,L'Aquila,178274,2,5,On Parole,Grippe
+Adelmo,Spanevello,M,60,Gorizia,74961,2,1,Pardoned,Varicelle
+Isa,Ciampi,F,52,Roma,32379,0,3,On Parole,Dengue
+Beatrice,Turati,F,64,Pescara,27643,2,10,Convicted,Angine
+Carmelo,Martinelli,M,50,Crotone,93240,2,1,Prescribed,Cataracte
+Baccio,Pizzetti,M,60,Alessandria,117066,0,10,On Probation,Healthy
+Simonetta,Fischetti,F,78,Cosenza,23371,2,3,Convicted,Chlamydia
+Rossana,Modugno,F,62,Verona,120890,1,5,Investigated,Zona
+Vittoria,Moretti,F,80,Siracusa,124009,1,3,Pardoned,Healthy
+Rosa,Toso,F,40,Isernia,6561,0,1,Investigated,Eczéma
+Stefani,Bacosi,F,51,Como,7778,2,1,Prescribed,Angine
+Flora,Toninelli,F,80,Catanzaro,56541,0,5,Investigated,Chlamydia
+Giacobbe,Capone,M,62,Trapani,23164,4,3,Investigated,Hépatite B
+Emilio,Impastato,M,58,Biella,26421,1,5,Investigated,Chlamydia
+Adele,Valentino,F,75,Pescara,50169,2,3,On Parole,Varicelle
+Gabriele,Golino,M,72,Trieste,13359,2,1,No Records,Hépatite C
+Maurilio,Morandi,M,29,Genova,15108,2,5,No Records,Scarlatine
+Bianca,Modiano,F,49,Fermo,40182,3,3,Investigated,Angine
+Mattia,Mercadante,M,64,Prato,52163,1,3,Convicted,Urticaire
+Fredo,Marini,M,73,Bergamo,23385,2,5,Pardoned,Scarlatine
+Nicolò,Franceschi,M,70,Gorizia,23632,3,3,On Parole,Dengue
+Gianna,Roncalli,F,40,Rimini,37925,2,3,Acquitted,Rougeole
+Ida,Bulzoni,F,55,Cuneo,92501,2,1,Pardoned,Angine
+Baccio,Balla,M,38,Cremona,19993,1,3,On Probation,Urticaire
+Erika,Morrocco,F,40,Torino,59988,0,1,On Probation,Healthy
+Sergius,Fittipaldi,M,53,Palermo,101503,2,5,Prescribed,Scarlatine
+Sophia,Sabbatini,F,74,Pavia,11794,2,3,Pardoned,Dengue
+Concetta,Golgi,F,21,Pescara,23776,0,5,On Probation,Appendicite
+Angelo,Manzoni,M,54,Savona,28501,1,10,On Parole,Hépatite B
+Vittoria,Montessori,F,44,Crotone,138936,2,3,Prescribed,Healthy
+Adele,Virgilio,F,36,Monza e Brianza,30095,2,5,Investigated,Urticaire
+Rosalia,Luna,F,57,Roma,70748,0,10,Acquitted,Otite
+Danilo,Cantimori,M,78,Ascoli Piceno,41307,3,1,Pardoned,Appendicite
+Dolores,Camanni,F,66,Padova,4971,3,1,Prescribed,Cataracte
+Franco,Grimani,M,18,Massa-Carrara,42444,4,3,On Parole,Rhino-pharyngite
+Gustavo,Pontecorvo,M,49,Brindisi,17889,0,1,Investigated,Rougeole
+Stefano,Sraffa,M,33,Firenze,50508,0,1,Prescribed,Healthy
+Elisa,Carpaccio,F,71,Prato,28875,2,5,On Probation,Zona
+Roberta,Filippini,F,58,L'Aquila,155233,3,1,On Probation,Cataracte
+Alessandra,Tiepolo,F,71,Cagliari,125645,1,5,On Probation,Eczéma
+Tiziano,Leonetti,M,75,Trieste,32273,0,3,No Records,Cataracte
+Adamo,Ligorio,M,41,Perugia,16079,3,10,Investigated,Otite
+Laura,Bandello,F,76,Cagliari,9436,3,3,Prescribed,Healthy
+Natalia,Ciani,F,73,Mantova,54430,1,1,Convicted,Varicelle
+Cesare,Mogherini,M,44,Catanzaro,27549,0,5,On Probation,Hépatite C
+Michela,Cusano,F,50,Rieti,34402,2,3,On Parole,Rougeole
+Delfino,Bonaventura,M,31,Palermo,36145,2,1,Convicted,Zona
+Tina,Trentini,F,76,Isernia,46030,2,1,On Parole,Rougeole
+Alina,Canova,F,56,Belluno,50703,1,1,On Probation,Appendicite
+Simone,Dalla,M,22,Bergamo,43990,3,5,On Probation,Eczéma
+Griselda,Galuppi,F,37,Teramo,12126,2,1,On Parole,Angine
+Maurilio,Aulenti,M,57,Verbano-Cusio-Ossola,41261,2,5,No Records,Angine
+Ignazio,Pistoletto,M,42,Rieti,18427,4,1,Prescribed,Varicelle
+Alessio,Sagese,M,70,Vercelli,24022,1,10,Prescribed,Chlamydia
+Laura,Pizziol,F,21,Padova,75626,2,5,Acquitted,Angine
+Isabella,Porcellato,F,70,Rieti,13207,2,3,Investigated,Healthy
+Serafina,Mazzacurati,F,51,Potenza,54084,2,3,Pardoned,Eczéma
+Calogero,Cardano,M,60,Reggio Emilia,55838,2,5,Pardoned,Urticaire
+Fernanda,Passalacqua,F,25,Reggio Emilia,7472,1,10,Pardoned,Hépatite B
+Romolo,Contrafatto,M,19,Perugia,6940,2,1,On Probation,Varicelle
+Lidia,Notarbartolo,F,80,Fermo,67206,1,5,Prescribed,Scarlatine
+Temistocle,Angeli,M,40,Trieste,70344,3,1,On Probation,Zona
+Alfredo,Navone,M,39,Enna,40746,1,3,Acquitted,Otite
+Goffredo,Fattori,M,50,Foggia,35659,2,5,No Records,Dengue
+Sandra,Trentin,F,60,Siena,75831,0,3,Pardoned,Cataracte
+Fernanda,Manacorda,F,42,Siracusa,55403,2,1,On Parole,Chlamydia
+Armando,Cerutti,M,38,Crotone,20943,1,3,Convicted,Healthy
+Valeria,Pedersoli,F,33,Salerno,88446,0,1,Investigated,Zona
+Vincenza,Bevilacqua,F,57,Novara,28461,2,3,On Probation,Varicelle
+Leone,Strangio,M,22,Varese,23457,2,10,No Records,Eczéma
+Piergiorgio,Volta,M,20,Piacenza,122183,5,1,Investigated,Angine
+Sandro,Mozart,M,58,Perugia,126007,2,5,No Records,Rhino-pharyngite
+Giorgia,Torlonia,F,43,Pesaro e Urbino,32543,0,3,Pardoned,Angine
+Raffaele,Lercari,M,49,Trapani,33303,1,5,Prescribed,Hépatite B
+Gianfrancesco,Toninelli,M,73,Arezzo,58579,0,5,On Parole,Dengue
+Maria,Ritacca,F,60,Siena,43923,3,1,On Parole,Grippe
+Azeglio,Gasperi,M,46,Siena,19702,2,5,On Probation,Rhino-pharyngite
+Nadia,Bazzi,F,62,L'Aquila,21075,3,5,No Records,Angine
+Marisa,Saracino,F,52,Valle d'Aosta,11859,3,1,On Probation,Healthy
+Dionigi,Fagiani,M,49,Brescia,27791,0,1,Investigated,Chlamydia
+Dina,Cerquiglini,F,44,Cagliari,41406,0,1,Convicted,Chlamydia
+Agnolo,Ruffini,M,74,Monza e Brianza,73339,0,1,On Probation,Eczéma
+Alderano,Canova,M,23,Vicenza,20160,0,1,On Probation,Rougeole
+Ramona,Ariasso,F,74,Vercelli,79608,0,1,Investigated,Rougeole
+Pier,Parpinel,M,49,Teramo,34266,0,10,Investigated,Healthy
+Melissa,Maffei,F,80,Pordenone,85677,3,10,Investigated,Otite
+Stefani,Pastine,F,54,Salerno,56701,0,1,Pardoned,Hépatite B
+Erika,Federici,F,42,Roma,57856,2,10,Convicted,Rougeole
+Maria,Praga,F,78,Trento,17075,0,3,Investigated,Dengue
+Santino,Sermonti,M,40,Prato,88936,1,5,Acquitted,Hépatite C
+Barbara,Giacometti,F,75,Benevento,31864,2,5,Pardoned,Grippe
+Sergius,Mengolo,M,38,Vibo Valentia,15131,0,10,On Probation,Hépatite C
+Filippo,Badoer,M,55,Pescara,41188,2,5,Convicted,Appendicite
+Guglielmo,Interminei,M,79,Arezzo,27618,2,10,Pardoned,Zona
