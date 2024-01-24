@@ -142,16 +142,26 @@ def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns
         rows = []
         for column_j in range(0, len(columns)):
             current_column = columns[column_j]
-            if current_column not in sensitive_data_columns:
+            if current_column not in sensitive_data_columns and current_column not in categorical_columns:
                 # We chose the interval generalization which computes min and max for each partition
                 # and returns [min(p),max(p)]
-                interval = "["+str(dataframe_partitions[partition_i]
-                                   [current_column].min())
-                interval += "," + \
-                    str(dataframe_partitions[partition_i]
-                        [current_column].max()) + "]"
+                if statistic == "R":
+                    interval = "["+str(dataframe_partitions[partition_i]
+                                    [current_column].min())
+                    interval += "," + \
+                        str(dataframe_partitions[partition_i]
+                            [current_column].max()) + "]"
+                    
+                else:
+                    interval = dataframe_partitions[partition_i][current_column].mean()
                 columns_and_intervals[current_column] = interval
-
+            elif current_column not in sensitive_data_columns and current_column in categorical_columns:
+                interval = "["+str(dataframe_partitions[partition_i]
+                                    [current_column].min())
+                interval += "," + \
+                        str(dataframe_partitions[partition_i]
+                            [current_column].max()) + "]"
+                columns_and_intervals[current_column] = interval
         for values in dataframe_partitions[partition_i][sensitive_data_columns].to_numpy():
             row = {col: val for col, val in zip(
                 sensitive_data_columns, values)}
@@ -183,6 +193,9 @@ if __name__ == '__main__':
                         type=str, help="categorical column")
     parser.add_argument("--hierarchy", "-hv", nargs='+', required=False,
                         type=str, help="categorical column hierarchy")
+    parser.add_argument("--statistic", "-s", required=False,
+                        type=str, help="type of statistic to use R/M")
+    #todo argument per ignorare categorici (dropparli)
     args = parser.parse_args()
     dataset = args.dataset
     k = args.k
@@ -191,7 +204,10 @@ if __name__ == '__main__':
     categorical_columns = args.categorical
     categorical_hierarchy = args.hierarchy
     outputfile = args.outputfile
-
+    statistic = args.statistic
+    if statistic != "M":
+        statistic = "R"
+    print(statistic)
     if not outputfile:
         outputfile = 'Anonymized_dataset.csv'
     if type(categorical_columns) != list:
