@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import argparse
 import json
-
+import time
 
 def remove_explicit(dataset, identifiers):
     """Removes the explicit identifiers from the dataset"""
@@ -202,6 +202,8 @@ if __name__ == '__main__':
                         type=str, help="type of statistic to use R/M")
     parser.add_argument("--ignore-cat", "-ic", required=False,
                         type=str, help="if true ignores categorical attributes (drop them)")
+    parser.add_argument("--processing-time", "-t", required=False,
+                        type=str, help="records time to complete processing")
     #todo argument per ignorare categorici (dropparli)
     args = parser.parse_args()
     dataset = args.dataset
@@ -213,6 +215,10 @@ if __name__ == '__main__':
     outputfile = args.outputfile
     statistic = args.statistic
     ignore_cat = args.ignore_cat
+    processing_time = args.processing_time
+    if processing_time in  ["TRUE", "True", "true"]:
+        processing_time = True
+    else: processing_time=False
     if ignore_cat in ["TRUE", "True", "true"]:
         ignore_cat = True
     else: ignore_cat=False
@@ -261,13 +267,16 @@ if __name__ == '__main__':
         dataset = convert_categorical(
             dataset, categorical_columns, categorical_hierarchy)
     # dataset = dataset.sort_values(by='City') debugging
+    if processing_time:
+        processing_time = time.time()
     recursive_partition(dataset, k, sensitive_data)
     mondrian_dataframe = mondrian_anonymization(
         dataframe_partitions, list(dataset.columns), sensitive_data)
     if not ignore_cat:
         mondrian_dataframe = numerical_to_categorical(
         mondrian_dataframe, categorical_hierarchy, categorical_columns)
-
+    if processing_time:
+        print(f"Completed in: {time.time()-processing_time} seconds.")
     mondrian_dataframe = mondrian_dataframe[ordered_attributes] # Same order as input file
     mondrian_dataframe.to_csv(outputfile, index=False)
     print("\n" + "\033[92mDONE!\033[0m")
