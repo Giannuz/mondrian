@@ -4,6 +4,7 @@ import pandas as pd
 import argparse
 import json
 import time
+from test import test_all
 
 def remove_explicit(dataset, identifiers):
     """Removes the explicit identifiers from the dataset"""
@@ -158,7 +159,7 @@ def mondrian_anonymization(dataframe_partitions, columns, sensitive_data_columns
                             [current_column].max()) + "]"
                     
                 else:
-                    interval = dataframe_partitions[partition_i][current_column].mean()
+                    interval = dataframe_partitions[partition_i][current_column].mean().round(2)
                 columns_and_intervals[current_column] = interval
             elif current_column not in sensitive_data_columns and current_column in categorical_columns:
                 interval = "["+str(dataframe_partitions[partition_i]
@@ -202,8 +203,8 @@ if __name__ == '__main__':
                         type=str, help="type of statistic to use R/M")
     parser.add_argument("--ignore-cat", "-ic", required=False,
                         type=str, help="if true ignores categorical attributes (drop them)")
-    parser.add_argument("--processing-time", "-t", required=False,
-                        type=str, help="records time to complete processing")
+    parser.add_argument("--test", "-t", required=False,
+                        type=str, help="executes tests")
     #todo argument per ignorare categorici (dropparli)
     args = parser.parse_args()
     dataset = args.dataset
@@ -215,10 +216,10 @@ if __name__ == '__main__':
     outputfile = args.outputfile
     statistic = args.statistic
     ignore_cat = args.ignore_cat
-    processing_time = args.processing_time
-    if processing_time in  ["TRUE", "True", "true"]:
-        processing_time = True
-    else: processing_time=False
+    test = args.test
+    if test in  ["TRUE", "True", "true"]:
+        test = True
+    else: test =False
     if ignore_cat in ["TRUE", "True", "true"]:
         ignore_cat = True
     else: ignore_cat=False
@@ -252,13 +253,14 @@ if __name__ == '__main__':
           "\033[0m with \033[95m" + str(k) + "-anonymity\033[0m")
     print("Sensitive columns: \033[93m" +
           str(sensitive_data) + "\033[0m" + "\n")
-
     dataframe_partitions = []
-
     dataset = pd.read_csv(dataset)
+    
+    QI = [i for i in dataset.columns if i not in categorical_columns and i not in explicit_ids and i not in sensitive_data]
+    
     if ignore_cat:
         explicit_ids = explicit_ids + categorical_columns
-        print(explicit_ids)
+
     if explicit_ids:  # eliminate explicit identifiers
         dataset = remove_explicit(dataset, explicit_ids)
     ordered_attributes = dataset.columns.to_list()
@@ -267,16 +269,30 @@ if __name__ == '__main__':
         dataset = convert_categorical(
             dataset, categorical_columns, categorical_hierarchy)
     # dataset = dataset.sort_values(by='City') debugging
-    if processing_time:
-        processing_time = time.time()
+        
+
+    if test:
+        test = time.time()
     recursive_partition(dataset, k, sensitive_data)
     mondrian_dataframe = mondrian_anonymization(
         dataframe_partitions, list(dataset.columns), sensitive_data)
+
+
+
+
     if not ignore_cat:
         mondrian_dataframe = numerical_to_categorical(
         mondrian_dataframe, categorical_hierarchy, categorical_columns)
-    if processing_time:
-        print(f"Completed in: {time.time()-processing_time} seconds.")
+    print("\n" + "\033[92mDONE!\033[0m\n\n")
+    if test:
+        print("#"*76)
+        print("#"*35+" \033[95mTEST\033[0m "+"#"*35)
+        print("#"*76)
+        
+        print(f"\n\n\033[92mCompleted in: {time.time()-test} seconds.\033[0m")
+
     mondrian_dataframe = mondrian_dataframe[ordered_attributes] # Same order as input file
     mondrian_dataframe.to_csv(outputfile, index=False)
-    print("\n" + "\033[92mDONE!\033[0m")
+    if test:
+        test_all(args.dataset, outputfile, k, QI, sensitive_data)
+    

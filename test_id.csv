@@ -59,9 +59,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 51.75,9077.5,1.25,5.25,On Parole,Varicelle
 51.75,9077.5,1.25,5.25,Investigated,Eczéma
 51.75,9077.5,1.25,5.25,Prescribed,Angine
-61.666666666666664,9352.333333333334,3.0,4.333333333333333,On Parole,Hépatite B
-61.666666666666664,9352.333333333334,3.0,4.333333333333333,On Probation,Hépatite C
-61.666666666666664,9352.333333333334,3.0,4.333333333333333,Prescribed,Healthy
+61.67,9352.33,3.0,4.33,On Parole,Hépatite B
+61.67,9352.33,3.0,4.33,On Probation,Hépatite C
+61.67,9352.33,3.0,4.33,Prescribed,Healthy
 53.25,9724.75,1.75,8.25,Prescribed,Otite
 53.25,9724.75,1.75,8.25,Convicted,Chlamydia
 53.25,9724.75,1.75,8.25,Pardoned,Hépatite B
@@ -90,9 +90,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 41.0,11420.75,2.25,3.0,On Parole,Healthy
 41.0,11420.75,2.25,3.0,Acquitted,Dengue
 41.0,11420.75,2.25,3.0,No Records,Scarlatine
-70.33333333333333,11312.666666666666,1.0,7.666666666666667,On Probation,Appendicite
-70.33333333333333,11312.666666666666,1.0,7.666666666666667,Pardoned,Hépatite C
-70.33333333333333,11312.666666666666,1.0,7.666666666666667,On Probation,Hépatite B
+70.33,11312.67,1.0,7.67,On Probation,Appendicite
+70.33,11312.67,1.0,7.67,Pardoned,Hépatite C
+70.33,11312.67,1.0,7.67,On Probation,Hépatite B
 28.25,11672.25,1.5,7.75,No Records,Rougeole
 28.25,11672.25,1.5,7.75,On Parole,Dengue
 28.25,11672.25,1.5,7.75,Pardoned,Hépatite B
@@ -121,9 +121,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 45.75,12791.75,2.0,4.75,Prescribed,Hépatite C
 45.75,12791.75,2.0,4.75,Prescribed,Rougeole
 45.75,12791.75,2.0,4.75,On Parole,Hépatite B
-38.0,12989.0,2.3333333333333335,10.0,Acquitted,Rhino-pharyngite
-38.0,12989.0,2.3333333333333335,10.0,Prescribed,Otite
-38.0,12989.0,2.3333333333333335,10.0,Convicted,Hépatite C
+38.0,12989.0,2.33,10.0,Acquitted,Rhino-pharyngite
+38.0,12989.0,2.33,10.0,Prescribed,Otite
+38.0,12989.0,2.33,10.0,Convicted,Hépatite C
 50.5,13077.25,0.5,7.5,Investigated,Dengue
 50.5,13077.25,0.5,7.5,No Records,Scarlatine
 50.5,13077.25,0.5,7.5,Pardoned,Appendicite
@@ -184,9 +184,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 39.0,15408.5,0.0,4.25,Prescribed,Dengue
 39.0,15408.5,0.0,4.25,Investigated,Grippe
 39.0,15408.5,0.0,4.25,Acquitted,Hépatite B
-59.0,15650.333333333334,1.6666666666666667,2.3333333333333335,Prescribed,Rhino-pharyngite
-59.0,15650.333333333334,1.6666666666666667,2.3333333333333335,On Parole,Chlamydia
-59.0,15650.333333333334,1.6666666666666667,2.3333333333333335,Pardoned,Angine
+59.0,15650.33,1.67,2.33,Prescribed,Rhino-pharyngite
+59.0,15650.33,1.67,2.33,On Parole,Chlamydia
+59.0,15650.33,1.67,2.33,Pardoned,Angine
 24.0,16080.75,1.25,6.5,Investigated,Zona
 24.0,16080.75,1.25,6.5,Acquitted,Grippe
 24.0,16080.75,1.25,6.5,On Parole,Eczéma
@@ -215,9 +215,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 37.75,16989.0,1.75,1.5,On Parole,Rhino-pharyngite
 37.75,16989.0,1.75,1.5,On Parole,Chlamydia
 37.75,16989.0,1.75,1.5,No Records,Rougeole
-55.333333333333336,17104.0,0.0,7.666666666666667,On Probation,Angine
-55.333333333333336,17104.0,0.0,7.666666666666667,On Parole,Cataracte
-55.333333333333336,17104.0,0.0,7.666666666666667,Investigated,Dengue
+55.33,17104.0,0.0,7.67,On Probation,Angine
+55.33,17104.0,0.0,7.67,On Parole,Cataracte
+55.33,17104.0,0.0,7.67,Investigated,Dengue
 32.0,17632.75,1.5,6.0,Prescribed,Eczéma
 32.0,17632.75,1.5,6.0,On Probation,Dengue
 32.0,17632.75,1.5,6.0,No Records,Hépatite C
@@ -246,9 +246,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 36.75,18568.5,1.25,5.25,Investigated,Otite
 36.75,18568.5,1.25,5.25,On Probation,Dengue
 36.75,18568.5,1.25,5.25,On Probation,Varicelle
-64.33333333333333,18586.666666666668,1.0,3.0,Pardoned,Otite
-64.33333333333333,18586.666666666668,1.0,3.0,Convicted,Urticaire
-64.33333333333333,18586.666666666668,1.0,3.0,Prescribed,Urticaire
+64.33,18586.67,1.0,3.0,Pardoned,Otite
+64.33,18586.67,1.0,3.0,Convicted,Urticaire
+64.33,18586.67,1.0,3.0,Prescribed,Urticaire
 35.25,18838.75,1.0,4.0,No Records,Rougeole
 35.25,18838.75,1.0,4.0,Acquitted,Rougeole
 35.25,18838.75,1.0,4.0,Prescribed,Otite
@@ -309,9 +309,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 55.75,21925.5,0.5,8.25,Pardoned,Dengue
 55.75,21925.5,0.5,8.25,Convicted,Appendicite
 55.75,21925.5,0.5,8.25,Acquitted,Varicelle
-65.33333333333333,22191.666666666668,1.0,1.6666666666666667,No Records,Rhino-pharyngite
-65.33333333333333,22191.666666666668,1.0,1.6666666666666667,Acquitted,Dengue
-65.33333333333333,22191.666666666668,1.0,1.6666666666666667,On Parole,Zona
+65.33,22191.67,1.0,1.67,No Records,Rhino-pharyngite
+65.33,22191.67,1.0,1.67,Acquitted,Dengue
+65.33,22191.67,1.0,1.67,On Parole,Zona
 36.5,22375.0,2.0,4.75,On Probation,Dengue
 36.5,22375.0,2.0,4.75,Convicted,Appendicite
 36.5,22375.0,2.0,4.75,On Probation,Cataracte
@@ -340,9 +340,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 45.25,23497.25,2.5,6.5,No Records,Chlamydia
 45.25,23497.25,2.5,6.5,No Records,Varicelle
 45.25,23497.25,2.5,6.5,No Records,Eczéma
-37.666666666666664,23699.666666666668,1.6666666666666667,6.0,Investigated,Grippe
-37.666666666666664,23699.666666666668,1.6666666666666667,6.0,On Parole,Dengue
-37.666666666666664,23699.666666666668,1.6666666666666667,6.0,On Probation,Appendicite
+37.67,23699.67,1.67,6.0,Investigated,Grippe
+37.67,23699.67,1.67,6.0,On Parole,Dengue
+37.67,23699.67,1.67,6.0,On Probation,Appendicite
 42.75,23930.25,1.75,5.25,Pardoned,Hépatite C
 42.75,23930.25,1.75,5.25,Convicted,Urticaire
 42.75,23930.25,1.75,5.25,No Records,Appendicite
@@ -371,9 +371,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 51.5,25416.0,1.25,7.5,Investigated,Varicelle
 51.5,25416.0,1.25,7.5,On Probation,Cataracte
 51.5,25416.0,1.25,7.5,Prescribed,Appendicite
-44.0,25647.333333333332,1.6666666666666667,1.6666666666666667,Convicted,Appendicite
-44.0,25647.333333333332,1.6666666666666667,1.6666666666666667,Pardoned,Varicelle
-44.0,25647.333333333332,1.6666666666666667,1.6666666666666667,No Records,Hépatite B
+44.0,25647.33,1.67,1.67,Convicted,Appendicite
+44.0,25647.33,1.67,1.67,Pardoned,Varicelle
+44.0,25647.33,1.67,1.67,No Records,Hépatite B
 52.25,25718.25,2.5,3.5,Acquitted,Otite
 52.25,25718.25,2.5,3.5,On Probation,Grippe
 52.25,25718.25,2.5,3.5,On Parole,Chlamydia
@@ -434,9 +434,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 37.0,28752.5,1.0,3.0,Prescribed,Grippe
 37.0,28752.5,1.0,3.0,On Parole,Zona
 37.0,28752.5,1.0,3.0,No Records,Scarlatine
-68.66666666666667,28789.333333333332,1.0,3.6666666666666665,Convicted,Grippe
-68.66666666666667,28789.333333333332,1.0,3.6666666666666665,Convicted,Rhino-pharyngite
-68.66666666666667,28789.333333333332,1.0,3.6666666666666665,No Records,Angine
+68.67,28789.33,1.0,3.67,Convicted,Grippe
+68.67,28789.33,1.0,3.67,Convicted,Rhino-pharyngite
+68.67,28789.33,1.0,3.67,No Records,Angine
 20.25,29214.75,1.25,4.0,Acquitted,Angine
 20.25,29214.75,1.25,4.0,Acquitted,Varicelle
 20.25,29214.75,1.25,4.0,Investigated,Chlamydia
@@ -465,9 +465,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 41.25,30390.5,0.75,4.0,No Records,Scarlatine
 41.25,30390.5,0.75,4.0,Convicted,Eczéma
 41.25,30390.5,0.75,4.0,No Records,Hépatite C
-44.0,30523.0,0.6666666666666666,4.666666666666667,Investigated,Dengue
-44.0,30523.0,0.6666666666666666,4.666666666666667,On Probation,Zona
-44.0,30523.0,0.6666666666666666,4.666666666666667,On Probation,Dengue
+44.0,30523.0,0.67,4.67,Investigated,Dengue
+44.0,30523.0,0.67,4.67,On Probation,Zona
+44.0,30523.0,0.67,4.67,On Probation,Dengue
 34.75,30817.0,0.5,3.0,No Records,Scarlatine
 34.75,30817.0,0.5,3.0,Investigated,Chlamydia
 34.75,30817.0,0.5,3.0,Investigated,Hépatite B
@@ -496,9 +496,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 36.5,32591.5,1.5,4.75,On Probation,Otite
 36.5,32591.5,1.5,4.75,Pardoned,Dengue
 36.5,32591.5,1.5,4.75,Pardoned,Angine
-61.666666666666664,32378.0,0.6666666666666666,4.666666666666667,No Records,Hépatite B
-61.666666666666664,32378.0,0.6666666666666666,4.666666666666667,Investigated,Urticaire
-61.666666666666664,32378.0,0.6666666666666666,4.666666666666667,On Parole,Dengue
+61.67,32378.0,0.67,4.67,No Records,Hépatite B
+61.67,32378.0,0.67,4.67,Investigated,Urticaire
+61.67,32378.0,0.67,4.67,On Parole,Dengue
 30.0,32932.5,1.5,3.0,Pardoned,Urticaire
 30.0,32932.5,1.5,3.0,Prescribed,Urticaire
 30.0,32932.5,1.5,3.0,Pardoned,Angine
@@ -559,9 +559,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 33.75,36470.0,1.0,4.75,Acquitted,Zona
 33.75,36470.0,1.0,4.75,Acquitted,Appendicite
 33.75,36470.0,1.0,4.75,Investigated,Chlamydia
-51.333333333333336,36373.0,0.6666666666666666,1.0,No Records,Otite
-51.333333333333336,36373.0,0.6666666666666666,1.0,Pardoned,Healthy
-51.333333333333336,36373.0,0.6666666666666666,1.0,Prescribed,Otite
+51.33,36373.0,0.67,1.0,No Records,Otite
+51.33,36373.0,0.67,1.0,Pardoned,Healthy
+51.33,36373.0,0.67,1.0,Prescribed,Otite
 39.25,36895.5,3.25,7.0,Prescribed,Chlamydia
 39.25,36895.5,3.25,7.0,Prescribed,Healthy
 39.25,36895.5,3.25,7.0,Pardoned,Otite
@@ -590,9 +590,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 54.0,38059.5,2.25,4.25,Convicted,Chlamydia
 54.0,38059.5,2.25,4.25,Acquitted,Varicelle
 54.0,38059.5,2.25,4.25,No Records,Otite
-71.33333333333333,37871.666666666664,2.6666666666666665,4.0,Investigated,Hépatite C
-71.33333333333333,37871.666666666664,2.6666666666666665,4.0,Investigated,Cataracte
-71.33333333333333,37871.666666666664,2.6666666666666665,4.0,On Probation,Appendicite
+71.33,37871.67,2.67,4.0,Investigated,Hépatite C
+71.33,37871.67,2.67,4.0,Investigated,Cataracte
+71.33,37871.67,2.67,4.0,On Probation,Appendicite
 41.0,39250.5,0.5,6.25,Investigated,Rhino-pharyngite
 41.0,39250.5,0.5,6.25,On Parole,Rougeole
 41.0,39250.5,0.5,6.25,Acquitted,Angine
@@ -621,9 +621,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 63.5,41412.0,2.0,3.25,Acquitted,Grippe
 63.5,41412.0,2.0,3.25,Pardoned,Appendicite
 63.5,41412.0,2.0,3.25,Convicted,Chlamydia
-24.666666666666668,41722.666666666664,1.6666666666666667,8.333333333333334,Pardoned,Chlamydia
-24.666666666666668,41722.666666666664,1.6666666666666667,8.333333333333334,No Records,Scarlatine
-24.666666666666668,41722.666666666664,1.6666666666666667,8.333333333333334,On Parole,Scarlatine
+24.67,41722.67,1.67,8.33,Pardoned,Chlamydia
+24.67,41722.67,1.67,8.33,No Records,Scarlatine
+24.67,41722.67,1.67,8.33,On Parole,Scarlatine
 31.5,42422.75,2.0,3.75,Acquitted,Eczéma
 31.5,42422.75,2.0,3.75,Pardoned,Chlamydia
 31.5,42422.75,2.0,3.75,No Records,Dengue
@@ -684,9 +684,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 59.0,48001.25,1.0,6.0,No Records,Hépatite C
 59.0,48001.25,1.0,6.0,Convicted,Cataracte
 59.0,48001.25,1.0,6.0,Investigated,Healthy
-28.0,48641.0,1.3333333333333333,2.3333333333333335,On Parole,Appendicite
-28.0,48641.0,1.3333333333333333,2.3333333333333335,On Probation,Rougeole
-28.0,48641.0,1.3333333333333333,2.3333333333333335,Convicted,Rhino-pharyngite
+28.0,48641.0,1.33,2.33,On Parole,Appendicite
+28.0,48641.0,1.33,2.33,On Probation,Rougeole
+28.0,48641.0,1.33,2.33,Convicted,Rhino-pharyngite
 30.5,49487.75,1.5,6.5,Investigated,Rougeole
 30.5,49487.75,1.5,6.5,Convicted,Appendicite
 30.5,49487.75,1.5,6.5,Investigated,Hépatite C
@@ -715,9 +715,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 46.5,51629.75,1.0,5.5,Investigated,Chlamydia
 46.5,51629.75,1.0,5.5,Pardoned,Zona
 46.5,51629.75,1.0,5.5,On Probation,Eczéma
-76.0,51534.0,1.3333333333333333,2.3333333333333335,Investigated,Rougeole
-76.0,51534.0,1.3333333333333333,2.3333333333333335,On Probation,Dengue
-76.0,51534.0,1.3333333333333333,2.3333333333333335,Prescribed,Grippe
+76.0,51534.0,1.33,2.33,Investigated,Rougeole
+76.0,51534.0,1.33,2.33,On Probation,Dengue
+76.0,51534.0,1.33,2.33,Prescribed,Grippe
 47.5,52589.75,0.5,4.0,On Probation,Zona
 47.5,52589.75,0.5,4.0,Acquitted,Rougeole
 47.5,52589.75,0.5,4.0,Investigated,Healthy
@@ -746,9 +746,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 40.75,55750.5,1.75,3.0,Prescribed,Cataracte
 40.75,55750.5,1.75,3.0,Pardoned,Urticaire
 40.75,55750.5,1.75,3.0,On Parole,Chlamydia
-68.66666666666667,55838.666666666664,2.0,6.0,Convicted,Zona
-68.66666666666667,55838.666666666664,2.0,6.0,Investigated,Grippe
-68.66666666666667,55838.666666666664,2.0,6.0,No Records,Cataracte
+68.67,55838.67,2.0,6.0,Convicted,Zona
+68.67,55838.67,2.0,6.0,Investigated,Grippe
+68.67,55838.67,2.0,6.0,No Records,Cataracte
 44.5,56552.25,1.25,4.25,On Parole,Zona
 44.5,56552.25,1.25,4.25,On Parole,Urticaire
 44.5,56552.25,1.25,4.25,Prescribed,Eczéma
@@ -809,9 +809,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 57.75,65544.0,1.5,6.5,On Probation,Chlamydia
 57.75,65544.0,1.5,6.5,On Parole,Hépatite B
 57.75,65544.0,1.5,6.5,Investigated,Varicelle
-68.66666666666667,66136.66666666667,1.3333333333333333,3.6666666666666665,Prescribed,Varicelle
-68.66666666666667,66136.66666666667,1.3333333333333333,3.6666666666666665,Convicted,Angine
-68.66666666666667,66136.66666666667,1.3333333333333333,3.6666666666666665,Pardoned,Appendicite
+68.67,66136.67,1.33,3.67,Prescribed,Varicelle
+68.67,66136.67,1.33,3.67,Convicted,Angine
+68.67,66136.67,1.33,3.67,Pardoned,Appendicite
 30.0,66834.0,1.5,4.0,On Probation,Eczéma
 30.0,66834.0,1.5,4.0,Pardoned,Hépatite C
 30.0,66834.0,1.5,4.0,Convicted,Rhino-pharyngite
@@ -840,9 +840,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 32.75,72428.5,2.25,7.0,No Records,Rhino-pharyngite
 32.75,72428.5,2.25,7.0,On Parole,Cataracte
 32.75,72428.5,2.25,7.0,Acquitted,Appendicite
-72.33333333333333,72945.33333333333,1.3333333333333333,4.666666666666667,Acquitted,Chlamydia
-72.33333333333333,72945.33333333333,1.3333333333333333,4.666666666666667,On Parole,Angine
-72.33333333333333,72945.33333333333,1.3333333333333333,4.666666666666667,On Probation,Eczéma
+72.33,72945.33,1.33,4.67,Acquitted,Chlamydia
+72.33,72945.33,1.33,4.67,On Parole,Angine
+72.33,72945.33,1.33,4.67,On Probation,Eczéma
 53.0,74055.5,0.75,4.25,No Records,Chlamydia
 53.0,74055.5,0.75,4.25,Prescribed,Varicelle
 53.0,74055.5,0.75,4.25,Investigated,Dengue
@@ -871,9 +871,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 54.5,81411.25,1.5,1.5,No Records,Rhino-pharyngite
 54.5,81411.25,1.5,1.5,Convicted,Grippe
 54.5,81411.25,1.5,1.5,Acquitted,Healthy
-57.0,82786.0,1.6666666666666667,6.0,Pardoned,Urticaire
-57.0,82786.0,1.6666666666666667,6.0,On Probation,Rhino-pharyngite
-57.0,82786.0,1.6666666666666667,6.0,Acquitted,Eczéma
+57.0,82786.0,1.67,6.0,Pardoned,Urticaire
+57.0,82786.0,1.67,6.0,On Probation,Rhino-pharyngite
+57.0,82786.0,1.67,6.0,Acquitted,Eczéma
 41.0,84264.5,1.25,4.75,On Probation,Hépatite C
 41.0,84264.5,1.25,4.75,On Parole,Varicelle
 41.0,84264.5,1.25,4.75,Acquitted,Dengue
@@ -934,9 +934,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 44.0,106425.25,3.0,4.0,Investigated,Appendicite
 44.0,106425.25,3.0,4.0,Investigated,Rougeole
 44.0,106425.25,3.0,4.0,Pardoned,Dengue
-21.333333333333332,108720.66666666667,3.3333333333333335,5.333333333333333,On Parole,Appendicite
-21.333333333333332,108720.66666666667,3.3333333333333335,5.333333333333333,No Records,Rhino-pharyngite
-21.333333333333332,108720.66666666667,3.3333333333333335,5.333333333333333,On Probation,Scarlatine
+21.33,108720.67,3.33,5.33,On Parole,Appendicite
+21.33,108720.67,3.33,5.33,No Records,Rhino-pharyngite
+21.33,108720.67,3.33,5.33,On Probation,Scarlatine
 37.75,112167.0,1.75,5.75,On Probation,Appendicite
 37.75,112167.0,1.75,5.75,No Records,Otite
 37.75,112167.0,1.75,5.75,On Parole,Otite
@@ -965,9 +965,9 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 62.0,136499.75,2.0,4.75,On Parole,Angine
 62.0,136499.75,2.0,4.75,On Parole,Varicelle
 62.0,136499.75,2.0,4.75,No Records,Rhino-pharyngite
-75.0,130249.0,2.0,3.6666666666666665,Prescribed,Otite
-75.0,130249.0,2.0,3.6666666666666665,Pardoned,Healthy
-75.0,130249.0,2.0,3.6666666666666665,On Probation,Eczéma
+75.0,130249.0,2.0,3.67,Prescribed,Otite
+75.0,130249.0,2.0,3.67,Pardoned,Healthy
+75.0,130249.0,2.0,3.67,On Probation,Eczéma
 42.75,144388.25,1.75,5.75,On Probation,Cataracte
 42.75,144388.25,1.75,5.75,Prescribed,Zona
 42.75,144388.25,1.75,5.75,On Parole,Healthy
@@ -996,6 +996,6 @@ Age,Income,Dependants,Insurance Coverage,Legal Situation,Disease
 51.25,270386.0,1.25,1.5,Prescribed,Varicelle
 51.25,270386.0,1.25,1.5,On Parole,Grippe
 51.25,270386.0,1.25,1.5,On Parole,Cataracte
-63.333333333333336,405609.0,1.6666666666666667,3.6666666666666665,Acquitted,Varicelle
-63.333333333333336,405609.0,1.6666666666666667,3.6666666666666665,Prescribed,Scarlatine
-63.333333333333336,405609.0,1.6666666666666667,3.6666666666666665,No Records,Dengue
+63.33,405609.0,1.67,3.67,Acquitted,Varicelle
+63.33,405609.0,1.67,3.67,Prescribed,Scarlatine
+63.33,405609.0,1.67,3.67,No Records,Dengue
