@@ -10,6 +10,10 @@ Requirements
 
 - [pandas](https://pypi.org/project/pandas/)
 
+- [matplotlib](https://pypi.org/project/matplotlib/)
+
+- [seaborn](https://pypi.org/project/seaborn/)
+
 ## Setup
 
 ```shell
@@ -41,10 +45,12 @@ Arguments:
 
 - `-ic` (optional) if set to True the script will ignores categorical attributes (drop them)
 
+- `--test` executes tests and displays results
+
 example:
 
 ```shell
-python mondrian.py -o test_id.csv -d dataset.csv -k 3 -SD Disease "Legal Situation" -EI Name Surname -c City Sex -hv mapping_city.json mapping_sex.json -s M -ic False
+python mondrian.py -o anonymized.csv -d dataset.csv -k 3 -SD Disease "Legal Situation" -EI Name Surname -c City Sex -hv mapping_city.json mapping_sex.json -s M -ic True -t True
 ```
 
 This script generates a dataset which could be used within an insurance company, returns a csv file containing the following columns:

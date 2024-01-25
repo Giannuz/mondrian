@@ -49,19 +49,20 @@ def l_diversity(anonymized_dataset,QI,SD):
 
     print(f"\n\033[92mThe dataset {anonymized_dataset} is {x['diversity_count'].min()}-diverse.\033[0m\n")
 
-def test_all(original_dataset_file, anonymized_dataset_file, k, QI,SD):
+def test_all(original_dataset_file, anonymized_dataset_file, k, QI,SD,stat):
     original_dataset = pd.read_csv(original_dataset_file)[QI]
     anonymized_dataset = pd.read_csv(anonymized_dataset_file)[QI]
     is_k_anonymized(anonymized_dataset, k, QI, anonymized_dataset_file)
     l_diversity(anonymized_dataset_file,QI,SD)
-    compute_statistic_info(original_dataset, anonymized_dataset, QI)
-    fig, axes = plt.subplots(1, 2, figsize=(16, 6))
-    plot_correlation_heatmap(
-        original_dataset, ax=axes[0], title='Correlation Matrix - Original Data')
-    plot_correlation_heatmap(
-        anonymized_dataset, ax=axes[1], title='Correlation Matrix - Anonymized Data')
-    plt.tight_layout()
-    plt.show()
+    if stat == "M":
+        compute_statistic_info(original_dataset, anonymized_dataset, QI)
+        fig, axes = plt.subplots(1, 2, figsize=(16, 6))
+        plot_correlation_heatmap(
+            original_dataset, ax=axes[0], title='Correlation Matrix - Original Data')
+        plot_correlation_heatmap(
+            anonymized_dataset, ax=axes[1], title='Correlation Matrix - Anonymized Data')
+        plt.tight_layout()
+        plt.show()
 # SD = ['Legal Situation','Disease']
 # QI = ['Age', 'Income', 'Dependants', 'Insurance Coverage']
 # test_all('dataset.csv', 'test_id.csv', 3, QI)

@@ -294,5 +294,6 @@ if __name__ == '__main__':
     mondrian_dataframe = mondrian_dataframe[ordered_attributes] # Same order as input file
     mondrian_dataframe.to_csv(outputfile, index=False)
     if test:
-        test_all(args.dataset, outputfile, k, QI, sensitive_data)
+
+        test_all(args.dataset, outputfile, k, QI, sensitive_data,statistic)
     

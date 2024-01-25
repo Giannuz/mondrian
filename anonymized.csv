@@ -1,0 +1,1001 @@
+Sex,Age,City,Income,Dependants,Insurance Coverage,Legal Situation,Disease
+person,"[30,49]",Italy,"[2454,4698]","[0,4]","[1,10]",Prescribed,Urticaire
+person,"[30,49]",Italy,"[2454,4698]","[0,4]","[1,10]",On Parole,Eczéma
+person,"[30,49]",Italy,"[2454,4698]","[0,4]","[1,10]",Investigated,Healthy
+person,"[30,49]",Italy,"[2454,4698]","[0,4]","[1,10]",Convicted,Hépatite C
+M,"[56,77]",Italy,"[3085,4719]","[2,4]","[1,10]",Convicted,Varicelle
+M,"[56,77]",Italy,"[3085,4719]","[2,4]","[1,10]",Pardoned,Appendicite
+M,"[56,77]",Italy,"[3085,4719]","[2,4]","[1,10]",Convicted,Grippe
+M,"[56,77]",Italy,"[3085,4719]","[2,4]","[1,10]",Acquitted,Appendicite
+person,"[18,66]",Italy,"[4739,4971]","[2,3]","[1,10]",Convicted,Dengue
+person,"[18,66]",Italy,"[4739,4971]","[2,3]","[1,10]",Convicted,Grippe
+person,"[18,66]",Italy,"[4739,4971]","[2,3]","[1,10]",Acquitted,Eczéma
+person,"[18,66]",Italy,"[4739,4971]","[2,3]","[1,10]",Prescribed,Cataracte
+M,"[32,47]",Italy,"[5053,5317]","[2,2]","[3,10]",No Records,Dengue
+M,"[32,47]",Italy,"[5053,5317]","[2,2]","[3,10]",Pardoned,Cataracte
+M,"[32,47]",Italy,"[5053,5317]","[2,2]","[3,10]",Investigated,Grippe
+M,"[32,47]",Italy,"[5053,5317]","[2,2]","[3,10]",On Parole,Otite
+person,"[19,31]",Centro,"[6387,6940]","[0,2]","[1,10]",On Probation,Chlamydia
+person,"[19,31]",Centro,"[6387,6940]","[0,2]","[1,10]",Convicted,Hépatite B
+person,"[19,31]",Centro,"[6387,6940]","[0,2]","[1,10]",No Records,Healthy
+person,"[19,31]",Centro,"[6387,6940]","[0,2]","[1,10]",On Probation,Varicelle
+person,"[32,39]",Italy,"[6562,6693]","[0,3]","[5,10]",Pardoned,Grippe
+person,"[32,39]",Italy,"[6562,6693]","[0,3]","[5,10]",On Probation,Hépatite C
+person,"[32,39]",Italy,"[6562,6693]","[0,3]","[5,10]",Pardoned,Cataracte
+person,"[32,39]",Italy,"[6562,6693]","[0,3]","[5,10]",On Parole,Cataracte
+F,"[40,48]",Italy,"[6336,6561]","[0,2]","[1,3]",On Probation,Rhino-pharyngite
+F,"[40,48]",Italy,"[6336,6561]","[0,2]","[1,3]",Investigated,Otite
+F,"[40,48]",Italy,"[6336,6561]","[0,2]","[1,3]",No Records,Urticaire
+F,"[40,48]",Italy,"[6336,6561]","[0,2]","[1,3]",Investigated,Eczéma
+person,"[52,77]",Italy,"[5345,6397]","[0,5]","[5,10]",On Parole,Healthy
+person,"[52,77]",Italy,"[5345,6397]","[0,5]","[5,10]",Pardoned,Angine
+person,"[52,77]",Italy,"[5345,6397]","[0,5]","[5,10]",No Records,Grippe
+person,"[52,77]",Italy,"[5345,6397]","[0,5]","[5,10]",On Probation,Appendicite
+person,"[29,74]",Italy,"[6952,7317]","[1,1]","[1,5]",Prescribed,Hépatite C
+person,"[29,74]",Italy,"[6952,7317]","[1,1]","[1,5]",No Records,Grippe
+person,"[29,74]",Italy,"[6952,7317]","[1,1]","[1,5]",Pardoned,Cataracte
+person,"[29,74]",Italy,"[6952,7317]","[1,1]","[1,5]",Acquitted,Angine
+person,"[25,56]",Italy,"[7428,7472]","[0,2]","[1,10]",On Probation,Hépatite C
+person,"[25,56]",Italy,"[7428,7472]","[0,2]","[1,10]",No Records,Cataracte
+person,"[25,56]",Italy,"[7428,7472]","[0,2]","[1,10]",On Probation,Healthy
+person,"[25,56]",Italy,"[7428,7472]","[0,2]","[1,10]",Pardoned,Hépatite B
+F,"[43,74]",Italy,"[7778,7949]","[0,2]","[1,5]",Prescribed,Eczéma
+F,"[43,74]",Italy,"[7778,7949]","[0,2]","[1,5]",On Parole,Zona
+F,"[43,74]",Italy,"[7778,7949]","[0,2]","[1,5]",On Probation,Grippe
+F,"[43,74]",Italy,"[7778,7949]","[0,2]","[1,5]",Prescribed,Angine
+person,"[21,75]",Italy,"[8248,8394]","[0,2]","[5,5]",On Parole,Healthy
+person,"[21,75]",Italy,"[8248,8394]","[0,2]","[5,5]",No Records,Eczéma
+person,"[21,75]",Italy,"[8248,8394]","[0,2]","[5,5]",On Probation,Scarlatine
+person,"[21,75]",Italy,"[8248,8394]","[0,2]","[5,5]",Investigated,Eczéma
+person,"[34,68]",Italy,"[8439,8720]","[0,4]","[1,10]",Prescribed,Zona
+person,"[34,68]",Italy,"[8439,8720]","[0,4]","[1,10]",On Probation,Angine
+person,"[34,68]",Italy,"[8439,8720]","[0,4]","[1,10]",Investigated,Chlamydia
+person,"[34,68]",Italy,"[8439,8720]","[0,4]","[1,10]",On Parole,Chlamydia
+person,"[21,73]",Italy,"[8878,8976]","[1,5]","[1,3]",On Probation,Healthy
+person,"[21,73]",Italy,"[8878,8976]","[1,5]","[1,3]",Pardoned,Hépatite C
+person,"[21,73]",Italy,"[8878,8976]","[1,5]","[1,3]",On Probation,Otite
+person,"[21,73]",Italy,"[8878,8976]","[1,5]","[1,3]",Acquitted,Dengue
+person,"[23,77]",Italy,"[9002,9160]","[0,3]","[1,10]",Prescribed,Healthy
+person,"[23,77]",Italy,"[9002,9160]","[0,3]","[1,10]",On Parole,Varicelle
+person,"[23,77]",Italy,"[9002,9160]","[0,3]","[1,10]",Investigated,Eczéma
+person,"[23,77]",Italy,"[9002,9160]","[0,3]","[1,10]",Prescribed,Angine
+person,"[44,76]",Italy,"[9213,9436]","[2,4]","[3,5]",On Parole,Hépatite B
+person,"[44,76]",Italy,"[9213,9436]","[2,4]","[3,5]",On Probation,Hépatite C
+person,"[44,76]",Italy,"[9213,9436]","[2,4]","[3,5]",Prescribed,Healthy
+person,"[38,64]",Italy,"[9441,10031]","[0,4]","[3,10]",Prescribed,Otite
+person,"[38,64]",Italy,"[9441,10031]","[0,4]","[3,10]",Convicted,Chlamydia
+person,"[38,64]",Italy,"[9441,10031]","[0,4]","[3,10]",Pardoned,Hépatite B
+person,"[38,64]",Italy,"[9441,10031]","[0,4]","[3,10]",On Parole,Varicelle
+person,"[18,46]",Italy,"[10102,10263]","[2,2]","[1,3]",Pardoned,Scarlatine
+person,"[18,46]",Italy,"[10102,10263]","[2,2]","[1,3]",Investigated,Chlamydia
+person,"[18,46]",Italy,"[10102,10263]","[2,2]","[1,3]",Convicted,Hépatite B
+person,"[18,46]",Italy,"[10102,10263]","[2,2]","[1,3]",Investigated,Chlamydia
+person,"[35,71]",Italy,"[10356,10477]","[0,4]","[1,10]",Acquitted,Otite
+person,"[35,71]",Italy,"[10356,10477]","[0,4]","[1,10]",On Probation,Cataracte
+person,"[35,71]",Italy,"[10356,10477]","[0,4]","[1,10]",Prescribed,Scarlatine
+person,"[35,71]",Italy,"[10356,10477]","[0,4]","[1,10]",Prescribed,Chlamydia
+M,"[19,60]",Italy,"[10529,10860]","[0,2]","[1,10]",Prescribed,Eczéma
+M,"[19,60]",Italy,"[10529,10860]","[0,2]","[1,10]",Acquitted,Scarlatine
+M,"[19,60]",Italy,"[10529,10860]","[0,2]","[1,10]",Pardoned,Varicelle
+M,"[19,60]",Italy,"[10529,10860]","[0,2]","[1,10]",On Parole,Hépatite C
+person,"[21,37]",Italy,"[10902,10984]","[0,4]","[1,10]",No Records,Hépatite C
+person,"[21,37]",Italy,"[10902,10984]","[0,4]","[1,10]",Investigated,Cataracte
+person,"[21,37]",Italy,"[10902,10984]","[0,4]","[1,10]",Investigated,Appendicite
+person,"[21,37]",Italy,"[10902,10984]","[0,4]","[1,10]",On Probation,Scarlatine
+person,"[41,69]",Italy,"[10870,11124]","[0,2]","[1,5]",Investigated,Otite
+person,"[41,69]",Italy,"[10870,11124]","[0,2]","[1,5]",Acquitted,Otite
+person,"[41,69]",Italy,"[10870,11124]","[0,2]","[1,5]",No Records,Varicelle
+person,"[41,69]",Italy,"[10870,11124]","[0,2]","[1,5]",Pardoned,Grippe
+person,"[30,56]",Italy,"[11332,11548]","[0,3]","[1,5]",Investigated,Varicelle
+person,"[30,56]",Italy,"[11332,11548]","[0,3]","[1,5]",On Parole,Healthy
+person,"[30,56]",Italy,"[11332,11548]","[0,3]","[1,5]",Acquitted,Dengue
+person,"[30,56]",Italy,"[11332,11548]","[0,3]","[1,5]",No Records,Scarlatine
+person,"[63,78]",Italy,"[11130,11520]","[0,2]","[3,10]",On Probation,Appendicite
+person,"[63,78]",Italy,"[11130,11520]","[0,2]","[3,10]",Pardoned,Hépatite C
+person,"[63,78]",Italy,"[11130,11520]","[0,2]","[3,10]",On Probation,Hépatite B
+person,"[24,34]",Italy,"[11565,11809]","[0,2]","[1,10]",No Records,Rougeole
+person,"[24,34]",Italy,"[11565,11809]","[0,2]","[1,10]",On Parole,Dengue
+person,"[24,34]",Italy,"[11565,11809]","[0,2]","[1,10]",Pardoned,Hépatite B
+person,"[24,34]",Italy,"[11565,11809]","[0,2]","[1,10]",Convicted,Otite
+F,"[39,74]",Italy,"[11692,11926]","[0,3]","[1,5]",Prescribed,Urticaire
+F,"[39,74]",Italy,"[11692,11926]","[0,3]","[1,5]",Convicted,Rhino-pharyngite
+F,"[39,74]",Italy,"[11692,11926]","[0,3]","[1,5]",Pardoned,Dengue
+F,"[39,74]",Italy,"[11692,11926]","[0,3]","[1,5]",On Probation,Healthy
+person,"[19,70]",Italy,"[11977,12097]","[0,2]","[1,10]",Acquitted,Hépatite C
+person,"[19,70]",Italy,"[11977,12097]","[0,2]","[1,10]",Pardoned,Chlamydia
+person,"[19,70]",Italy,"[11977,12097]","[0,2]","[1,10]",Pardoned,Dengue
+person,"[19,70]",Italy,"[11977,12097]","[0,2]","[1,10]",Convicted,Dengue
+person,"[37,70]",Italy,"[12126,12190]","[1,2]","[1,5]",Investigated,Urticaire
+person,"[37,70]",Italy,"[12126,12190]","[1,2]","[1,5]",Pardoned,Hépatite C
+person,"[37,70]",Italy,"[12126,12190]","[1,2]","[1,5]",On Parole,Hépatite B
+person,"[37,70]",Italy,"[12126,12190]","[1,2]","[1,5]",On Parole,Angine
+F,"[22,66]",Italy,"[12275,12521]","[1,3]","[1,5]",Pardoned,Zona
+F,"[22,66]",Italy,"[12275,12521]","[1,3]","[1,5]",On Probation,Dengue
+F,"[22,66]",Italy,"[12275,12521]","[1,3]","[1,5]",On Probation,Rougeole
+F,"[22,66]",Italy,"[12275,12521]","[1,3]","[1,5]",Acquitted,Appendicite
+person,"[34,58]",Italy,"[12548,12638]","[1,2]","[1,10]",Pardoned,Hépatite B
+person,"[34,58]",Italy,"[12548,12638]","[1,2]","[1,10]",On Parole,Otite
+person,"[34,58]",Italy,"[12548,12638]","[1,2]","[1,10]",Prescribed,Urticaire
+person,"[34,58]",Italy,"[12548,12638]","[1,2]","[1,10]",Pardoned,Healthy
+person,"[21,72]",Italy,"[12705,12873]","[0,4]","[1,10]",Prescribed,Angine
+person,"[21,72]",Italy,"[12705,12873]","[0,4]","[1,10]",Prescribed,Hépatite C
+person,"[21,72]",Italy,"[12705,12873]","[0,4]","[1,10]",Prescribed,Rougeole
+person,"[21,72]",Italy,"[12705,12873]","[0,4]","[1,10]",On Parole,Hépatite B
+person,"[28,43]",Italy,"[12982,12995]","[1,4]","[10,10]",Acquitted,Rhino-pharyngite
+person,"[28,43]",Italy,"[12982,12995]","[1,4]","[10,10]",Prescribed,Otite
+person,"[28,43]",Italy,"[12982,12995]","[1,4]","[10,10]",Convicted,Hépatite C
+person,"[43,62]",Italy,"[13042,13106]","[0,2]","[5,10]",Investigated,Dengue
+person,"[43,62]",Italy,"[13042,13106]","[0,2]","[5,10]",No Records,Scarlatine
+person,"[43,62]",Italy,"[13042,13106]","[0,2]","[5,10]",Pardoned,Appendicite
+person,"[43,62]",Italy,"[13042,13106]","[0,2]","[5,10]",Prescribed,Rhino-pharyngite
+person,"[26,72]",Italy,"[13207,13380]","[0,2]","[1,10]",Pardoned,Hépatite C
+person,"[26,72]",Italy,"[13207,13380]","[0,2]","[1,10]",Pardoned,Varicelle
+person,"[26,72]",Italy,"[13207,13380]","[0,2]","[1,10]",No Records,Hépatite C
+person,"[26,72]",Italy,"[13207,13380]","[0,2]","[1,10]",Investigated,Healthy
+person,"[25,51]",Italy,"[13438,13656]","[1,2]","[1,10]",On Probation,Healthy
+person,"[25,51]",Italy,"[13438,13656]","[1,2]","[1,10]",Pardoned,Eczéma
+person,"[25,51]",Italy,"[13438,13656]","[1,2]","[1,10]",Convicted,Hépatite B
+person,"[25,51]",Italy,"[13438,13656]","[1,2]","[1,10]",Acquitted,Hépatite B
+person,"[53,66]",Italy,"[13419,13669]","[0,2]","[1,10]",Convicted,Dengue
+person,"[53,66]",Italy,"[13419,13669]","[0,2]","[1,10]",Convicted,Eczéma
+person,"[53,66]",Italy,"[13419,13669]","[0,2]","[1,10]",Pardoned,Chlamydia
+person,"[53,66]",Italy,"[13419,13669]","[0,2]","[1,10]",On Probation,Appendicite
+person,"[18,44]",Italy,"[13906,14349]","[1,3]","[5,10]",Acquitted,Grippe
+person,"[18,44]",Italy,"[13906,14349]","[1,3]","[5,10]",Acquitted,Angine
+person,"[18,44]",Italy,"[13906,14349]","[1,3]","[5,10]",Investigated,Rhino-pharyngite
+person,"[18,44]",Italy,"[13906,14349]","[1,3]","[5,10]",Convicted,Scarlatine
+person,"[45,50]",Italy,"[13672,13951]","[0,2]","[1,10]",Acquitted,Scarlatine
+person,"[45,50]",Italy,"[13672,13951]","[0,2]","[1,10]",No Records,Dengue
+person,"[45,50]",Italy,"[13672,13951]","[0,2]","[1,10]",Pardoned,Eczéma
+person,"[45,50]",Italy,"[13672,13951]","[0,2]","[1,10]",On Parole,Otite
+person,"[61,65]",Italy,"[14079,14349]","[1,3]","[1,5]",Acquitted,Healthy
+person,"[61,65]",Italy,"[14079,14349]","[1,3]","[1,5]",On Parole,Healthy
+person,"[61,65]",Italy,"[14079,14349]","[1,3]","[1,5]",Prescribed,Varicelle
+person,"[61,65]",Italy,"[14079,14349]","[1,3]","[1,5]",On Parole,Grippe
+person,"[66,80]",Italy,"[13725,14353]","[0,5]","[3,5]",Prescribed,Otite
+person,"[66,80]",Italy,"[13725,14353]","[0,5]","[3,5]",Acquitted,Eczéma
+person,"[66,80]",Italy,"[13725,14353]","[0,5]","[3,5]",Pardoned,Angine
+person,"[66,80]",Italy,"[13725,14353]","[0,5]","[3,5]",On Probation,Varicelle
+person,"[48,75]",Italy,"[14356,14378]","[0,2]","[1,5]",Prescribed,Hépatite C
+person,"[48,75]",Italy,"[14356,14378]","[0,2]","[1,5]",On Probation,Scarlatine
+person,"[48,75]",Italy,"[14356,14378]","[0,2]","[1,5]",No Records,Hépatite C
+person,"[48,75]",Italy,"[14356,14378]","[0,2]","[1,5]",Pardoned,Rhino-pharyngite
+person,"[26,80]",Italy,"[14389,14622]","[0,3]","[1,10]",Investigated,Angine
+person,"[26,80]",Italy,"[14389,14622]","[0,3]","[1,10]",On Probation,Rhino-pharyngite
+person,"[26,80]",Italy,"[14389,14622]","[0,3]","[1,10]",Pardoned,Rougeole
+person,"[26,80]",Italy,"[14389,14622]","[0,3]","[1,10]",No Records,Dengue
+F,"[20,76]",Italy,"[14630,14896]","[0,4]","[1,10]",Pardoned,Angine
+F,"[20,76]",Italy,"[14630,14896]","[0,4]","[1,10]",Convicted,Appendicite
+F,"[20,76]",Italy,"[14630,14896]","[0,4]","[1,10]",Investigated,Urticaire
+F,"[20,76]",Italy,"[14630,14896]","[0,4]","[1,10]",No Records,Healthy
+person,"[24,78]",Italy,"[14927,14970]","[0,4]","[1,1]",Convicted,Grippe
+person,"[24,78]",Italy,"[14927,14970]","[0,4]","[1,1]",Prescribed,Urticaire
+person,"[24,78]",Italy,"[14927,14970]","[0,4]","[1,1]",Pardoned,Rhino-pharyngite
+person,"[24,78]",Italy,"[14927,14970]","[0,4]","[1,1]",Convicted,Grippe
+person,"[21,38]",Italy,"[14992,15234]","[0,4]","[1,10]",Convicted,Rhino-pharyngite
+person,"[21,38]",Italy,"[14992,15234]","[0,4]","[1,10]",Prescribed,Scarlatine
+person,"[21,38]",Italy,"[14992,15234]","[0,4]","[1,10]",No Records,Scarlatine
+person,"[21,38]",Italy,"[14992,15234]","[0,4]","[1,10]",On Probation,Hépatite C
+F,"[56,79]",Italy,"[15027,15209]","[0,2]","[1,10]",On Probation,Grippe
+F,"[56,79]",Italy,"[15027,15209]","[0,2]","[1,10]",On Parole,Grippe
+F,"[56,79]",Italy,"[15027,15209]","[0,2]","[1,10]",Convicted,Dengue
+F,"[56,79]",Italy,"[15027,15209]","[0,2]","[1,10]",Convicted,Zona
+person,"[25,46]",Italy,"[15251,15774]","[0,0]","[1,10]",Acquitted,Zona
+person,"[25,46]",Italy,"[15251,15774]","[0,0]","[1,10]",Prescribed,Dengue
+person,"[25,46]",Italy,"[15251,15774]","[0,0]","[1,10]",Investigated,Grippe
+person,"[25,46]",Italy,"[15251,15774]","[0,0]","[1,10]",Acquitted,Hépatite B
+F,"[48,70]",Italy,"[15406,15832]","[0,3]","[1,5]",Prescribed,Rhino-pharyngite
+F,"[48,70]",Italy,"[15406,15832]","[0,3]","[1,5]",On Parole,Chlamydia
+F,"[48,70]",Italy,"[15406,15832]","[0,3]","[1,5]",Pardoned,Angine
+M,"[18,27]",Italy,"[15942,16282]","[0,2]","[1,10]",Investigated,Zona
+M,"[18,27]",Italy,"[15942,16282]","[0,2]","[1,10]",Acquitted,Grippe
+M,"[18,27]",Italy,"[15942,16282]","[0,2]","[1,10]",On Parole,Eczéma
+M,"[18,27]",Italy,"[15942,16282]","[0,2]","[1,10]",Acquitted,Zona
+M,"[30,41]",Italy,"[16075,16441]","[2,3]","[3,10]",Convicted,Scarlatine
+M,"[30,41]",Italy,"[16075,16441]","[2,3]","[3,10]",Convicted,Zona
+M,"[30,41]",Italy,"[16075,16441]","[2,3]","[3,10]",Pardoned,Grippe
+M,"[30,41]",Italy,"[16075,16441]","[2,3]","[3,10]",Investigated,Otite
+person,"[46,57]",Italy,"[15861,16270]","[2,4]","[3,5]",Investigated,Zona
+person,"[46,57]",Italy,"[15861,16270]","[2,4]","[3,5]",Prescribed,Zona
+person,"[46,57]",Italy,"[15861,16270]","[2,4]","[3,5]",No Records,Rhino-pharyngite
+person,"[46,57]",Italy,"[15861,16270]","[2,4]","[3,5]",On Probation,Eczéma
+person,"[59,79]",Italy,"[16056,16433]","[0,4]","[1,5]",Prescribed,Dengue
+person,"[59,79]",Italy,"[16056,16433]","[0,4]","[1,5]",Acquitted,Zona
+person,"[59,79]",Italy,"[16056,16433]","[0,4]","[1,5]",Acquitted,Rhino-pharyngite
+person,"[59,79]",Italy,"[16056,16433]","[0,4]","[1,5]",On Probation,Hépatite B
+person,"[19,43]",Italy,"[16583,16862]","[0,3]","[3,10]",Acquitted,Zona
+person,"[19,43]",Italy,"[16583,16862]","[0,3]","[3,10]",Convicted,Otite
+person,"[19,43]",Italy,"[16583,16862]","[0,3]","[3,10]",On Probation,Eczéma
+person,"[19,43]",Italy,"[16583,16862]","[0,3]","[3,10]",Prescribed,Scarlatine
+M,"[48,77]",Italy,"[16550,16877]","[0,2]","[1,10]",Pardoned,Rhino-pharyngite
+M,"[48,77]",Italy,"[16550,16877]","[0,2]","[1,10]",Convicted,Urticaire
+M,"[48,77]",Italy,"[16550,16877]","[0,2]","[1,10]",Prescribed,Hépatite B
+M,"[48,77]",Italy,"[16550,16877]","[0,2]","[1,10]",On Parole,Rougeole
+person,"[19,52]",Italy,"[16953,17041]","[0,3]","[1,3]",Pardoned,Rougeole
+person,"[19,52]",Italy,"[16953,17041]","[0,3]","[1,3]",On Parole,Rhino-pharyngite
+person,"[19,52]",Italy,"[16953,17041]","[0,3]","[1,3]",On Parole,Chlamydia
+person,"[19,52]",Italy,"[16953,17041]","[0,3]","[1,3]",No Records,Rougeole
+person,"[43,78]",Italy,"[17075,17149]","[0,0]","[3,10]",On Probation,Angine
+person,"[43,78]",Italy,"[17075,17149]","[0,0]","[3,10]",On Parole,Cataracte
+person,"[43,78]",Italy,"[17075,17149]","[0,0]","[3,10]",Investigated,Dengue
+person,"[23,41]",Italy,"[17184,17892]","[0,3]","[1,10]",Prescribed,Eczéma
+person,"[23,41]",Italy,"[17184,17892]","[0,3]","[1,10]",On Probation,Dengue
+person,"[23,41]",Italy,"[17184,17892]","[0,3]","[1,10]",No Records,Hépatite C
+person,"[23,41]",Italy,"[17184,17892]","[0,3]","[1,10]",On Probation,Scarlatine
+person,"[42,49]",Italy,"[17231,17889]","[0,2]","[1,5]",Investigated,Varicelle
+person,"[42,49]",Italy,"[17231,17889]","[0,2]","[1,5]",On Probation,Rhino-pharyngite
+person,"[42,49]",Italy,"[17231,17889]","[0,2]","[1,5]",Prescribed,Dengue
+person,"[42,49]",Italy,"[17231,17889]","[0,2]","[1,5]",Investigated,Rougeole
+person,"[50,60]",Italy,"[17365,18054]","[0,2]","[3,10]",Convicted,Hépatite B
+person,"[50,60]",Italy,"[17365,18054]","[0,2]","[3,10]",No Records,Dengue
+person,"[50,60]",Italy,"[17365,18054]","[0,2]","[3,10]",Prescribed,Grippe
+person,"[50,60]",Italy,"[17365,18054]","[0,2]","[3,10]",Prescribed,Dengue
+person,"[67,80]",Italy,"[17315,17827]","[0,3]","[3,10]",Investigated,Eczéma
+person,"[67,80]",Italy,"[17315,17827]","[0,3]","[3,10]",Prescribed,Hépatite C
+person,"[67,80]",Italy,"[17315,17827]","[0,3]","[3,10]",Investigated,Cataracte
+person,"[67,80]",Italy,"[17315,17827]","[0,3]","[3,10]",No Records,Appendicite
+M,"[28,48]",Italy,"[18131,18427]","[0,5]","[1,5]",Acquitted,Urticaire
+M,"[28,48]",Italy,"[18131,18427]","[0,5]","[1,5]",On Parole,Angine
+M,"[28,48]",Italy,"[18131,18427]","[0,5]","[1,5]",On Probation,Cataracte
+M,"[28,48]",Italy,"[18131,18427]","[0,5]","[1,5]",Prescribed,Varicelle
+person,"[53,72]",Italy,"[18182,18346]","[0,1]","[1,5]",Prescribed,Eczéma
+person,"[53,72]",Italy,"[18182,18346]","[0,1]","[1,5]",Prescribed,Eczéma
+person,"[53,72]",Italy,"[18182,18346]","[0,1]","[1,5]",On Probation,Grippe
+person,"[53,72]",Italy,"[18182,18346]","[0,1]","[1,5]",On Probation,Urticaire
+person,"[27,42]",Italy,"[18481,18738]","[0,3]","[3,10]",Convicted,Rougeole
+person,"[27,42]",Italy,"[18481,18738]","[0,3]","[3,10]",Investigated,Otite
+person,"[27,42]",Italy,"[18481,18738]","[0,3]","[3,10]",On Probation,Dengue
+person,"[27,42]",Italy,"[18481,18738]","[0,3]","[3,10]",On Probation,Varicelle
+person,"[48,76]",Italy,"[18522,18634]","[0,2]","[1,5]",Pardoned,Otite
+person,"[48,76]",Italy,"[18522,18634]","[0,2]","[1,5]",Convicted,Urticaire
+person,"[48,76]",Italy,"[18522,18634]","[0,2]","[1,5]",Prescribed,Urticaire
+M,"[23,54]",Italy,"[18752,18963]","[0,2]","[3,5]",No Records,Rougeole
+M,"[23,54]",Italy,"[18752,18963]","[0,2]","[3,5]",Acquitted,Rougeole
+M,"[23,54]",Italy,"[18752,18963]","[0,2]","[3,5]",Prescribed,Otite
+M,"[23,54]",Italy,"[18752,18963]","[0,2]","[3,5]",Prescribed,Grippe
+person,"[67,78]",Italy,"[18785,19023]","[0,3]","[1,3]",Prescribed,Appendicite
+person,"[67,78]",Italy,"[18785,19023]","[0,3]","[1,3]",No Records,Grippe
+person,"[67,78]",Italy,"[18785,19023]","[0,3]","[1,3]",Convicted,Cataracte
+person,"[67,78]",Italy,"[18785,19023]","[0,3]","[1,3]",On Parole,Eczéma
+person,"[23,51]",Italy,"[19030,19076]","[0,2]","[1,3]",Investigated,Otite
+person,"[23,51]",Italy,"[19030,19076]","[0,2]","[1,3]",On Probation,Eczéma
+person,"[23,51]",Italy,"[19030,19076]","[0,2]","[1,3]",On Probation,Scarlatine
+person,"[23,51]",Italy,"[19030,19076]","[0,2]","[1,3]",No Records,Zona
+person,"[45,70]",Italy,"[19160,19227]","[0,4]","[1,10]",Pardoned,Hépatite C
+person,"[45,70]",Italy,"[19160,19227]","[0,4]","[1,10]",On Probation,Eczéma
+person,"[45,70]",Italy,"[19160,19227]","[0,4]","[1,10]",Pardoned,Rougeole
+person,"[45,70]",Italy,"[19160,19227]","[0,4]","[1,10]",Investigated,Chlamydia
+M,"[22,45]",Italy,"[19280,19644]","[0,3]","[3,5]",Prescribed,Grippe
+M,"[22,45]",Italy,"[19280,19644]","[0,3]","[3,5]",On Probation,Zona
+M,"[22,45]",Italy,"[19280,19644]","[0,3]","[3,5]",Investigated,Angine
+M,"[22,45]",Italy,"[19280,19644]","[0,3]","[3,5]",Pardoned,Urticaire
+F,"[62,72]",Italy,"[19513,19690]","[2,3]","[3,5]",Convicted,Cataracte
+F,"[62,72]",Italy,"[19513,19690]","[2,3]","[3,5]",Acquitted,Otite
+F,"[62,72]",Italy,"[19513,19690]","[2,3]","[3,5]",On Probation,Cataracte
+F,"[62,72]",Italy,"[19513,19690]","[2,3]","[3,5]",Convicted,Rhino-pharyngite
+M,"[33,78]",Italy,"[19702,19965]","[0,3]","[5,10]",Acquitted,Appendicite
+M,"[33,78]",Italy,"[19702,19965]","[0,3]","[5,10]",Convicted,Appendicite
+M,"[33,78]",Italy,"[19702,19965]","[0,3]","[5,10]",Pardoned,Hépatite C
+M,"[33,78]",Italy,"[19702,19965]","[0,3]","[5,10]",On Probation,Rhino-pharyngite
+person,"[20,78]",Italy,"[19988,20028]","[0,5]","[1,5]",Investigated,Eczéma
+person,"[20,78]",Italy,"[19988,20028]","[0,5]","[1,5]",Pardoned,Appendicite
+person,"[20,78]",Italy,"[19988,20028]","[0,5]","[1,5]",Prescribed,Rougeole
+person,"[20,78]",Italy,"[19988,20028]","[0,5]","[1,5]",On Probation,Urticaire
+M,"[23,50]",Italy,"[20160,20943]","[0,1]","[1,3]",Prescribed,Cataracte
+M,"[23,50]",Italy,"[20160,20943]","[0,1]","[1,3]",Acquitted,Varicelle
+M,"[23,50]",Italy,"[20160,20943]","[0,1]","[1,3]",Convicted,Healthy
+M,"[23,50]",Italy,"[20160,20943]","[0,1]","[1,3]",On Probation,Rougeole
+person,"[56,80]",Italy,"[20089,20874]","[0,4]","[1,10]",On Probation,Chlamydia
+person,"[56,80]",Italy,"[20089,20874]","[0,4]","[1,10]",Pardoned,Grippe
+person,"[56,80]",Italy,"[20089,20874]","[0,4]","[1,10]",Investigated,Cataracte
+person,"[56,80]",Italy,"[20089,20874]","[0,4]","[1,10]",On Parole,Hépatite C
+person,"[30,63]",Italy,"[21012,21065]","[0,2]","[1,10]",Acquitted,Varicelle
+person,"[30,63]",Italy,"[21012,21065]","[0,2]","[1,10]",Prescribed,Hépatite B
+person,"[30,63]",Italy,"[21012,21065]","[0,2]","[1,10]",Pardoned,Chlamydia
+person,"[30,63]",Italy,"[21012,21065]","[0,2]","[1,10]",No Records,Rougeole
+person,"[30,80]",Italy,"[21075,21191]","[0,3]","[1,5]",On Probation,Eczéma
+person,"[30,80]",Italy,"[21075,21191]","[0,3]","[1,5]",Acquitted,Otite
+person,"[30,80]",Italy,"[21075,21191]","[0,3]","[1,5]",On Probation,Eczéma
+person,"[30,80]",Italy,"[21075,21191]","[0,3]","[1,5]",No Records,Angine
+person,"[28,32]",Italy,"[21208,21546]","[0,4]","[1,10]",No Records,Eczéma
+person,"[28,32]",Italy,"[21208,21546]","[0,4]","[1,10]",On Probation,Grippe
+person,"[28,32]",Italy,"[21208,21546]","[0,4]","[1,10]",Pardoned,Urticaire
+person,"[28,32]",Italy,"[21208,21546]","[0,4]","[1,10]",Acquitted,Zona
+person,"[18,77]",Italy,"[21657,21726]","[0,5]","[1,10]",No Records,Urticaire
+person,"[18,77]",Italy,"[21657,21726]","[0,5]","[1,10]",Pardoned,Angine
+person,"[18,77]",Italy,"[21657,21726]","[0,5]","[1,10]",Pardoned,Grippe
+person,"[18,77]",Italy,"[21657,21726]","[0,5]","[1,10]",No Records,Grippe
+person,"[38,80]",Italy,"[21770,22037]","[0,2]","[3,10]",On Probation,Varicelle
+person,"[38,80]",Italy,"[21770,22037]","[0,2]","[3,10]",Pardoned,Dengue
+person,"[38,80]",Italy,"[21770,22037]","[0,2]","[3,10]",Convicted,Appendicite
+person,"[38,80]",Italy,"[21770,22037]","[0,2]","[3,10]",Acquitted,Varicelle
+F,"[49,79]",Italy,"[22131,22256]","[0,3]","[1,3]",No Records,Rhino-pharyngite
+F,"[49,79]",Italy,"[22131,22256]","[0,3]","[1,3]",Acquitted,Dengue
+F,"[49,79]",Italy,"[22131,22256]","[0,3]","[1,3]",On Parole,Zona
+person,"[31,41]",Italy,"[22310,22425]","[0,5]","[1,10]",On Probation,Dengue
+person,"[31,41]",Italy,"[22310,22425]","[0,5]","[1,10]",Convicted,Appendicite
+person,"[31,41]",Italy,"[22310,22425]","[0,5]","[1,10]",On Probation,Cataracte
+person,"[31,41]",Italy,"[22310,22425]","[0,5]","[1,10]",On Parole,Cataracte
+person,"[46,72]",Italy,"[22308,22380]","[0,2]","[1,10]",On Parole,Scarlatine
+person,"[46,72]",Italy,"[22308,22380]","[0,2]","[1,10]",Convicted,Hépatite B
+person,"[46,72]",Italy,"[22308,22380]","[0,2]","[1,10]",Prescribed,Grippe
+person,"[46,72]",Italy,"[22308,22380]","[0,2]","[1,10]",No Records,Zona
+F,"[19,36]",Italy,"[22502,22959]","[0,3]","[1,5]",Acquitted,Cataracte
+F,"[19,36]",Italy,"[22502,22959]","[0,3]","[1,5]",Acquitted,Hépatite B
+F,"[19,36]",Italy,"[22502,22959]","[0,3]","[1,5]",Pardoned,Eczéma
+F,"[19,36]",Italy,"[22502,22959]","[0,3]","[1,5]",Acquitted,Cataracte
+person,"[40,67]",Italy,"[22588,22666]","[2,3]","[1,3]",Acquitted,Dengue
+person,"[40,67]",Italy,"[22588,22666]","[2,3]","[1,3]",Acquitted,Zona
+person,"[40,67]",Italy,"[22588,22666]","[2,3]","[1,3]",Investigated,Appendicite
+person,"[40,67]",Italy,"[22588,22666]","[2,3]","[1,3]",Acquitted,Rhino-pharyngite
+person,"[41,70]",Italy,"[23103,23164]","[2,4]","[1,5]",Investigated,Rougeole
+person,"[41,70]",Italy,"[23103,23164]","[2,4]","[1,5]",Convicted,Appendicite
+person,"[41,70]",Italy,"[23103,23164]","[2,4]","[1,5]",Acquitted,Hépatite C
+person,"[41,70]",Italy,"[23103,23164]","[2,4]","[1,5]",Investigated,Hépatite B
+person,"[54,78]",Italy,"[23203,23385]","[2,2]","[3,10]",Prescribed,Hépatite B
+person,"[54,78]",Italy,"[23203,23385]","[2,2]","[3,10]",On Probation,Rougeole
+person,"[54,78]",Italy,"[23203,23385]","[2,2]","[3,10]",Convicted,Chlamydia
+person,"[54,78]",Italy,"[23203,23385]","[2,2]","[3,10]",Pardoned,Scarlatine
+person,"[22,78]",Italy,"[23446,23568]","[0,4]","[1,10]",Investigated,Cataracte
+person,"[22,78]",Italy,"[23446,23568]","[0,4]","[1,10]",No Records,Chlamydia
+person,"[22,78]",Italy,"[23446,23568]","[0,4]","[1,10]",No Records,Varicelle
+person,"[22,78]",Italy,"[23446,23568]","[0,4]","[1,10]",No Records,Eczéma
+person,"[21,70]",Italy,"[23632,23776]","[0,3]","[3,10]",Investigated,Grippe
+person,"[21,70]",Italy,"[23632,23776]","[0,3]","[3,10]",On Parole,Dengue
+person,"[21,70]",Italy,"[23632,23776]","[0,3]","[3,10]",On Probation,Appendicite
+person,"[19,70]",Italy,"[23828,23987]","[0,4]","[3,10]",Pardoned,Hépatite C
+person,"[19,70]",Italy,"[23828,23987]","[0,4]","[3,10]",Convicted,Urticaire
+person,"[19,70]",Italy,"[23828,23987]","[0,4]","[3,10]",No Records,Appendicite
+person,"[19,70]",Italy,"[23828,23987]","[0,4]","[3,10]",Convicted,Hépatite B
+person,"[32,75]",Italy,"[24022,24173]","[0,1]","[1,10]",Acquitted,Rougeole
+person,"[32,75]",Italy,"[24022,24173]","[0,1]","[1,10]",Convicted,Dengue
+person,"[32,75]",Italy,"[24022,24173]","[0,1]","[1,10]",Convicted,Cataracte
+person,"[32,75]",Italy,"[24022,24173]","[0,1]","[1,10]",Prescribed,Chlamydia
+person,"[52,69]",Italy,"[24179,24450]","[0,2]","[1,10]",On Parole,Chlamydia
+person,"[52,69]",Italy,"[24179,24450]","[0,2]","[1,10]",Convicted,Grippe
+person,"[52,69]",Italy,"[24179,24450]","[0,2]","[1,10]",Pardoned,Appendicite
+person,"[52,69]",Italy,"[24179,24450]","[0,2]","[1,10]",No Records,Otite
+person,"[47,78]",Italy,"[24535,24683]","[0,3]","[3,5]",On Parole,Healthy
+person,"[47,78]",Italy,"[24535,24683]","[0,3]","[3,5]",No Records,Eczéma
+person,"[47,78]",Italy,"[24535,24683]","[0,3]","[3,5]",Investigated,Varicelle
+person,"[47,78]",Italy,"[24535,24683]","[0,3]","[3,5]",On Probation,Appendicite
+person,"[24,41]",Italy,"[25016,25165]","[2,4]","[3,3]",On Parole,Chlamydia
+person,"[24,41]",Italy,"[25016,25165]","[2,4]","[3,3]",Convicted,Scarlatine
+person,"[24,41]",Italy,"[25016,25165]","[2,4]","[3,3]",No Records,Cataracte
+person,"[24,41]",Italy,"[25016,25165]","[2,4]","[3,3]",Prescribed,Cataracte
+person,"[53,77]",Italy,"[24693,25172]","[1,4]","[1,5]",Pardoned,Zona
+person,"[53,77]",Italy,"[24693,25172]","[1,4]","[1,5]",On Probation,Varicelle
+person,"[53,77]",Italy,"[24693,25172]","[1,4]","[1,5]",On Parole,Eczéma
+person,"[53,77]",Italy,"[24693,25172]","[1,4]","[1,5]",Investigated,Rhino-pharyngite
+person,"[50,52]",Italy,"[25231,25579]","[0,3]","[5,10]",On Parole,Scarlatine
+person,"[50,52]",Italy,"[25231,25579]","[0,3]","[5,10]",Investigated,Varicelle
+person,"[50,52]",Italy,"[25231,25579]","[0,3]","[5,10]",On Probation,Cataracte
+person,"[50,52]",Italy,"[25231,25579]","[0,3]","[5,10]",Prescribed,Appendicite
+person,"[21,72]",Sud,"[25632,25668]","[0,4]","[1,3]",Convicted,Appendicite
+person,"[21,72]",Sud,"[25632,25668]","[0,4]","[1,3]",Pardoned,Varicelle
+person,"[21,72]",Sud,"[25632,25668]","[0,4]","[1,3]",No Records,Hépatite B
+person,"[33,73]",Italy,"[25685,25752]","[2,3]","[1,5]",Acquitted,Otite
+person,"[33,73]",Italy,"[25685,25752]","[2,3]","[1,5]",On Probation,Grippe
+person,"[33,73]",Italy,"[25685,25752]","[2,3]","[1,5]",On Parole,Chlamydia
+person,"[33,73]",Italy,"[25685,25752]","[2,3]","[1,5]",On Probation,Otite
+person,"[18,76]",Italy,"[25764,26033]","[0,4]","[1,10]",Investigated,Appendicite
+person,"[18,76]",Italy,"[25764,26033]","[0,4]","[1,10]",Pardoned,Appendicite
+person,"[18,76]",Italy,"[25764,26033]","[0,4]","[1,10]",Acquitted,Angine
+person,"[18,76]",Italy,"[25764,26033]","[0,4]","[1,10]",Pardoned,Angine
+person,"[31,46]",Italy,"[26158,26413]","[0,2]","[1,10]",Pardoned,Urticaire
+person,"[31,46]",Italy,"[26158,26413]","[0,2]","[1,10]",Investigated,Chlamydia
+person,"[31,46]",Italy,"[26158,26413]","[0,2]","[1,10]",On Parole,Urticaire
+person,"[31,46]",Italy,"[26158,26413]","[0,2]","[1,10]",On Probation,Urticaire
+M,"[54,73]",Italy,"[26181,26590]","[0,1]","[3,5]",On Probation,Cataracte
+M,"[54,73]",Italy,"[26181,26590]","[0,1]","[3,5]",Prescribed,Dengue
+M,"[54,73]",Italy,"[26181,26590]","[0,1]","[3,5]",Pardoned,Urticaire
+M,"[54,73]",Italy,"[26181,26590]","[0,1]","[3,5]",Investigated,Chlamydia
+person,"[24,45]",Italy,"[26752,26940]","[0,4]","[3,10]",Pardoned,Rhino-pharyngite
+person,"[24,45]",Italy,"[26752,26940]","[0,4]","[3,10]",No Records,Scarlatine
+person,"[24,45]",Italy,"[26752,26940]","[0,4]","[3,10]",On Probation,Healthy
+person,"[24,45]",Italy,"[26752,26940]","[0,4]","[3,10]",Prescribed,Otite
+person,"[26,55]",Italy,"[26965,27048]","[0,3]","[3,5]",Prescribed,Healthy
+person,"[26,55]",Italy,"[26965,27048]","[0,3]","[3,5]",No Records,Angine
+person,"[26,55]",Italy,"[26965,27048]","[0,3]","[3,5]",Prescribed,Healthy
+person,"[26,55]",Italy,"[26965,27048]","[0,3]","[3,5]",Acquitted,Chlamydia
+F,"[50,75]",Italy,"[27051,27210]","[0,3]","[1,5]",Investigated,Zona
+F,"[50,75]",Italy,"[27051,27210]","[0,3]","[1,5]",On Probation,Grippe
+F,"[50,75]",Italy,"[27051,27210]","[0,3]","[1,5]",On Probation,Rougeole
+F,"[50,75]",Italy,"[27051,27210]","[0,3]","[1,5]",No Records,Varicelle
+person,"[33,48]",Italy,"[27227,27378]","[0,3]","[5,10]",Acquitted,Angine
+person,"[33,48]",Italy,"[27227,27378]","[0,3]","[5,10]",On Parole,Varicelle
+person,"[33,48]",Italy,"[27227,27378]","[0,3]","[5,10]",Convicted,Appendicite
+person,"[33,48]",Italy,"[27227,27378]","[0,3]","[5,10]",On Parole,Otite
+person,"[23,56]",Italy,"[27422,27485]","[1,3]","[3,10]",On Parole,Hépatite B
+person,"[23,56]",Italy,"[27422,27485]","[1,3]","[3,10]",Convicted,Cataracte
+person,"[23,56]",Italy,"[27422,27485]","[1,3]","[3,10]",Prescribed,Hépatite C
+person,"[23,56]",Italy,"[27422,27485]","[1,3]","[3,10]",Investigated,Eczéma
+person,"[44,79]",Italy,"[27549,27643]","[0,2]","[5,10]",On Probation,Zona
+person,"[44,79]",Italy,"[27549,27643]","[0,2]","[5,10]",Convicted,Angine
+person,"[44,79]",Italy,"[27549,27643]","[0,2]","[5,10]",On Probation,Hépatite C
+person,"[44,79]",Italy,"[27549,27643]","[0,2]","[5,10]",Pardoned,Zona
+person,"[25,48]",Italy,"[27712,28009]","[0,3]","[3,10]",On Parole,Varicelle
+person,"[25,48]",Italy,"[27712,28009]","[0,3]","[3,10]",Convicted,Zona
+person,"[25,48]",Italy,"[27712,28009]","[0,3]","[3,10]",Acquitted,Angine
+person,"[25,48]",Italy,"[27712,28009]","[0,3]","[3,10]",On Probation,Rougeole
+person,"[49,69]",Italy,"[27753,27862]","[0,3]","[1,5]",Acquitted,Varicelle
+person,"[49,69]",Italy,"[27753,27862]","[0,3]","[1,5]",On Parole,Grippe
+person,"[49,69]",Italy,"[27753,27862]","[0,3]","[1,5]",Pardoned,Scarlatine
+person,"[49,69]",Italy,"[27753,27862]","[0,3]","[1,5]",Investigated,Chlamydia
+person,"[28,54]",Italy,"[28113,28501]","[0,4]","[1,10]",On Parole,Rhino-pharyngite
+person,"[28,54]",Italy,"[28113,28501]","[0,4]","[1,10]",Convicted,Urticaire
+person,"[28,54]",Italy,"[28113,28501]","[0,4]","[1,10]",On Probation,Healthy
+person,"[28,54]",Italy,"[28113,28501]","[0,4]","[1,10]",On Parole,Hépatite B
+person,"[57,71]",Italy,"[28089,28535]","[2,4]","[1,10]",Acquitted,Rougeole
+person,"[57,71]",Italy,"[28089,28535]","[2,4]","[1,10]",Acquitted,Eczéma
+person,"[57,71]",Italy,"[28089,28535]","[2,4]","[1,10]",Prescribed,Healthy
+person,"[57,71]",Italy,"[28089,28535]","[2,4]","[1,10]",On Probation,Varicelle
+M,"[23,48]",Italy,"[28606,28860]","[0,2]","[1,5]",Prescribed,Varicelle
+M,"[23,48]",Italy,"[28606,28860]","[0,2]","[1,5]",Prescribed,Grippe
+M,"[23,48]",Italy,"[28606,28860]","[0,2]","[1,5]",On Parole,Zona
+M,"[23,48]",Italy,"[28606,28860]","[0,2]","[1,5]",No Records,Scarlatine
+person,"[53,80]",Italy,"[28661,28872]","[0,2]","[1,5]",Convicted,Grippe
+person,"[53,80]",Italy,"[28661,28872]","[0,2]","[1,5]",Convicted,Rhino-pharyngite
+person,"[53,80]",Italy,"[28661,28872]","[0,2]","[1,5]",No Records,Angine
+person,"[21,41]",Italy,"[29002,29094]","[0,3]","[1,10]",Acquitted,Hépatite C
+person,"[21,41]",Italy,"[29002,29094]","[0,3]","[1,10]",Investigated,Chlamydia
+person,"[21,41]",Italy,"[29002,29094]","[0,3]","[1,10]",Investigated,Varicelle
+person,"[21,41]",Italy,"[29002,29094]","[0,3]","[1,10]",Convicted,Rougeole
+person,"[34,41]",Italy,"[29208,29327]","[0,3]","[3,10]",No Records,Zona
+person,"[34,41]",Italy,"[29208,29327]","[0,3]","[3,10]",Prescribed,Hépatite B
+person,"[34,41]",Italy,"[29208,29327]","[0,3]","[3,10]",On Probation,Eczéma
+person,"[34,41]",Italy,"[29208,29327]","[0,3]","[3,10]",Convicted,Healthy
+person,"[18,23]",Italy,"[29143,29327]","[0,3]","[3,5]",Acquitted,Angine
+person,"[18,23]",Italy,"[29143,29327]","[0,3]","[3,5]",Acquitted,Varicelle
+person,"[18,23]",Italy,"[29143,29327]","[0,3]","[3,5]",On Parole,Urticaire
+person,"[18,23]",Italy,"[29143,29327]","[0,3]","[3,5]",Prescribed,Hépatite C
+person,"[59,76]",Italy,"[28875,29556]","[1,2]","[1,5]",No Records,Cataracte
+person,"[59,76]",Italy,"[28875,29556]","[1,2]","[1,5]",No Records,Varicelle
+person,"[59,76]",Italy,"[28875,29556]","[1,2]","[1,5]",Investigated,Rhino-pharyngite
+person,"[59,76]",Italy,"[28875,29556]","[1,2]","[1,5]",On Probation,Zona
+person,"[26,39]",Italy,"[29861,30038]","[0,3]","[1,10]",Convicted,Hépatite B
+person,"[26,39]",Italy,"[29861,30038]","[0,3]","[1,10]",Prescribed,Cataracte
+person,"[26,39]",Italy,"[29861,30038]","[0,3]","[1,10]",On Probation,Grippe
+person,"[26,39]",Italy,"[29861,30038]","[0,3]","[1,10]",Pardoned,Otite
+person,"[21,76]",Italy,"[30095,30216]","[1,2]","[1,5]",On Parole,Scarlatine
+person,"[21,76]",Italy,"[30095,30216]","[1,2]","[1,5]",Prescribed,Rougeole
+person,"[21,76]",Italy,"[30095,30216]","[1,2]","[1,5]",On Parole,Cataracte
+person,"[21,76]",Italy,"[30095,30216]","[1,2]","[1,5]",Investigated,Urticaire
+person,"[31,53]",Italy,"[30287,30467]","[0,2]","[3,5]",Convicted,Hépatite C
+person,"[31,53]",Italy,"[30287,30467]","[0,2]","[3,5]",No Records,Scarlatine
+person,"[31,53]",Italy,"[30287,30467]","[0,2]","[3,5]",Convicted,Eczéma
+person,"[31,53]",Italy,"[30287,30467]","[0,2]","[3,5]",No Records,Hépatite C
+F,"[28,53]",Italy,"[30485,30548]","[0,1]","[1,10]",Investigated,Dengue
+F,"[28,53]",Italy,"[30485,30548]","[0,1]","[1,10]",On Probation,Zona
+F,"[28,53]",Italy,"[30485,30548]","[0,1]","[1,10]",On Probation,Dengue
+person,"[19,49]",Italy,"[30577,31014]","[0,2]","[1,5]",No Records,Scarlatine
+person,"[19,49]",Italy,"[30577,31014]","[0,2]","[1,5]",Investigated,Chlamydia
+person,"[19,49]",Italy,"[30577,31014]","[0,2]","[1,5]",Investigated,Hépatite B
+person,"[19,49]",Italy,"[30577,31014]","[0,2]","[1,5]",Prescribed,Appendicite
+person,"[50,62]",Italy,"[30549,30745]","[0,2]","[1,5]",Investigated,Cataracte
+person,"[50,62]",Italy,"[30549,30745]","[0,2]","[1,5]",Convicted,Hépatite C
+person,"[50,62]",Italy,"[30549,30745]","[0,2]","[1,5]",On Probation,Chlamydia
+person,"[50,62]",Italy,"[30549,30745]","[0,2]","[1,5]",On Parole,Angine
+person,"[27,36]",Italy,"[31045,31801]","[0,2]","[1,3]",On Parole,Healthy
+person,"[27,36]",Italy,"[31045,31801]","[0,2]","[1,3]",Acquitted,Grippe
+person,"[27,36]",Italy,"[31045,31801]","[0,2]","[1,3]",Convicted,Eczéma
+person,"[27,36]",Italy,"[31045,31801]","[0,2]","[1,3]",On Probation,Rougeole
+person,"[40,56]",Italy,"[31035,31677]","[0,2]","[1,10]",Convicted,Otite
+person,"[40,56]",Italy,"[31035,31677]","[0,2]","[1,10]",Investigated,Eczéma
+person,"[40,56]",Italy,"[31035,31677]","[0,2]","[1,10]",On Probation,Appendicite
+person,"[40,56]",Italy,"[31035,31677]","[0,2]","[1,10]",No Records,Varicelle
+person,"[64,78]",Italy,"[31807,31961]","[0,2]","[1,5]",Pardoned,Zona
+person,"[64,78]",Italy,"[31807,31961]","[0,2]","[1,5]",Pardoned,Zona
+person,"[64,78]",Italy,"[31807,31961]","[0,2]","[1,5]",Convicted,Eczéma
+person,"[64,78]",Italy,"[31807,31961]","[0,2]","[1,5]",Pardoned,Grippe
+person,"[23,78]",Italy,"[31999,32273]","[0,2]","[1,10]",Pardoned,Angine
+person,"[23,78]",Italy,"[31999,32273]","[0,2]","[1,10]",Pardoned,Eczéma
+person,"[23,78]",Italy,"[31999,32273]","[0,2]","[1,10]",On Parole,Rhino-pharyngite
+person,"[23,78]",Italy,"[31999,32273]","[0,2]","[1,10]",No Records,Cataracte
+person,"[21,43]",Italy,"[32363,32737]","[0,2]","[3,10]",On Probation,Hépatite B
+person,"[21,43]",Italy,"[32363,32737]","[0,2]","[3,10]",On Probation,Otite
+person,"[21,43]",Italy,"[32363,32737]","[0,2]","[3,10]",Pardoned,Dengue
+person,"[21,43]",Italy,"[32363,32737]","[0,2]","[3,10]",Pardoned,Angine
+person,"[52,68]",Italy,"[32365,32390]","[0,1]","[1,10]",No Records,Hépatite B
+person,"[52,68]",Italy,"[32365,32390]","[0,1]","[1,10]",Investigated,Urticaire
+person,"[52,68]",Italy,"[32365,32390]","[0,1]","[1,10]",On Parole,Dengue
+person,"[18,39]",Italy,"[32749,33095]","[0,2]","[1,5]",Pardoned,Urticaire
+person,"[18,39]",Italy,"[32749,33095]","[0,2]","[1,5]",Prescribed,Urticaire
+person,"[18,39]",Italy,"[32749,33095]","[0,2]","[1,5]",Pardoned,Angine
+person,"[18,39]",Italy,"[32749,33095]","[0,2]","[1,5]",Prescribed,Cataracte
+person,"[49,73]",Italy,"[32771,33042]","[0,3]","[1,5]",No Records,Cataracte
+person,"[49,73]",Italy,"[32771,33042]","[0,3]","[1,5]",No Records,Cataracte
+person,"[49,73]",Italy,"[32771,33042]","[0,3]","[1,5]",On Probation,Cataracte
+person,"[49,73]",Italy,"[32771,33042]","[0,3]","[1,5]",Investigated,Rougeole
+person,"[18,70]",Italy,"[33199,33575]","[1,2]","[1,10]",On Probation,Healthy
+person,"[18,70]",Italy,"[33199,33575]","[1,2]","[1,10]",Convicted,Appendicite
+person,"[18,70]",Italy,"[33199,33575]","[1,2]","[1,10]",Acquitted,Scarlatine
+person,"[18,70]",Italy,"[33199,33575]","[1,2]","[1,10]",Prescribed,Hépatite B
+person,"[35,61]",Italy,"[33611,33660]","[0,2]","[1,10]",Convicted,Appendicite
+person,"[35,61]",Italy,"[33611,33660]","[0,2]","[1,10]",Investigated,Varicelle
+person,"[35,61]",Italy,"[33611,33660]","[0,2]","[1,10]",Acquitted,Hépatite B
+person,"[35,61]",Italy,"[33611,33660]","[0,2]","[1,10]",Prescribed,Cataracte
+person,"[31,71]",Italy,"[33725,34019]","[0,4]","[1,5]",Pardoned,Rougeole
+person,"[31,71]",Italy,"[33725,34019]","[0,4]","[1,5]",No Records,Grippe
+person,"[31,71]",Italy,"[33725,34019]","[0,4]","[1,5]",On Probation,Hépatite B
+person,"[31,71]",Italy,"[33725,34019]","[0,4]","[1,5]",Prescribed,Scarlatine
+person,"[22,62]",Italy,"[34025,34225]","[0,3]","[1,10]",Pardoned,Healthy
+person,"[22,62]",Italy,"[34025,34225]","[0,3]","[1,10]",Acquitted,Hépatite C
+person,"[22,62]",Italy,"[34025,34225]","[0,3]","[1,10]",On Probation,Healthy
+person,"[22,62]",Italy,"[34025,34225]","[0,3]","[1,10]",Acquitted,Rhino-pharyngite
+person,"[19,42]",Italy,"[34235,34669]","[0,3]","[1,10]",On Parole,Healthy
+person,"[19,42]",Italy,"[34235,34669]","[0,3]","[1,10]",Convicted,Scarlatine
+person,"[19,42]",Italy,"[34235,34669]","[0,3]","[1,10]",Acquitted,Healthy
+person,"[19,42]",Italy,"[34235,34669]","[0,3]","[1,10]",No Records,Rhino-pharyngite
+person,"[49,77]",Italy,"[34266,34467]","[0,2]","[1,10]",On Parole,Appendicite
+person,"[49,77]",Italy,"[34266,34467]","[0,2]","[1,10]",On Probation,Hépatite B
+person,"[49,77]",Italy,"[34266,34467]","[0,2]","[1,10]",On Parole,Rougeole
+person,"[49,77]",Italy,"[34266,34467]","[0,2]","[1,10]",Investigated,Healthy
+person,"[19,35]",Italy,"[34818,35260]","[0,3]","[1,10]",Convicted,Urticaire
+person,"[19,35]",Italy,"[34818,35260]","[0,3]","[1,10]",Investigated,Urticaire
+person,"[19,35]",Italy,"[34818,35260]","[0,3]","[1,10]",No Records,Appendicite
+person,"[19,35]",Italy,"[34818,35260]","[0,3]","[1,10]",Investigated,Rougeole
+person,"[36,43]",Italy,"[34761,35319]","[0,2]","[1,5]",No Records,Chlamydia
+person,"[36,43]",Italy,"[34761,35319]","[0,2]","[1,5]",Convicted,Chlamydia
+person,"[36,43]",Italy,"[34761,35319]","[0,2]","[1,5]",On Probation,Varicelle
+person,"[36,43]",Italy,"[34761,35319]","[0,2]","[1,5]",On Parole,Grippe
+person,"[45,72]",Italy,"[34670,35156]","[0,2]","[3,10]",No Records,Hépatite B
+person,"[45,72]",Italy,"[34670,35156]","[0,2]","[3,10]",Investigated,Scarlatine
+person,"[45,72]",Italy,"[34670,35156]","[0,2]","[3,10]",Convicted,Zona
+person,"[45,72]",Italy,"[34670,35156]","[0,2]","[3,10]",Investigated,Appendicite
+person,"[48,70]",Italy,"[35162,35337]","[0,3]","[1,10]",No Records,Cataracte
+person,"[48,70]",Italy,"[35162,35337]","[0,3]","[1,10]",On Parole,Eczéma
+person,"[48,70]",Italy,"[35162,35337]","[0,3]","[1,10]",Investigated,Cataracte
+person,"[48,70]",Italy,"[35162,35337]","[0,3]","[1,10]",No Records,Zona
+M,"[48,77]",Italy,"[35387,35911]","[2,4]","[1,5]",Convicted,Scarlatine
+M,"[48,77]",Italy,"[35387,35911]","[2,4]","[1,5]",Acquitted,Rhino-pharyngite
+M,"[48,77]",Italy,"[35387,35911]","[2,4]","[1,5]",Convicted,Dengue
+M,"[48,77]",Italy,"[35387,35911]","[2,4]","[1,5]",No Records,Dengue
+person,"[24,70]",Italy,"[36064,36145]","[0,2]","[1,5]",Convicted,Angine
+person,"[24,70]",Italy,"[36064,36145]","[0,2]","[1,5]",Investigated,Hépatite B
+person,"[24,70]",Italy,"[36064,36145]","[0,2]","[1,5]",Pardoned,Chlamydia
+person,"[24,70]",Italy,"[36064,36145]","[0,2]","[1,5]",Convicted,Zona
+person,"[29,37]",Italy,"[36315,36656]","[0,2]","[3,10]",No Records,Rhino-pharyngite
+person,"[29,37]",Italy,"[36315,36656]","[0,2]","[3,10]",Acquitted,Zona
+person,"[29,37]",Italy,"[36315,36656]","[0,2]","[3,10]",Acquitted,Appendicite
+person,"[29,37]",Italy,"[36315,36656]","[0,2]","[3,10]",Investigated,Chlamydia
+person,"[39,66]",Italy,"[36213,36663]","[0,1]","[1,1]",No Records,Otite
+person,"[39,66]",Italy,"[36213,36663]","[0,1]","[1,1]",Pardoned,Healthy
+person,"[39,66]",Italy,"[36213,36663]","[0,1]","[1,1]",Prescribed,Otite
+person,"[32,57]",Italy,"[36776,37044]","[2,4]","[3,10]",Prescribed,Chlamydia
+person,"[32,57]",Italy,"[36776,37044]","[2,4]","[3,10]",Prescribed,Healthy
+person,"[32,57]",Italy,"[36776,37044]","[2,4]","[3,10]",Pardoned,Otite
+person,"[32,57]",Italy,"[36776,37044]","[2,4]","[3,10]",No Records,Eczéma
+person,"[23,79]",Italy,"[37099,37207]","[0,2]","[1,10]",Pardoned,Scarlatine
+person,"[23,79]",Italy,"[37099,37207]","[0,2]","[1,10]",Prescribed,Rougeole
+person,"[23,79]",Italy,"[37099,37207]","[0,2]","[1,10]",Prescribed,Rhino-pharyngite
+person,"[23,79]",Italy,"[37099,37207]","[0,2]","[1,10]",Prescribed,Scarlatine
+person,"[21,48]",Italy,"[37386,37655]","[0,2]","[1,10]",No Records,Hépatite C
+person,"[21,48]",Italy,"[37386,37655]","[0,2]","[1,10]",Pardoned,Rhino-pharyngite
+person,"[21,48]",Italy,"[37386,37655]","[0,2]","[1,10]",No Records,Eczéma
+person,"[21,48]",Italy,"[37386,37655]","[0,2]","[1,10]",No Records,Rougeole
+person,"[49,80]",Italy,"[37229,37343]","[0,3]","[1,10]",No Records,Chlamydia
+person,"[49,80]",Italy,"[37229,37343]","[0,3]","[1,10]",No Records,Rougeole
+person,"[49,80]",Italy,"[37229,37343]","[0,3]","[1,10]",Investigated,Zona
+person,"[49,80]",Italy,"[37229,37343]","[0,3]","[1,10]",Prescribed,Angine
+M,"[25,39]",Italy,"[37948,39022]","[0,4]","[1,10]",On Probation,Healthy
+M,"[25,39]",Italy,"[37948,39022]","[0,4]","[1,10]",Convicted,Scarlatine
+M,"[25,39]",Italy,"[37948,39022]","[0,4]","[1,10]",Prescribed,Urticaire
+M,"[25,39]",Italy,"[37948,39022]","[0,4]","[1,10]",On Probation,Eczéma
+person,"[40,45]",Italy,"[37925,38826]","[0,2]","[3,10]",Acquitted,Scarlatine
+person,"[40,45]",Italy,"[37925,38826]","[0,2]","[3,10]",On Probation,Rhino-pharyngite
+person,"[40,45]",Italy,"[37925,38826]","[0,2]","[3,10]",On Probation,Urticaire
+person,"[40,45]",Italy,"[37925,38826]","[0,2]","[3,10]",Acquitted,Rougeole
+M,"[48,63]",Italy,"[37713,38248]","[1,5]","[1,10]",Acquitted,Rhino-pharyngite
+M,"[48,63]",Italy,"[37713,38248]","[1,5]","[1,10]",Convicted,Chlamydia
+M,"[48,63]",Italy,"[37713,38248]","[1,5]","[1,10]",Acquitted,Varicelle
+M,"[48,63]",Italy,"[37713,38248]","[1,5]","[1,10]",No Records,Otite
+person,"[66,78]",Italy,"[37760,38000]","[2,4]","[1,10]",Investigated,Hépatite C
+person,"[66,78]",Italy,"[37760,38000]","[2,4]","[1,10]",Investigated,Cataracte
+person,"[66,78]",Italy,"[37760,38000]","[2,4]","[1,10]",On Probation,Appendicite
+person,"[21,56]",Italy,"[39060,39427]","[0,2]","[5,10]",Investigated,Rhino-pharyngite
+person,"[21,56]",Italy,"[39060,39427]","[0,2]","[5,10]",On Parole,Rougeole
+person,"[21,56]",Italy,"[39060,39427]","[0,2]","[5,10]",Acquitted,Angine
+person,"[21,56]",Italy,"[39060,39427]","[0,2]","[5,10]",Pardoned,Hépatite B
+person,"[57,79]",Italy,"[39215,39799]","[2,4]","[3,5]",On Parole,Zona
+person,"[57,79]",Italy,"[39215,39799]","[2,4]","[3,5]",Investigated,Rougeole
+person,"[57,79]",Italy,"[39215,39799]","[2,4]","[3,5]",Pardoned,Scarlatine
+person,"[57,79]",Italy,"[39215,39799]","[2,4]","[3,5]",Prescribed,Urticaire
+person,"[25,57]",Italy,"[40182,40746]","[0,3]","[1,10]",Convicted,Eczéma
+person,"[25,57]",Italy,"[40182,40746]","[0,3]","[1,10]",On Probation,Zona
+person,"[25,57]",Italy,"[40182,40746]","[0,3]","[1,10]",Investigated,Angine
+person,"[25,57]",Italy,"[40182,40746]","[0,3]","[1,10]",Acquitted,Otite
+person,"[59,71]",Italy,"[39898,40709]","[2,4]","[3,10]",On Parole,Appendicite
+person,"[59,71]",Italy,"[39898,40709]","[2,4]","[3,10]",Acquitted,Rougeole
+person,"[59,71]",Italy,"[39898,40709]","[2,4]","[3,10]",Convicted,Angine
+person,"[59,71]",Italy,"[39898,40709]","[2,4]","[3,10]",Pardoned,Cataracte
+person,"[35,46]",Italy,"[40887,41285]","[1,3]","[3,10]",Investigated,Zona
+person,"[35,46]",Italy,"[40887,41285]","[1,3]","[3,10]",Prescribed,Rougeole
+person,"[35,46]",Italy,"[40887,41285]","[1,3]","[3,10]",Investigated,Cataracte
+person,"[35,46]",Italy,"[40887,41285]","[1,3]","[3,10]",No Records,Eczéma
+person,"[55,78]",Italy,"[40976,41261]","[0,2]","[1,5]",No Records,Grippe
+person,"[55,78]",Italy,"[40976,41261]","[0,2]","[1,5]",Acquitted,Healthy
+person,"[55,78]",Italy,"[40976,41261]","[0,2]","[1,5]",No Records,Angine
+person,"[55,78]",Italy,"[40976,41261]","[0,2]","[1,5]",Convicted,Appendicite
+person,"[44,78]",Italy,"[41307,41577]","[0,3]","[1,10]",Pardoned,Chlamydia
+person,"[44,78]",Italy,"[41307,41577]","[0,3]","[1,10]",Acquitted,Grippe
+person,"[44,78]",Italy,"[41307,41577]","[0,3]","[1,10]",Pardoned,Appendicite
+person,"[44,78]",Italy,"[41307,41577]","[0,3]","[1,10]",Convicted,Chlamydia
+person,"[23,28]",Italy,"[41638,41770]","[1,2]","[5,10]",Pardoned,Chlamydia
+person,"[23,28]",Italy,"[41638,41770]","[1,2]","[5,10]",No Records,Scarlatine
+person,"[23,28]",Italy,"[41638,41770]","[1,2]","[5,10]",On Parole,Scarlatine
+person,"[18,56]",Italy,"[42048,42753]","[0,4]","[1,10]",Acquitted,Eczéma
+person,"[18,56]",Italy,"[42048,42753]","[0,4]","[1,10]",Pardoned,Chlamydia
+person,"[18,56]",Italy,"[42048,42753]","[0,4]","[1,10]",No Records,Dengue
+person,"[18,56]",Italy,"[42048,42753]","[0,4]","[1,10]",On Parole,Rhino-pharyngite
+person,"[70,80]",Italy,"[42202,42933]","[0,3]","[1,10]",On Probation,Scarlatine
+person,"[70,80]",Italy,"[42202,42933]","[0,3]","[1,10]",Pardoned,Rhino-pharyngite
+person,"[70,80]",Italy,"[42202,42933]","[0,3]","[1,10]",On Probation,Grippe
+person,"[70,80]",Italy,"[42202,42933]","[0,3]","[1,10]",On Parole,Urticaire
+person,"[20,57]",Italy,"[43603,43802]","[0,2]","[3,10]",Acquitted,Cataracte
+person,"[20,57]",Italy,"[43603,43802]","[0,2]","[3,10]",On Probation,Rhino-pharyngite
+person,"[20,57]",Italy,"[43603,43802]","[0,2]","[3,10]",Pardoned,Eczéma
+person,"[20,57]",Italy,"[43603,43802]","[0,2]","[3,10]",On Parole,Hépatite B
+person,"[59,78]",Italy,"[43204,43624]","[0,3]","[1,10]",Investigated,Rhino-pharyngite
+person,"[59,78]",Italy,"[43204,43624]","[0,3]","[1,10]",On Parole,Dengue
+person,"[59,78]",Italy,"[43204,43624]","[0,3]","[1,10]",Investigated,Otite
+person,"[59,78]",Italy,"[43204,43624]","[0,3]","[1,10]",No Records,Hépatite B
+person,"[22,54]",Italy,"[43990,44356]","[0,3]","[1,5]",Prescribed,Otite
+person,"[22,54]",Italy,"[43990,44356]","[0,3]","[1,5]",Convicted,Rhino-pharyngite
+person,"[22,54]",Italy,"[43990,44356]","[0,3]","[1,5]",Pardoned,Grippe
+person,"[22,54]",Italy,"[43990,44356]","[0,3]","[1,5]",On Probation,Eczéma
+person,"[60,78]",Italy,"[43923,44346]","[0,5]","[1,10]",Pardoned,Otite
+person,"[60,78]",Italy,"[43923,44346]","[0,5]","[1,10]",Prescribed,Grippe
+person,"[60,78]",Italy,"[43923,44346]","[0,5]","[1,10]",Convicted,Dengue
+person,"[60,78]",Italy,"[43923,44346]","[0,5]","[1,10]",On Parole,Grippe
+person,"[25,48]",Italy,"[44513,45107]","[0,2]","[1,10]",Prescribed,Grippe
+person,"[25,48]",Italy,"[44513,45107]","[0,2]","[1,10]",Prescribed,Appendicite
+person,"[25,48]",Italy,"[44513,45107]","[0,2]","[1,10]",Pardoned,Eczéma
+person,"[25,48]",Italy,"[44513,45107]","[0,2]","[1,10]",On Parole,Chlamydia
+person,"[58,80]",Italy,"[44440,44834]","[0,2]","[3,5]",On Probation,Appendicite
+person,"[58,80]",Italy,"[44440,44834]","[0,2]","[3,5]",On Probation,Cataracte
+person,"[58,80]",Italy,"[44440,44834]","[0,2]","[3,5]",On Parole,Chlamydia
+person,"[58,80]",Italy,"[44440,44834]","[0,2]","[3,5]",No Records,Otite
+F,"[19,80]",Italy,"[45127,45412]","[1,4]","[1,5]",On Parole,Appendicite
+F,"[19,80]",Italy,"[45127,45412]","[1,4]","[1,5]",Prescribed,Angine
+F,"[19,80]",Italy,"[45127,45412]","[1,4]","[1,5]",Pardoned,Angine
+F,"[19,80]",Italy,"[45127,45412]","[1,4]","[1,5]",Pardoned,Rougeole
+person,"[18,54]",Italy,"[45610,45765]","[0,3]","[1,5]",Investigated,Rougeole
+person,"[18,54]",Italy,"[45610,45765]","[0,3]","[1,5]",Acquitted,Grippe
+person,"[18,54]",Italy,"[45610,45765]","[0,3]","[1,5]",Investigated,Scarlatine
+person,"[18,54]",Italy,"[45610,45765]","[0,3]","[1,5]",Acquitted,Scarlatine
+person,"[23,53]",Italy,"[46024,46525]","[0,2]","[1,10]",Convicted,Angine
+person,"[23,53]",Italy,"[46024,46525]","[0,2]","[1,10]",On Parole,Appendicite
+person,"[23,53]",Italy,"[46024,46525]","[0,2]","[1,10]",No Records,Varicelle
+person,"[23,53]",Italy,"[46024,46525]","[0,2]","[1,10]",Acquitted,Healthy
+person,"[58,76]",Italy,"[45871,46365]","[0,2]","[1,10]",Convicted,Zona
+person,"[58,76]",Italy,"[45871,46365]","[0,2]","[1,10]",Pardoned,Grippe
+person,"[58,76]",Italy,"[45871,46365]","[0,2]","[1,10]",On Parole,Dengue
+person,"[58,76]",Italy,"[45871,46365]","[0,2]","[1,10]",On Parole,Rougeole
+person,"[20,62]",Italy,"[46610,47418]","[0,4]","[1,5]",No Records,Varicelle
+person,"[20,62]",Italy,"[46610,47418]","[0,4]","[1,5]",Prescribed,Otite
+person,"[20,62]",Italy,"[46610,47418]","[0,4]","[1,5]",Investigated,Hépatite B
+person,"[20,62]",Italy,"[46610,47418]","[0,4]","[1,5]",On Parole,Grippe
+person,"[34,69]",Italy,"[47497,47691]","[0,2]","[1,10]",On Parole,Appendicite
+person,"[34,69]",Italy,"[47497,47691]","[0,2]","[1,10]",On Parole,Zona
+person,"[34,69]",Italy,"[47497,47691]","[0,2]","[1,10]",Prescribed,Zona
+person,"[34,69]",Italy,"[47497,47691]","[0,2]","[1,10]",Pardoned,Zona
+M,"[22,77]",Italy,"[47837,48144]","[0,2]","[1,10]",Convicted,Varicelle
+M,"[22,77]",Italy,"[47837,48144]","[0,2]","[1,10]",No Records,Hépatite C
+M,"[22,77]",Italy,"[47837,48144]","[0,2]","[1,10]",Convicted,Cataracte
+M,"[22,77]",Italy,"[47837,48144]","[0,2]","[1,10]",Investigated,Healthy
+F,"[20,36]",Italy,"[48191,49042]","[0,3]","[1,5]",On Parole,Appendicite
+F,"[20,36]",Italy,"[48191,49042]","[0,3]","[1,5]",On Probation,Rougeole
+F,"[20,36]",Italy,"[48191,49042]","[0,3]","[1,5]",Convicted,Rhino-pharyngite
+person,"[22,37]",Italy,"[49189,49834]","[0,3]","[1,10]",Investigated,Rougeole
+person,"[22,37]",Italy,"[49189,49834]","[0,3]","[1,10]",Convicted,Appendicite
+person,"[22,37]",Italy,"[49189,49834]","[0,3]","[1,10]",Investigated,Hépatite C
+person,"[22,37]",Italy,"[49189,49834]","[0,3]","[1,10]",Acquitted,Dengue
+person,"[38,74]",Italy,"[49412,49806]","[0,3]","[1,3]",Pardoned,Hépatite C
+person,"[38,74]",Italy,"[49412,49806]","[0,3]","[1,3]",Investigated,Hépatite B
+person,"[38,74]",Italy,"[49412,49806]","[0,3]","[1,3]",On Probation,Chlamydia
+person,"[38,74]",Italy,"[49412,49806]","[0,3]","[1,3]",On Parole,Chlamydia
+person,"[39,75]",Italy,"[50169,50281]","[0,4]","[1,3]",Pardoned,Scarlatine
+person,"[39,75]",Italy,"[50169,50281]","[0,4]","[1,3]",Prescribed,Rhino-pharyngite
+person,"[39,75]",Italy,"[50169,50281]","[0,4]","[1,3]",On Probation,Varicelle
+person,"[39,75]",Italy,"[50169,50281]","[0,4]","[1,3]",On Parole,Varicelle
+person,"[33,69]",Italy,"[50355,50650]","[0,3]","[1,10]",Prescribed,Scarlatine
+person,"[33,69]",Italy,"[50355,50650]","[0,3]","[1,10]",Acquitted,Dengue
+person,"[33,69]",Italy,"[50355,50650]","[0,3]","[1,10]",On Parole,Varicelle
+person,"[33,69]",Italy,"[50355,50650]","[0,3]","[1,10]",Prescribed,Healthy
+person,"[28,63]",Italy,"[50703,50840]","[0,2]","[1,5]",On Probation,Eczéma
+person,"[28,63]",Italy,"[50703,50840]","[0,2]","[1,5]",On Probation,Cataracte
+person,"[28,63]",Italy,"[50703,50840]","[0,2]","[1,5]",On Parole,Eczéma
+person,"[28,63]",Italy,"[50703,50840]","[0,2]","[1,5]",On Probation,Appendicite
+person,"[34,71]",Italy,"[50947,51140]","[0,3]","[1,5]",On Parole,Otite
+person,"[34,71]",Italy,"[50947,51140]","[0,3]","[1,5]",Prescribed,Healthy
+person,"[34,71]",Italy,"[50947,51140]","[0,3]","[1,5]",Pardoned,Scarlatine
+person,"[34,71]",Italy,"[50947,51140]","[0,3]","[1,5]",Convicted,Dengue
+person,"[36,55]",Italy,"[51447,51845]","[0,2]","[1,10]",Investigated,Urticaire
+person,"[36,55]",Italy,"[51447,51845]","[0,2]","[1,10]",Investigated,Chlamydia
+person,"[36,55]",Italy,"[51447,51845]","[0,2]","[1,10]",Pardoned,Zona
+person,"[36,55]",Italy,"[51447,51845]","[0,2]","[1,10]",On Probation,Eczéma
+F,"[74,78]",Italy,"[51384,51645]","[0,2]","[1,5]",Investigated,Rougeole
+F,"[74,78]",Italy,"[51384,51645]","[0,2]","[1,5]",On Probation,Dengue
+F,"[74,78]",Italy,"[51384,51645]","[0,2]","[1,5]",Prescribed,Grippe
+person,"[23,60]",Italy,"[52062,53489]","[0,2]","[3,5]",On Probation,Zona
+person,"[23,60]",Italy,"[52062,53489]","[0,2]","[3,5]",Acquitted,Rougeole
+person,"[23,60]",Italy,"[52062,53489]","[0,2]","[3,5]",Investigated,Healthy
+person,"[23,60]",Italy,"[52062,53489]","[0,2]","[3,5]",Acquitted,Rhino-pharyngite
+person,"[64,76]",Italy,"[51924,53364]","[0,3]","[3,10]",Prescribed,Cataracte
+person,"[64,76]",Italy,"[51924,53364]","[0,3]","[3,10]",On Probation,Grippe
+person,"[64,76]",Italy,"[51924,53364]","[0,3]","[3,10]",On Probation,Varicelle
+person,"[64,76]",Italy,"[51924,53364]","[0,3]","[3,10]",Convicted,Urticaire
+person,"[21,40]",Italy,"[53907,54204]","[0,3]","[3,5]",Investigated,Zona
+person,"[21,40]",Italy,"[53907,54204]","[0,3]","[3,5]",On Parole,Hépatite B
+person,"[21,40]",Italy,"[53907,54204]","[0,3]","[3,5]",On Probation,Scarlatine
+person,"[21,40]",Italy,"[53907,54204]","[0,3]","[3,5]",Pardoned,Urticaire
+person,"[51,74]",Italy,"[53521,54430]","[0,2]","[1,5]",On Parole,Rhino-pharyngite
+person,"[51,74]",Italy,"[53521,54430]","[0,2]","[1,5]",Investigated,Otite
+person,"[51,74]",Italy,"[53521,54430]","[0,2]","[1,5]",Convicted,Varicelle
+person,"[51,74]",Italy,"[53521,54430]","[0,2]","[1,5]",Pardoned,Eczéma
+person,"[21,78]",Italy,"[54497,54817]","[0,4]","[1,10]",On Probation,Rhino-pharyngite
+person,"[21,78]",Italy,"[54497,54817]","[0,4]","[1,10]",Investigated,Healthy
+person,"[21,78]",Italy,"[54497,54817]","[0,4]","[1,10]",Investigated,Rougeole
+person,"[21,78]",Italy,"[54497,54817]","[0,4]","[1,10]",Convicted,Varicelle
+person,"[21,27]",Italy,"[54850,55371]","[0,2]","[1,10]",Convicted,Hépatite C
+person,"[21,27]",Italy,"[54850,55371]","[0,2]","[1,10]",No Records,Eczéma
+person,"[21,27]",Italy,"[54850,55371]","[0,2]","[1,10]",Convicted,Angine
+person,"[21,27]",Italy,"[54850,55371]","[0,2]","[1,10]",Pardoned,Eczéma
+person,"[28,60]",Italy,"[55403,55963]","[1,2]","[1,5]",Convicted,Hépatite C
+person,"[28,60]",Italy,"[55403,55963]","[1,2]","[1,5]",Prescribed,Cataracte
+person,"[28,60]",Italy,"[55403,55963]","[1,2]","[1,5]",Pardoned,Urticaire
+person,"[28,60]",Italy,"[55403,55963]","[1,2]","[1,5]",On Parole,Chlamydia
+person,"[62,79]",Italy,"[55399,56083]","[0,3]","[3,10]",Convicted,Zona
+person,"[62,79]",Italy,"[55399,56083]","[0,3]","[3,10]",Investigated,Grippe
+person,"[62,79]",Italy,"[55399,56083]","[0,3]","[3,10]",No Records,Cataracte
+person,"[20,57]",Italy,"[56268,56792]","[0,3]","[1,10]",On Parole,Zona
+person,"[20,57]",Italy,"[56268,56792]","[0,3]","[1,10]",On Parole,Urticaire
+person,"[20,57]",Italy,"[56268,56792]","[0,3]","[1,10]",Prescribed,Eczéma
+person,"[20,57]",Italy,"[56268,56792]","[0,3]","[1,10]",Pardoned,Hépatite B
+person,"[64,80]",Italy,"[56321,56541]","[0,2]","[1,5]",Investigated,Appendicite
+person,"[64,80]",Italy,"[56321,56541]","[0,2]","[1,5]",On Probation,Scarlatine
+person,"[64,80]",Italy,"[56321,56541]","[0,2]","[1,5]",Pardoned,Chlamydia
+person,"[64,80]",Italy,"[56321,56541]","[0,2]","[1,5]",Investigated,Chlamydia
+person,"[23,46]",Italy,"[56816,57794]","[0,3]","[3,10]",No Records,Cataracte
+person,"[23,46]",Italy,"[56816,57794]","[0,3]","[3,10]",Convicted,Hépatite B
+person,"[23,46]",Italy,"[56816,57794]","[0,3]","[3,10]",On Parole,Angine
+person,"[23,46]",Italy,"[56816,57794]","[0,3]","[3,10]",No Records,Hépatite C
+person,"[21,63]",Italy,"[57796,57960]","[1,2]","[1,10]",No Records,Hépatite B
+person,"[21,63]",Italy,"[57796,57960]","[1,2]","[1,10]",Acquitted,Angine
+person,"[21,63]",Italy,"[57796,57960]","[1,2]","[1,10]",Prescribed,Urticaire
+person,"[21,63]",Italy,"[57796,57960]","[1,2]","[1,10]",Convicted,Rougeole
+person,"[27,73]",Italy,"[58148,58851]","[0,4]","[1,10]",Investigated,Varicelle
+person,"[27,73]",Italy,"[58148,58851]","[0,4]","[1,10]",Acquitted,Otite
+person,"[27,73]",Italy,"[58148,58851]","[0,4]","[1,10]",Pardoned,Grippe
+person,"[27,73]",Italy,"[58148,58851]","[0,4]","[1,10]",On Parole,Dengue
+person,"[27,78]",Italy,"[59021,59514]","[0,2]","[5,10]",Pardoned,Otite
+person,"[27,78]",Italy,"[59021,59514]","[0,2]","[5,10]",Acquitted,Appendicite
+person,"[27,78]",Italy,"[59021,59514]","[0,2]","[5,10]",No Records,Angine
+person,"[27,78]",Italy,"[59021,59514]","[0,2]","[5,10]",Convicted,Healthy
+person,"[19,40]",Italy,"[59592,60563]","[0,3]","[1,10]",Convicted,Cataracte
+person,"[19,40]",Italy,"[59592,60563]","[0,3]","[1,10]",Acquitted,Dengue
+person,"[19,40]",Italy,"[59592,60563]","[0,3]","[1,10]",Investigated,Grippe
+person,"[19,40]",Italy,"[59592,60563]","[0,3]","[1,10]",On Probation,Healthy
+person,"[53,69]",Italy,"[59875,60720]","[0,5]","[3,10]",On Probation,Rhino-pharyngite
+person,"[53,69]",Italy,"[59875,60720]","[0,5]","[3,10]",Acquitted,Eczéma
+person,"[53,69]",Italy,"[59875,60720]","[0,5]","[3,10]",Convicted,Rougeole
+person,"[53,69]",Italy,"[59875,60720]","[0,5]","[3,10]",On Probation,Chlamydia
+person,"[18,43]",Italy,"[61580,62842]","[0,4]","[1,10]",Convicted,Varicelle
+person,"[18,43]",Italy,"[61580,62842]","[0,4]","[1,10]",Convicted,Urticaire
+person,"[18,43]",Italy,"[61580,62842]","[0,4]","[1,10]",Acquitted,Grippe
+person,"[18,43]",Italy,"[61580,62842]","[0,4]","[1,10]",Prescribed,Otite
+person,"[46,52]",Italy,"[60827,64052]","[0,4]","[3,10]",On Probation,Scarlatine
+person,"[46,52]",Italy,"[60827,64052]","[0,4]","[3,10]",No Records,Hépatite B
+person,"[46,52]",Italy,"[60827,64052]","[0,4]","[3,10]",Acquitted,Rougeole
+person,"[46,52]",Italy,"[60827,64052]","[0,4]","[3,10]",On Parole,Urticaire
+person,"[54,63]",Italy,"[61556,63726]","[0,4]","[3,10]",On Parole,Otite
+person,"[54,63]",Italy,"[61556,63726]","[0,4]","[3,10]",Pardoned,Dengue
+person,"[54,63]",Italy,"[61556,63726]","[0,4]","[3,10]",No Records,Cataracte
+person,"[54,63]",Italy,"[61556,63726]","[0,4]","[3,10]",On Parole,Chlamydia
+person,"[68,79]",Italy,"[61479,64002]","[0,2]","[3,5]",Convicted,Rhino-pharyngite
+person,"[68,79]",Italy,"[61479,64002]","[0,2]","[3,5]",Prescribed,Angine
+person,"[68,79]",Italy,"[61479,64002]","[0,2]","[3,5]",On Probation,Chlamydia
+person,"[68,79]",Italy,"[61479,64002]","[0,2]","[3,5]",On Probation,Chlamydia
+person,"[26,50]",Italy,"[64128,65203]","[1,3]","[3,10]",On Probation,Otite
+person,"[26,50]",Italy,"[64128,65203]","[1,3]","[3,10]",Pardoned,Hépatite C
+person,"[26,50]",Italy,"[64128,65203]","[1,3]","[3,10]",No Records,Hépatite C
+person,"[26,50]",Italy,"[64128,65203]","[1,3]","[3,10]",On Probation,Varicelle
+person,"[53,79]",Italy,"[64261,65103]","[0,2]","[1,10]",Pardoned,Appendicite
+person,"[53,79]",Italy,"[64261,65103]","[0,2]","[1,10]",No Records,Rougeole
+person,"[53,79]",Italy,"[64261,65103]","[0,2]","[1,10]",Prescribed,Scarlatine
+person,"[53,79]",Italy,"[64261,65103]","[0,2]","[1,10]",Pardoned,Eczéma
+person,"[32,70]",Italy,"[65431,65659]","[0,3]","[1,10]",Prescribed,Chlamydia
+person,"[32,70]",Italy,"[65431,65659]","[0,3]","[1,10]",On Probation,Chlamydia
+person,"[32,70]",Italy,"[65431,65659]","[0,3]","[1,10]",On Parole,Hépatite B
+person,"[32,70]",Italy,"[65431,65659]","[0,3]","[1,10]",Investigated,Varicelle
+person,"[67,71]",Italy,"[65781,66461]","[1,2]","[1,5]",Prescribed,Varicelle
+person,"[67,71]",Italy,"[65781,66461]","[1,2]","[1,5]",Convicted,Angine
+person,"[67,71]",Italy,"[65781,66461]","[1,2]","[1,5]",Pardoned,Appendicite
+person,"[21,37]",Italy,"[66511,67136]","[0,3]","[1,5]",On Probation,Eczéma
+person,"[21,37]",Italy,"[66511,67136]","[0,3]","[1,5]",Pardoned,Hépatite C
+person,"[21,37]",Italy,"[66511,67136]","[0,3]","[1,5]",Convicted,Rhino-pharyngite
+person,"[21,37]",Italy,"[66511,67136]","[0,3]","[1,5]",Prescribed,Urticaire
+person,"[51,80]",Italy,"[66522,67870]","[0,2]","[3,10]",Acquitted,Urticaire
+person,"[51,80]",Italy,"[66522,67870]","[0,2]","[3,10]",On Parole,Urticaire
+person,"[51,80]",Italy,"[66522,67870]","[0,2]","[3,10]",Prescribed,Cataracte
+person,"[51,80]",Italy,"[66522,67870]","[0,2]","[3,10]",Prescribed,Scarlatine
+person,"[23,51]",Italy,"[68399,70072]","[2,2]","[3,10]",No Records,Rhino-pharyngite
+person,"[23,51]",Italy,"[68399,70072]","[2,2]","[3,10]",No Records,Cataracte
+person,"[23,51]",Italy,"[68399,70072]","[2,2]","[3,10]",Acquitted,Eczéma
+person,"[23,51]",Italy,"[68399,70072]","[2,2]","[3,10]",No Records,Rougeole
+person,"[54,70]",Italy,"[67985,70076]","[2,3]","[1,5]",Acquitted,Varicelle
+person,"[54,70]",Italy,"[67985,70076]","[2,3]","[1,5]",On Parole,Dengue
+person,"[54,70]",Italy,"[67985,70076]","[2,3]","[1,5]",On Parole,Appendicite
+person,"[54,70]",Italy,"[67985,70076]","[2,3]","[1,5]",Pardoned,Angine
+M,"[26,41]",Italy,"[70344,72086]","[0,3]","[1,10]",Acquitted,Scarlatine
+M,"[26,41]",Italy,"[70344,72086]","[0,3]","[1,10]",Investigated,Rougeole
+M,"[26,41]",Italy,"[70344,72086]","[0,3]","[1,10]",Prescribed,Dengue
+M,"[26,41]",Italy,"[70344,72086]","[0,3]","[1,10]",On Probation,Zona
+F,"[57,79]",Italy,"[70469,71327]","[0,3]","[1,10]",Pardoned,Zona
+F,"[57,79]",Italy,"[70469,71327]","[0,3]","[1,10]",Prescribed,Angine
+F,"[57,79]",Italy,"[70469,71327]","[0,3]","[1,10]",Prescribed,Eczéma
+F,"[57,79]",Italy,"[70469,71327]","[0,3]","[1,10]",Acquitted,Otite
+person,"[22,53]",Italy,"[72156,72742]","[2,3]","[3,10]",On Parole,Zona
+person,"[22,53]",Italy,"[72156,72742]","[2,3]","[3,10]",No Records,Rhino-pharyngite
+person,"[22,53]",Italy,"[72156,72742]","[2,3]","[3,10]",On Parole,Cataracte
+person,"[22,53]",Italy,"[72156,72742]","[2,3]","[3,10]",Acquitted,Appendicite
+person,"[64,79]",Italy,"[72686,73339]","[0,3]","[1,10]",Acquitted,Chlamydia
+person,"[64,79]",Italy,"[72686,73339]","[0,3]","[1,10]",On Parole,Angine
+person,"[64,79]",Italy,"[72686,73339]","[0,3]","[1,10]",On Probation,Eczéma
+person,"[36,62]",Italy,"[73553,74421]","[0,3]","[1,10]",No Records,Chlamydia
+person,"[36,62]",Italy,"[73553,74421]","[0,3]","[1,10]",Prescribed,Varicelle
+person,"[36,62]",Italy,"[73553,74421]","[0,3]","[1,10]",Investigated,Dengue
+person,"[36,62]",Italy,"[73553,74421]","[0,3]","[1,10]",No Records,Rhino-pharyngite
+person,"[21,79]",Italy,"[74961,75626]","[0,2]","[1,5]",Investigated,Rhino-pharyngite
+person,"[21,79]",Italy,"[74961,75626]","[0,2]","[1,5]",No Records,Scarlatine
+person,"[21,79]",Italy,"[74961,75626]","[0,2]","[1,5]",Pardoned,Varicelle
+person,"[21,79]",Italy,"[74961,75626]","[0,2]","[1,5]",Acquitted,Angine
+person,"[30,49]",Italy,"[76633,77166]","[2,4]","[1,5]",Convicted,Varicelle
+person,"[30,49]",Italy,"[76633,77166]","[2,4]","[1,5]",Acquitted,Cataracte
+person,"[30,49]",Italy,"[76633,77166]","[2,4]","[1,5]",No Records,Healthy
+person,"[30,49]",Italy,"[76633,77166]","[2,4]","[1,5]",Investigated,Hépatite C
+person,"[60,76]",Italy,"[75831,76660]","[0,1]","[3,10]",On Probation,Otite
+person,"[60,76]",Italy,"[75831,76660]","[0,1]","[3,10]",Investigated,Appendicite
+person,"[60,76]",Italy,"[75831,76660]","[0,1]","[3,10]",Acquitted,Chlamydia
+person,"[60,76]",Italy,"[75831,76660]","[0,1]","[3,10]",Pardoned,Cataracte
+person,"[29,50]",Italy,"[78172,79894]","[0,2]","[1,10]",Pardoned,Grippe
+person,"[29,50]",Italy,"[78172,79894]","[0,2]","[1,10]",No Records,Varicelle
+person,"[29,50]",Italy,"[78172,79894]","[0,2]","[1,10]",No Records,Appendicite
+person,"[29,50]",Italy,"[78172,79894]","[0,2]","[1,10]",Convicted,Healthy
+person,"[52,74]",Italy,"[77503,79608]","[0,4]","[1,5]",On Probation,Dengue
+person,"[52,74]",Italy,"[77503,79608]","[0,4]","[1,5]",Investigated,Scarlatine
+person,"[52,74]",Italy,"[77503,79608]","[0,4]","[1,5]",On Probation,Scarlatine
+person,"[52,74]",Italy,"[77503,79608]","[0,4]","[1,5]",Investigated,Rougeole
+person,"[31,77]",Italy,"[80081,82524]","[0,3]","[1,3]",Acquitted,Otite
+person,"[31,77]",Italy,"[80081,82524]","[0,3]","[1,3]",No Records,Rhino-pharyngite
+person,"[31,77]",Italy,"[80081,82524]","[0,3]","[1,3]",Convicted,Grippe
+person,"[31,77]",Italy,"[80081,82524]","[0,3]","[1,3]",Acquitted,Healthy
+person,"[45,75]",Italy,"[82568,83152]","[1,2]","[3,10]",Pardoned,Urticaire
+person,"[45,75]",Italy,"[82568,83152]","[1,2]","[3,10]",On Probation,Rhino-pharyngite
+person,"[45,75]",Italy,"[82568,83152]","[1,2]","[3,10]",Acquitted,Eczéma
+person,"[23,53]",Italy,"[83426,85203]","[0,3]","[1,10]",On Probation,Hépatite C
+person,"[23,53]",Italy,"[83426,85203]","[0,3]","[1,10]",On Parole,Varicelle
+person,"[23,53]",Italy,"[83426,85203]","[0,3]","[1,10]",Acquitted,Dengue
+person,"[23,53]",Italy,"[83426,85203]","[0,3]","[1,10]",No Records,Zona
+person,"[55,80]",Italy,"[83187,85677]","[1,5]","[1,10]",On Probation,Hépatite C
+person,"[55,80]",Italy,"[83187,85677]","[1,5]","[1,10]",Investigated,Otite
+person,"[55,80]",Italy,"[83187,85677]","[1,5]","[1,10]",Pardoned,Eczéma
+person,"[55,80]",Italy,"[83187,85677]","[1,5]","[1,10]",Investigated,Otite
+person,"[28,43]",Italy,"[86278,88936]","[0,1]","[1,10]",On Parole,Rougeole
+person,"[28,43]",Italy,"[86278,88936]","[0,1]","[1,10]",Investigated,Angine
+person,"[28,43]",Italy,"[86278,88936]","[0,1]","[1,10]",Investigated,Zona
+person,"[28,43]",Italy,"[86278,88936]","[0,1]","[1,10]",Acquitted,Hépatite C
+person,"[45,80]",Italy,"[85846,88744]","[0,4]","[1,5]",Convicted,Rhino-pharyngite
+person,"[45,80]",Italy,"[85846,88744]","[0,4]","[1,5]",On Parole,Rhino-pharyngite
+person,"[45,80]",Italy,"[85846,88744]","[0,4]","[1,5]",On Parole,Cataracte
+person,"[45,80]",Italy,"[85846,88744]","[0,4]","[1,5]",No Records,Hépatite B
+person,"[33,77]",Italy,"[89680,91093]","[2,4]","[1,5]",Prescribed,Urticaire
+person,"[33,77]",Italy,"[89680,91093]","[2,4]","[1,5]",Acquitted,Varicelle
+person,"[33,77]",Italy,"[89680,91093]","[2,4]","[1,5]",Acquitted,Angine
+person,"[33,77]",Italy,"[89680,91093]","[2,4]","[1,5]",Convicted,Rougeole
+person,"[26,78]",Italy,"[91339,92356]","[0,4]","[1,10]",Prescribed,Cataracte
+person,"[26,78]",Italy,"[91339,92356]","[0,4]","[1,10]",Acquitted,Appendicite
+person,"[26,78]",Italy,"[91339,92356]","[0,4]","[1,10]",Prescribed,Eczéma
+person,"[26,78]",Italy,"[91339,92356]","[0,4]","[1,10]",On Probation,Healthy
+person,"[38,55]",Italy,"[92403,93240]","[0,3]","[1,10]",Convicted,Urticaire
+person,"[38,55]",Italy,"[92403,93240]","[0,3]","[1,10]",Convicted,Zona
+person,"[38,55]",Italy,"[92403,93240]","[0,3]","[1,10]",Prescribed,Cataracte
+person,"[38,55]",Italy,"[92403,93240]","[0,3]","[1,10]",Pardoned,Angine
+person,"[42,76]",Italy,"[93659,94970]","[1,2]","[1,3]",On Parole,Otite
+person,"[42,76]",Italy,"[93659,94970]","[1,2]","[1,3]",Investigated,Varicelle
+person,"[42,76]",Italy,"[93659,94970]","[1,2]","[1,3]",On Parole,Grippe
+person,"[42,76]",Italy,"[93659,94970]","[1,2]","[1,3]",On Probation,Chlamydia
+person,"[34,79]",Italy,"[96336,97529]","[0,2]","[1,5]",Prescribed,Varicelle
+person,"[34,79]",Italy,"[96336,97529]","[0,2]","[1,5]",Investigated,Rhino-pharyngite
+person,"[34,79]",Italy,"[96336,97529]","[0,2]","[1,5]",Investigated,Scarlatine
+person,"[34,79]",Italy,"[96336,97529]","[0,2]","[1,5]",On Probation,Hépatite C
+person,"[46,79]",Italy,"[97880,99290]","[0,5]","[1,10]",Convicted,Urticaire
+person,"[46,79]",Italy,"[97880,99290]","[0,5]","[1,10]",No Records,Cataracte
+person,"[46,79]",Italy,"[97880,99290]","[0,5]","[1,10]",On Parole,Zona
+person,"[46,79]",Italy,"[97880,99290]","[0,5]","[1,10]",On Parole,Hépatite B
+person,"[27,66]",Italy,"[99386,100411]","[1,2]","[5,10]",Pardoned,Rougeole
+person,"[27,66]",Italy,"[99386,100411]","[1,2]","[5,10]",Prescribed,Varicelle
+person,"[27,66]",Italy,"[99386,100411]","[1,2]","[5,10]",Convicted,Rougeole
+person,"[27,66]",Italy,"[99386,100411]","[1,2]","[5,10]",Investigated,Urticaire
+person,"[20,78]",Italy,"[100535,101208]","[0,2]","[1,3]",Pardoned,Chlamydia
+person,"[20,78]",Italy,"[100535,101208]","[0,2]","[1,3]",Convicted,Hépatite C
+person,"[20,78]",Italy,"[100535,101208]","[0,2]","[1,3]",Convicted,Rougeole
+person,"[20,78]",Italy,"[100535,101208]","[0,2]","[1,3]",Pardoned,Cataracte
+M,"[39,53]",Italy,"[101503,103736]","[1,5]","[5,10]",Pardoned,Hépatite B
+M,"[39,53]",Italy,"[101503,103736]","[1,5]","[5,10]",Pardoned,Zona
+M,"[39,53]",Italy,"[101503,103736]","[1,5]","[5,10]",Pardoned,Angine
+M,"[39,53]",Italy,"[101503,103736]","[1,5]","[5,10]",Prescribed,Scarlatine
+person,"[61,69]",Italy,"[102099,105086]","[0,3]","[1,5]",Investigated,Dengue
+person,"[61,69]",Italy,"[102099,105086]","[0,3]","[1,5]",Prescribed,Hépatite C
+person,"[61,69]",Italy,"[102099,105086]","[0,3]","[1,5]",On Parole,Rougeole
+person,"[61,69]",Italy,"[102099,105086]","[0,3]","[1,5]",On Probation,Hépatite C
+person,"[20,78]",Italy,"[105796,107240]","[2,5]","[3,5]",Prescribed,Eczéma
+person,"[20,78]",Italy,"[105796,107240]","[2,5]","[3,5]",Investigated,Appendicite
+person,"[20,78]",Italy,"[105796,107240]","[2,5]","[3,5]",Investigated,Rougeole
+person,"[20,78]",Italy,"[105796,107240]","[2,5]","[3,5]",Pardoned,Dengue
+person,"[19,26]",Italy,"[108198,109155]","[3,4]","[1,10]",On Parole,Appendicite
+person,"[19,26]",Italy,"[108198,109155]","[3,4]","[1,10]",No Records,Rhino-pharyngite
+person,"[19,26]",Italy,"[108198,109155]","[3,4]","[1,10]",On Probation,Scarlatine
+person,"[19,57]",Italy,"[110858,113671]","[0,4]","[3,10]",On Probation,Appendicite
+person,"[19,57]",Italy,"[110858,113671]","[0,4]","[3,10]",No Records,Otite
+person,"[19,57]",Italy,"[110858,113671]","[0,4]","[3,10]",On Parole,Otite
+person,"[19,57]",Italy,"[110858,113671]","[0,4]","[3,10]",Prescribed,Appendicite
+person,"[63,75]",Italy,"[112966,114105]","[0,2]","[1,3]",Convicted,Zona
+person,"[63,75]",Italy,"[112966,114105]","[0,2]","[1,3]",No Records,Dengue
+person,"[63,75]",Italy,"[112966,114105]","[0,2]","[1,3]",Prescribed,Urticaire
+person,"[63,75]",Italy,"[112966,114105]","[0,2]","[1,3]",Pardoned,Angine
+person,"[33,65]",Italy,"[114143,119187]","[0,4]","[1,10]",No Records,Eczéma
+person,"[33,65]",Italy,"[114143,119187]","[0,4]","[1,10]",Convicted,Zona
+person,"[33,65]",Italy,"[114143,119187]","[0,4]","[1,10]",Acquitted,Dengue
+person,"[33,65]",Italy,"[114143,119187]","[0,4]","[1,10]",On Probation,Healthy
+person,"[21,62]",Italy,"[120247,120890]","[0,3]","[5,10]",Pardoned,Urticaire
+person,"[21,62]",Italy,"[120247,120890]","[0,3]","[5,10]",On Parole,Scarlatine
+person,"[21,62]",Italy,"[120247,120890]","[0,3]","[5,10]",Investigated,Hépatite C
+person,"[21,62]",Italy,"[120247,120890]","[0,3]","[5,10]",Investigated,Zona
+person,"[20,37]",Italy,"[121606,133781]","[1,5]","[1,5]",On Parole,Hépatite B
+person,"[20,37]",Italy,"[121606,133781]","[1,5]","[1,5]",Pardoned,Urticaire
+person,"[20,37]",Italy,"[121606,133781]","[1,5]","[1,5]",Prescribed,Healthy
+person,"[20,37]",Italy,"[121606,133781]","[1,5]","[1,5]",Investigated,Angine
+person,"[44,56]",Italy,"[122544,138936]","[1,2]","[1,3]",On Parole,Eczéma
+person,"[44,56]",Italy,"[122544,138936]","[1,2]","[1,3]",Acquitted,Zona
+person,"[44,56]",Italy,"[122544,138936]","[1,2]","[1,3]",Prescribed,Otite
+person,"[44,56]",Italy,"[122544,138936]","[1,2]","[1,3]",Prescribed,Healthy
+person,"[58,66]",Italy,"[126007,142025]","[1,3]","[1,10]",No Records,Hépatite C
+person,"[58,66]",Italy,"[126007,142025]","[1,3]","[1,10]",On Parole,Angine
+person,"[58,66]",Italy,"[126007,142025]","[1,3]","[1,10]",On Parole,Varicelle
+person,"[58,66]",Italy,"[126007,142025]","[1,3]","[1,10]",No Records,Rhino-pharyngite
+person,"[71,80]",Isole,"[124009,141093]","[1,4]","[3,5]",Prescribed,Otite
+person,"[71,80]",Isole,"[124009,141093]","[1,4]","[3,5]",Pardoned,Healthy
+person,"[71,80]",Isole,"[124009,141093]","[1,4]","[3,5]",On Probation,Eczéma
+person,"[18,63]",Italy,"[142088,145948]","[0,5]","[3,10]",On Probation,Cataracte
+person,"[18,63]",Italy,"[142088,145948]","[0,5]","[3,10]",Prescribed,Zona
+person,"[18,63]",Italy,"[142088,145948]","[0,5]","[3,10]",On Parole,Healthy
+person,"[18,63]",Italy,"[142088,145948]","[0,5]","[3,10]",Pardoned,Grippe
+person,"[18,58]",Italy,"[148236,155233]","[0,3]","[1,10]",Pardoned,Angine
+person,"[18,58]",Italy,"[148236,155233]","[0,3]","[1,10]",Pardoned,Appendicite
+person,"[18,58]",Italy,"[148236,155233]","[0,3]","[1,10]",Investigated,Cataracte
+person,"[18,58]",Italy,"[148236,155233]","[0,3]","[1,10]",On Probation,Cataracte
+person,"[20,74]",Italy,"[155313,175156]","[2,3]","[3,5]",No Records,Rhino-pharyngite
+person,"[20,74]",Italy,"[155313,175156]","[2,3]","[3,5]",On Probation,Rougeole
+person,"[20,74]",Italy,"[155313,175156]","[2,3]","[3,5]",Convicted,Hépatite B
+person,"[20,74]",Italy,"[155313,175156]","[2,3]","[3,5]",Pardoned,Otite
+M,"[25,74]",Italy,"[177895,180423]","[0,2]","[3,10]",Pardoned,Scarlatine
+M,"[25,74]",Italy,"[177895,180423]","[0,2]","[3,10]",Investigated,Rougeole
+M,"[25,74]",Italy,"[177895,180423]","[0,2]","[3,10]",Investigated,Zona
+M,"[25,74]",Italy,"[177895,180423]","[0,2]","[3,10]",On Parole,Grippe
+person,"[21,54]",Italy,"[186163,245310]","[0,4]","[1,5]",Convicted,Eczéma
+person,"[21,54]",Italy,"[186163,245310]","[0,4]","[1,5]",Prescribed,Appendicite
+person,"[21,54]",Italy,"[186163,245310]","[0,4]","[1,5]",Prescribed,Chlamydia
+person,"[21,54]",Italy,"[186163,245310]","[0,4]","[1,5]",Acquitted,Rhino-pharyngite
+person,"[55,73]",Italy,"[204337,252848]","[0,3]","[5,10]",On Probation,Rhino-pharyngite
+person,"[55,73]",Italy,"[204337,252848]","[0,3]","[5,10]",Acquitted,Healthy
+person,"[55,73]",Italy,"[204337,252848]","[0,3]","[5,10]",On Parole,Varicelle
+person,"[55,73]",Italy,"[204337,252848]","[0,3]","[5,10]",On Parole,Chlamydia
+person,"[32,76]",Italy,"[259289,285005]","[0,3]","[1,3]",Convicted,Rhino-pharyngite
+person,"[32,76]",Italy,"[259289,285005]","[0,3]","[1,3]",Prescribed,Varicelle
+person,"[32,76]",Italy,"[259289,285005]","[0,3]","[1,3]",On Parole,Grippe
+person,"[32,76]",Italy,"[259289,285005]","[0,3]","[1,3]",On Parole,Cataracte
+M,"[52,76]",Italy,"[287233,626814]","[0,3]","[3,5]",Acquitted,Varicelle
+M,"[52,76]",Italy,"[287233,626814]","[0,3]","[3,5]",Prescribed,Scarlatine
+M,"[52,76]",Italy,"[287233,626814]","[0,3]","[3,5]",No Records,Dengue
