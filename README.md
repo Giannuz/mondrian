@@ -44,7 +44,7 @@ Arguments:
 example:
 
 ```shell
-python mondrian.py -o test_id.csv -d dataset.csv -k 3 -SD Disease "Legal Situation" -EI Name Surname -c City Sex -hv mapping_city.json mapping_sex.json -s M -ic True
+python mondrian.py -o test_id.csv -d dataset.csv -k 3 -SD Disease "Legal Situation" -EI Name Surname -c City Sex -hv mapping_city.json mapping_sex.json -s M -ic False
 ```
 
 This script generates a dataset which could be used within an insurance company, returns a csv file containing the following columns:
