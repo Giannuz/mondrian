@@ -39,6 +39,8 @@ Arguments:
 
 - `--explicit-identifiers` if your csv file still contains EI columns you can specify a list of explicit identifiers, the columns will be removed from the csv.
 
+- `-ic` (optional) if set to True the script will ignores categorical attributes (drop them)
+
 example:
 
 ```shell
